@@ -451,7 +451,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"40",
                     "desconto2":"40",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=analise-e-des-de-sistemas",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=analise-sistemas",
                     "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
                     "descricao":"A Graduação Digital em Análise e Desenvolvimento de Sistemas da UNINASSAU busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital. Com a flexibilidade do ensino 100% online, você estuda no seu ritmo e conquista uma formação moderna e valorizada para atuar em um dos setores que mais cresce no Brasil e no mundo.",
                     "disciplina1":"ENSINO DIGITAL",
@@ -710,4 +710,5 @@
 
             }
         }
+
 
