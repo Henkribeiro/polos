@@ -416,7 +416,7 @@
                   
                 },
 
-                "sistema-de-informacao": {
+                "sistemas-de-informacao": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=sistemas-de-informacao-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=sistemas-de-informacao-noite",
                     "original-manha": "1.412,87",
@@ -440,7 +440,7 @@
                   
                 },
 
-                "analise-de-sistemas": {
+                "analise-e-desenvolvimento-de-sistemas": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-analise-e-des-de-sistemas-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-analise-e-des-de-sistemas-noite",
                     "original-manha": "920,56",
@@ -451,7 +451,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"40",
                     "desconto2":"40",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=analise-de-sistemas",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=analise-e-des-de-sistemas",
                     "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
                     "descricao":"A Graduação Digital em Análise e Desenvolvimento de Sistemas da UNINASSAU busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital. Com a flexibilidade do ensino 100% online, você estuda no seu ritmo e conquista uma formação moderna e valorizada para atuar em um dos setores que mais cresce no Brasil e no mundo.",
                     "disciplina1":"ENSINO DIGITAL",
@@ -643,7 +643,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"45",
                     "desconto2":"45",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=campinagrande&curso=superior-de-tecnologia-em-marketing",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=campinagrande&curso=marketing",
                     "nome":"MARKETING",
                     "descricao":"O Curso Superior de Tecnologia em Marketing forma profissionais capazes de compreender o mercado, analisar o comportamento do consumidor e desenvolver estratégias que fortalecem marcas e impulsionam resultados. A formação é atualizada, com diploma reconhecido pelo MEC, e as aulas presenciais oferecem suporte próximo, metodologia prática e um ambiente que estimula criatividade e inovação.",
                     "disciplina1":"GERENCIAMENTO DE PROJETOS",
@@ -709,5 +709,4 @@
 
 
             }
-
         }
