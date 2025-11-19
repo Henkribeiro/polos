@@ -645,7 +645,7 @@
            }, 
  
  
-            "analise-e-desenvolvimento-de-sistemas": { 
+            "analise-de-sistemas": { 
                "checkout-manha": "https://pay.goexplosion.com/link/uninassau-gracas-pe?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas-manha", 
                "checkout-noite": "https://pay.goexplosion.com/link/uninassau-gracas-pe?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas-noite", 
                "original-manha": "1.265,14", 
@@ -655,7 +655,7 @@
                "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:79c160c7-5828-4ddc-a34a-fc78ed5cfd27", 
                "desconto":"45", 
                 "desconto2":"45", 
-               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=gracas&curso=analise-e-desenvolvimento-de-sistemas", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=gracas&curso=analise-de-sistemas", 
                "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMAS", 
                "descricao": "A Graduação Digital em Análise e Desenvolvimento de Sistemas EAD da UNINASSAU busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital. Com a flexibilidade do ensino 100% online, você estuda no seu ritmo e conquista uma formação moderna e valorizada para atuar em um dos setores que mais cresce no Brasil e no mundo.", 
                "disciplina1":"ENSINO DIGITAL", 
@@ -835,3 +835,4 @@
            
 }
 } 
+
