@@ -57,7 +57,7 @@
                   
                 },
                 
-                "arqquitetura-e-urbanismo": {
+                "arquitetura-e-urbanismo": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=arquitetura-e-urbanismo-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=arquitetura-e-urbanismo-noite",
                     "original-manha": "1.618,13",
@@ -541,4 +541,5 @@
 
 
             }
+
         }
