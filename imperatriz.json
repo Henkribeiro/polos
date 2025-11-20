@@ -1,0 +1,104 @@
+{
+    "polo-titulo": "Unidade Imperatriz - MA",
+    "polo-endereco": "Imperial Shopping, Nº 100, Bairro Jardim São Luís, Imperatriz/MA",
+    "polo-cidade": " Imperatriz/MA, 65913-015.",
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=imperatriz",
+    "polo-telefone1": "(99) 98453-0854",
+    "polo-telefone2": "",
+    "polo-whatsapp": "",
+    "polo-google-gtm": "",
+    "polo-facebook-pixel": "",
+
+    "cursos": {                    
+            
+                  
+                "odontologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-imperatriz-ma?utm_source=graduninassau&utm_campaign=odontologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-imperatriz-ma?utm_source=graduninassau&utm_campaign=odontologia-noite",
+                    "original-manha": "3.385,58",
+                    "original-noite":"3.385,58",
+                    "atual-manha":"1.184,95",
+                    "atual-noite":"1.184,95",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1551ef3b-79b5-4bd9-922c-1ef57797a01e",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"65",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=imperatriz&curso=odontologia",
+                    "nome":"ODONTOLOGIA",
+                    "descricao":"A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.",
+                    "disciplina1":"SAÚDE COLETIVA",
+                    "disciplina2":"ANATOMIA HUMANA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"CIRURGIA MAXILO-FACIAL", 
+                    "disciplina5":"PRÓTESE LABORATORIAL",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                 "educacao-fisica": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-imperatriz-ma?utm_source=graduninassau&utm_campaign=educacao-fisica-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-imperatriz-ma?utm_source=graduninassau&utm_campaign=educacao-fisica-noite",
+                    "original-manha": "980,68",
+                    "original-noite":"980,68",
+                    "atual-manha":"588,41",
+                    "atual-noite":"588,41",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2eeee53b-82a7-4d82-8e93-086fe698379f",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"40",
+                    "desconto2":"40",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=imperatriz&curso=educacao-fisica",
+                    "nome":"EDUCAÇÃO FÍSICA",
+                    "descricao":"O curso de Educação Física (Bacharelado) forma profissionais capacitados para atuar na promoção da saúde, na melhoria do desempenho físico e na qualidade de vida por meio do movimento humano. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias atuais que acompanham as demandas do mercado. Ao concluir a graduação, o bacharel estará apto a atuar em academias, clubes, clínicas, centros esportivos, empresas e projetos sociais, com foco em treinamento, condicionamento físico e bem-estar.",
+                    "disciplina1":"ANATOMIA HUMANA",
+                    "disciplina2":"SAÚDE COLETIVA",
+                    "disciplina3":"BIOESTATÍSTICA ",
+                    "disciplina4":"CINESIOLOGIA E BIOMECÂNICA", 
+                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+                    
+                 },
+            
+                  
+                "engenharia-civil": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-imperatriz-ma?utm_source=graduninassau&utm_campaign=engenharia-civil-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-imperatriz-ma?utm_source=graduninassau&utm_campaign=engenharia-civil-noite",
+                    "original-manha": "1.745,66",
+                    "original-noite":"1.745,66",
+                    "atual-manha":"1.047,40",
+                    "atual-noite":"1.047,40",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c30d7fe5-f2b6-4002-871f-e3abac3b4f72",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"40",
+                    "desconto2":"40",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=imperatriz&curso=engenharia-civil",
+                    "nome":"ENGENHARIA CIVIL",
+                    "descricao":"A Graduação em Engenharia Civil no formato Presencial, é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. Com qualidade, você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.",
+                    "disciplina1":"ENGENHARIA E SEGURANÇA DO TRABALHO",
+                    "disciplina2":"FÍSICA DO MOVIMENTO",
+                    "disciplina3":"GEOMETRIA ANALÍTICA",
+                    "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA", 
+                    "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+                }
+        }
+    }
+
+
+
+                 
+
+
+
+
+
+
+ 
+
+
+
+            
+
+

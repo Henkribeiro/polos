@@ -1,0 +1,295 @@
+{
+    "polo-titulo": "Unidade Serra Talhada - PE",
+    "polo-endereco": "Av. Adriano Duque de Godoy Sousa, 01 - Nossa Sra. da Penha, Serra Talhada - PE.",
+    "polo-cidade": " Serra Talhada - PE, 56903-525.",
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=serratalhada",
+    "polo-telefone1": "(87) 98179-7080",
+    "polo-telefone2": "",
+    "polo-whatsapp": "",
+    "polo-google-gtm": "",
+    "polo-facebook-pixel": "",
+
+    "cursos": {
+                
+                "administracao": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=administracao-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=administracao-noite",
+                    "original-manha": "1.048,79",
+                    "original-noite":"1.048,79",
+                    "atual-manha":"576,83",
+                    "atual-noite":"576,83",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:f07aa412-96b5-4233-9534-456664bbf03b",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"45",
+                    "desconto2":"45",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=serratalhada&curso=administracao",
+                    "nome":"ADMINSITRAÇÃO",
+                    "descricao":"O curso de Administração forma profissionais capacitados para liderar e gerir eficientemente organizações num ambiente competitivo. Oferece uma formação atualizada, com diploma reconhecido pelo MEC. Suporte personalizado e metodologias premiadas que combinam analytics e técnicas motivacionais. Ao se formar, os graduados estão preparados para atuar como Administradores, Empreendedores, Consultores e Gestores em diversas áreas empresariais.",
+                    "disciplina1":"CONTABILIDADE APLICADA",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"TEORIA DA ADMINISTRAÇÃO",
+                    "disciplina4":"FUNDAMENTOS DE ESTATÍSTICA", 
+                    "disciplina5":"GESTÃO DA QUALIDADE",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                 "biomedicina": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=biomedicina-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=biomedicina-noite",
+                    "original-manha": "1.335,86",
+                    "original-noite":"1.335,86",
+                    "atual-manha":"734,72",
+                    "atual-noite":"467,55",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7808d98d-369c-42ee-8210-64774a22cb18",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"45",
+                    "desconto2":"65",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=biomedicina",
+                    "nome":"BIOMEDICINA",
+                    "descricao":"A Graduação presencial em Biomedicina oferece uma formação sólida nas áreas de diagnóstico laboratorial, pesquisa científica e análises clínicas. Com infraestrutura de laboratórios modernos e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade e excelência na promoção da saúde, prevenção de doenças e desenvolvimento de tecnologias biomédicas. É ideal para quem busca uma carreira técnica, inovadora e com ampla inserção no mercado de trabalho.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
+                    "disciplina4":"PSICOLOGIA EM SAÚDE", 
+                    "disciplina5":"ANATOMIA HUMANA",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+
+                  
+                },
+
+                "ciencias-contabeis": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=ciencias-contabeis-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=ciencias-contabeis-noite",
+                    "original-manha": "1.048,79",
+                    "original-noite":"1.048,79",
+                    "atual-manha":"576,83",
+                    "atual-noite":"576,83",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c46fae89-407f-4103-82e4-b8dfbb81f114",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"45",
+                    "desconto2":"45",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=serratalhada&curso=ciencias-contabeis",
+                    "nome":"CIÊNCIAS CONTÁBEIS",
+                    "descricao":"O curso de Ciências Contábeis forma profissionais capacitados para gerir informações financeiras, patrimoniais e econômicas das organizações, garantindo transparência e apoio à tomada de decisões. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias inovadoras que integram teoria e prática. Ao se formar, o contador estará preparado para atuar em empresas privadas, órgãos públicos, auditorias, consultorias e como profissional autônomo, com destaque para a análise contábil, tributária e gerencial.",
+                    "disciplina1":"MATEMÁTICA FINANCEIRA",
+                    "disciplina2":"CONTABILIDADE APLICADA",
+                    "disciplina3":"CONTABILIDADE DE CUSTOS",
+                    "disciplina4":"MERCADO FINANCEIRO E DE CAPITAIS", 
+                    "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA;",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+                  
+                },
+                
+                "direito": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=direito-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=direito-noite",
+                    "original-manha": "1.571,77",
+                    "original-noite":"1.571,77",
+                    "atual-manha":"550,12",
+                    "atual-noite":"628,71",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49f34b9d-72f6-4524-baa2-3908ad0dfa7d",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=serratalhada&curso=direito",
+                    "nome":"DIREITO",
+                    "descricao":"O curso de Direito forma profissionais preparados para compreender, interpretar e aplicar as normas jurídicas, promovendo a justiça e a cidadania. Reconhecido pelo MEC, o curso alia formação teórica sólida a práticas jurídicas atualizadas, estimulando o pensamento crítico e a ética profissional. Ao concluir a graduação, o bacharel estará apto a atuar como advogado, consultor jurídico, gestor público ou privado, além de poder seguir carreira em concursos e na magistratura, contribuindo para a construção de uma sociedade mais justa e democrática.",
+                    "disciplina1":"DIREITO DAS OBRIGAÇÕES",
+                    "disciplina2":"TEORIA GERAL DO PROCESSO",
+                    "disciplina3":"DIREITO DO CONSUMIDOR",
+                    "disciplina4":"DIREITO FINANCEIRO", 
+                    "disciplina5":"DIREITO DAS FAMÍLIAS",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+                },
+
+                "enfermagem": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=enfermagem-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=enfermagem-noite",
+                    "original-manha": "1.451,00",
+                    "original-noite":"1.451,00",
+                    "atual-manha":"507,85",
+                    "atual-noite":"580,40",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644",    
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=enfermagem",
+                    "nome":"ENFERMAGEM",
+                    "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.",
+                    "disciplina1":"SAÚDE COLETIVA",
+                    "disciplina2":"BIOESTATÍSTICA",
+                    "disciplina3":"BIOQUÍMICA HUMANA",
+                    "disciplina4":"FISIOLOGIA HUMANA", 
+                    "disciplina5":"ANATOMIA HUMANA",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                 "farmacia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=farmacia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=farmacia-noite",
+                    "original-manha": "1.243,54",
+                    "original-noite":"1.243,54",
+                    "atual-manha":"559,59",
+                    "atual-noite":"497,42",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:07e52a05-a69b-4fc2-9c59-2d1c33dc0cc8",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"55",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=farmacia",
+                    "nome":"FARMÁCIA",
+                    "descricao":"A Graduação Presencial em Farmácia prepara profissionais para atuar em diversas áreas, como farmácia clínica, hospitalar, industrial e laboratorial. O curso combina teoria e prática em disciplinas como farmacologia, química, toxicologia e controle de qualidade, formando um farmacêutico ético, crítico e preparado para lidar com os desafios do cuidado à saúde e da indústria farmacêutica. A vivência em laboratórios e estágios amplia a experiência e a empregabilidade do aluno.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
+                    "disciplina4":"PSICOLOGIA EM SAÚDE", 
+                    "disciplina5":"ANATOMIA HUMANA",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+
+                  
+                },
+
+                "fisioterapia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=fisioterapia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=fisioterapia-noite",
+                    "original-manha": "1.451,00",
+                    "original-noite":"1.451,00",
+                    "atual-manha":"507,85",
+                    "atual-noite":"580,40",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff0acfe6-1305-4681-8258-48794133accb",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=fisioterapia",
+                    "nome":"FISIOTERAPIA",
+                    "descricao":"A graduação Presencial em Fisioterapia forma profissionais capacitados para promover a recuperação funcional e a qualidade de vida de pacientes em diferentes contextos. Por meio de aulas teóricas e práticas, o curso oferece uma base completa em anatomia, biomecânica, fisiologia e reabilitação, com estágio supervisionado em clínicas e hospitais. O fisioterapeuta atua na prevenção, tratamento e reabilitação de disfunções do movimento humano, sendo peça essencial em equipes multidisciplinares de saúde.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
+                    "disciplina4":"PSICOLOGIA EM SAÚDE", 
+                    "disciplina5":"ANATOMIA HUMANA",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                  
+                "medicina-veterinaria": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=medicina-veterinaria-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=medicina-veterinaria-noite",
+                    "original-manha": "3.238,44",
+                    "original-noite":"3.238,44",
+                    "atual-manha":"1.133,45",
+                    "atual-noite":"1.295,38",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:593f52e0-3c9d-463d-8651-b9181b74cac9",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=medicina-veterinaria",
+                    "nome":"MEDICINA VETERINÁRIA",
+                    "descricao":"A Graduação presencial em Medicina Veterinária oferece uma formação sólida nas áreas de clínica, cirurgia, diagnóstico e prevenção de doenças em animais de pequeno e grande porte. Com infraestrutura moderna, laboratórios especializados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, ética e excelência na saúde animal, na saúde pública e no bem-estar dos animais. É ideal para quem busca uma carreira comprometida com a vida, diversa em possibilidades de atuação e em constante crescimento no mercado de trabalho.",
+                    "disciplina1":"BIOESTATÍSTICA",
+                    "disciplina2":"FARMACOLOGIA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA", 
+                    "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                  
+                "odontologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=odontologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=odontologia-noite",
+                    "original-manha": "3.306,56",
+                    "original-noite":"3.306,56",
+                    "atual-manha":"1.157,30",
+                    "atual-noite":"1.322,62",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1551ef3b-79b5-4bd9-922c-1ef57797a01e",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=odontologia",
+                    "nome":"ODONTOLOGIA",
+                    "descricao":"A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.",
+                    "disciplina1":"SAÚDE COLETIVA",
+                    "disciplina2":"ANATOMIA HUMANA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"CIRURGIA MAXILO-FACIAL", 
+                    "disciplina5":"PRÓTESE LABORATORIAL",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+                  
+                },
+
+                "psicologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=psicologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=psicologia-noite",
+                    "original-manha": "1.510,98",
+                    "original-noite":"1.510,98",
+                    "atual-manha":"528,84",
+                    "atual-noite":"604,39",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=serratalhada&curso=psicologia",
+                    "nome":"PSICOLOGIA",
+                    "descricao":"O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.",
+                    "disciplina1":"PSICOLOGIA DA PERSONALIDADE",
+                    "disciplina2":"PSICOLOGIA SOCIAL",
+                    "disciplina3":"DESENVOLVIMENTO INFANTIL",
+                    "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
+                    "disciplina5":"EMPREENDEDORISMO",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+                
+                    },
+
+                "terapia-ocupacional": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=terapia-ocupacional-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-serra-talhada-pe?utm_source=graduninassau&utm_campaign=terapia-ocupacional-noite",
+                    "original-manha": "1.184,55",
+                    "original-noite":"1.184,55",
+                    "atual-manha":"533,05",
+                    "atual-noite":"473,82",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:db8eb385-3f3b-41c0-8309-82ca672069f3",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"55",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=serratalhada&curso=terapia-ocupacional",
+                    "nome":"Terapia Ocupacional",
+                    "descricao":"O curso de presencial de Terapia Ocupacional forma profissionais preparados para atuar na prevenção, tratamento e reabilitação de pessoas em diferentes fases da vida. Você aprenderá a desenvolver atividades terapêuticas que favorecem a independência, inclusão social e bem-estar, ajudando indivíduos a superarem desafios físicos, cognitivos, emocionais ou sociais. Com uma formação sólida e humanizada para atuar em hospitais, clínicas, escolas, centros de reabilitação, projetos sociais e muito mais, sempre com foco em oferecer novas possibilidades de vida para cada paciente.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"SAÚDE COLETIVA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"PSICOLOGIA DA SAÚDE", 
+                    "disciplina5":"FISIOLOGIA HUMANA",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+                }
+        }
+}
+
+
+
+
+
+
+
+ 
+
+
+
+            
+
+

@@ -1,0 +1,395 @@
+{ 
+
+    "polo-titulo": "Unidade Vitória da Conquista - BA", 
+    "polo-endereco": "Av. Olívia Flores, nº 2500, Shopping Boulevard, L2 - LOJA: 2057, Universidade, Vitória da Conquista/BA", 
+    "polo-cidade": "Vitória da Consquista - PE, 45.031-000", 
+    "polo-telefone1": "+55 (77) 3429-6470", 
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=vitoriadaconquista", 
+    "polo-telefone2": "", 
+    "polo-whatsapp": "", 
+    "polo-google-gtm": "", 
+    "polo-facebook-pixel": "", 
+
+    "cursos": { 
+
+          "administracao": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=administracao-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=administracao-noite", 
+               "original-manha": "1.350,06", 
+               "original-noite":"1.350,06", 
+               "atual-manha":"540,02", 
+               "atual-noite":"540,02", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:f07aa412-96b5-4233-9534-456664bbf03b", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"60", 
+               "desconto2":"60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=vitoriadaconquista&curso=administracao", 
+               "nome":"ADMINISTRAÇÃO", 
+               "descricao":"O curso de Administração da UNINASSAU Polo Graças tem como objetivo formar profissionais capazes de planejar, organizar, dirigir e controlar os recursos organizacionais, contribuindo para o desenvolvimento sustentável das empresas e da sociedade. Com uma abordagem prática e atualizada, o curso prepara os alunos para enfrentar os desafios do mercado de trabalho, promovendo habilidades em liderança, gestão de equipes, análise financeira e estratégias empresariais.", 
+               "disciplina1":"Fundamentos de Administração", 
+               "disciplina2":"Marketing e Vendas", 
+               "disciplina3":"Gestão de Pessoas", 
+               "disciplina4":"Finanças Corporativas",  
+               "disciplina5":"Planejamento Estratégico", 
+               "tempo":"4", 
+               "grau": "Bacharelado" 
+              
+           }, 
+  
+            
+           "arquitetura-e-urbanismo": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=arquitetura-e-urbanismo-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=arquitetura-e-urbanismo-noite", 
+               "original-manha": "1.633,05", 
+               "original-noite":"1.795,76", 
+               "atual-manha":"653,22", 
+               "atual-noite":"718,30", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9b63f696-6228-474c-91ba-99e5288a866b", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"60", 
+               "desconto2": "60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=vitoriadaconquista&curso=arquitetura-e-urbanismo", 
+               "nome":"ARQUITETURA E URBANISMO", 
+               "descricao":"A graduação em Arquitetura e Urbanismo no formato Presencial visa o desenvolvimento técnico, criativo e profissional de futuros arquitetos, capacitando-os para projetar, planejar e transformar espaços urbanos e construções com inovação e responsabilidade. O curso estimula a criatividade e o pensamento crítico, formando profissionais preparados para enfrentar os desafios contemporâneos da cidade e do ambiente construído. Com uma matriz curricular alinhada às principais abordagens da área, a graduação oferece uma formação completa e conectada às exigências do mercado. É a escolha ideal para quem deseja construir uma carreira sólida e se destacar em um setor dinâmico e competitivo.", 
+               "disciplina1":"ENSINO DIGITAL", 
+               "disciplina2":"LEGISLAÇÃO URBANA", 
+               "disciplina3":"DESENHO ARTÍSTICO ", 
+               "disciplina4":"ESTÉTICA",  
+               "disciplina5":"METODOLOGIA DA PESQUISA", 
+               "tempo":"5", 
+       	       "grau": "Bacharelado" 
+              
+           }, 
+ 
+           "biomedicina": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=biomedicina-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=biomedicina-noite", 
+               "original-manha": "1.571,82", 
+               "original-noite":"1.571,82", 
+               "atual-manha":"628,73", 
+               "atual-noite":"628,73", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7808d98d-369c-42ee-8210-64774a22cb18", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"60", 
+       	       "desconto2": "60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=biomedicina", 
+               "nome":"BIOMEDICINA", 
+               "descricao":"A Graduação presencial em Biomedicina oferece uma formação sólida nas áreas de diagnóstico laboratorial, pesquisa científica e análises clínicas. Com infraestrutura de laboratórios modernos e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade e excelência na promoção da saúde, prevenção de doenças e desenvolvimento de tecnologias biomédicas. É ideal para quem busca uma carreira técnica, inovadora e com ampla inserção no mercado de trabalho.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA;", 
+               "tempo":"4", 
+               "grau": "Bacharelado" 
+              
+           }, 
+ 
+           "direito": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=direito-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=direito-noite", 
+               "original-manha": "1.818,97", 
+               "original-noite":"1.818,97", 
+               "atual-manha":"727,59", 
+               "atual-noite":"727,59", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49f34b9d-72f6-4524-baa2-3908ad0dfa7d", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"60", 
+               "desconto2":"60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=vitoriadaconquista&curso=direito", 
+               "nome":"DIREITO", 
+               "descricao":"O curso de Direito forma profissionais preparados para compreender, interpretar e aplicar as normas jurídicas, promovendo a justiça e a cidadania. Reconhecido pelo MEC, o curso alia formação teórica sólida a práticas jurídicas atualizadas, estimulando o pensamento crítico e a ética profissional. Ao concluir a graduação, o bacharel estará apto a atuar como advogado, consultor jurídico, gestor público ou privado, além de poder seguir carreira em concursos e na magistratura, contribuindo para a construção de uma sociedade mais justa e democrática.", 
+               "disciplina1":"DIREITO DAS OBRIGAÇÕES", 
+               "disciplina2":"TEORIA GERAL DO PROCESSO", 
+               "disciplina3":"DIREITO DO CONSUMIDOR", 
+               "disciplina4":"DIREITO FINANCEIRO",  
+               "disciplina5":"DIREITO DAS FAMÍLIAS;", 
+               "tempo":"4", 
+               "grau": "Bacharelado" 
+           }, 
+  
+ 
+   	       "enfermagem": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=enfermagem-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=enfermagem-noite", 
+               "original-manha": "1.796,89", 
+               "original-noite":"1.796,89", 
+               "atual-manha":"718,76", 
+               "atual-noite":"718,76", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644", 
+               "desconto":"60", 
+               "desconto2":"60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=enfermagem", 
+               "nome":"ENFERMAGEM", 
+               "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.", 
+               "disciplina1":"ANATOMIA HUMANA", 
+               "disciplina2":"SAÚDE COLETIVA", 
+               "disciplina3":"BIOESTATÍSTICA", 
+               "disciplina4":"FISIOLOGIA HUMANA",  
+               "disciplina5":"BIOQUÍMICA HUMANA;", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+  
+ 
+            "engenharia-civil": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=engenharia-civil-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=engenharia-civil-noite", 
+               "original-manha": "1.818,82", 
+               "original-noite":"1.818,82", 
+               "atual-manha":"1.091,29", 
+               "atual-noite":"1.091,29", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c30d7fe5-f2b6-4002-871f-e3abac3b4f72", 
+               "desconto":"40", 
+       	       "desconto2":"40", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vitoriadaconquista&curso=engenharia-civil", 
+               "nome":"ENGENHARIA CIVIL", 
+               "descricao":"A Graduação em Engenharia Civil no formato Presencial da UNINASSAU é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. Com a qualidade da UNINASSAU, você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.", 
+               "disciplina1":"ENGENHARIA E SEGURANÇA DO TRABALHO", 
+               "disciplina2":"FÍSICA DO MOVIMENTO", 
+               "disciplina3":"GEOMETRIA ANALÍTICA", 
+               "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA",  
+               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA;", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+   	       "engenharia-da-computacao": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=engenharia-da-computacao-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=engenharia-da-computacao-noite", 
+               "original-manha": "1.753,02", 
+               "original-noite":"1.753,02", 
+               "atual-manha":"788,86", 
+               "atual-noite":"788,86", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:08b9b816-58cc-472d-ae67-a9515831dd0a", 
+               "desconto":"55", 
+       	       "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vitoriadaconquista&curso=engenharia-da-computacao", 
+               "nome":"ENGENHARIA DA COMPUTAÇÃO", 
+               "descricao":"O curso presencial de Engenharia da Computação foi desenvolvido para formar profissionais capazes de projetar, desenvolver e gerenciar sistemas de hardware e software que movimentam o mundo moderno. Aqui, você alia conhecimento técnico de ponta com uma visão prática e inovadora para atuar em diferentes setores: tecnologia da informação, telecomunicações, automação, inteligência artificial, segurança digital e muito mais. Seja protagonista na construção do futuro digital e conquiste uma carreira sólida, valorizada e cheia de oportunidades no Brasil e no exterior.", 
+               "disciplina1":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE", 
+               "disciplina2":"DESIGN CENTRADO NO SER HUMANO", 
+               "disciplina3":"LÓGICA DE PROGRAMAÇÃO", 
+               "disciplina4":"LÓGICA MATEMÁTICA",  
+               "disciplina5":"SISTEMAS COMPUTACIONAI;", 
+               "tempo":"4", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+ 
+ 
+ 
+   	       "engenharia-eletrica": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=engenharia-eletrica-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=engenharia-eletrica-noite", 
+               "original-manha": "1.818,82", 
+               "original-noite":"1.818,82", 
+               "atual-manha":"1.000,35", 
+               "atual-noite":"1.000,35", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:18d91e40-c981-44c2-a48f-bc04ed575634", 
+               "desconto":"45", 
+       	       "desconto2":"45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vitoriadaconquista&curso=engenharia-eletrica", 
+               "nome":"ENGENHARIA ELÉTRICA", 
+               "descricao":"A Graduação em Engenharia Elétrica no formato Presencial da UNINASSAU é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. O curso alia a flexibilidade do digital à prática dos laboratórios presenciais, garantindo uma formação completa e atualizada. Com a qualidade da UNINASSAU, você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.", 
+               "disciplina1":"GESTÃO DE PROJETOS", 
+               "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
+               "disciplina3":"ELETRICIDADE E MAGNETISMO", 
+               "disciplina4":"SISTEMAS E REDES DE TELECOMUNICAÇÕES",  
+               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO;", 
+               "tempo":"5", 
+                "grau": "Bacharelado"                   
+           }, 
+
+   	       "farmacia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=farmacia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=farmacia-noite", 
+               "original-manha": "1.663,94", 
+               "original-noite":"1.663,94", 
+               "atual-manha":"665,58", 
+               "atual-noite":"665,58", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:07e52a05-a69b-4fc2-9c59-2d1c33dc0cc8", 
+               "desconto":"60", 
+       	       "desconto2":"60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=farmacia", 
+               "nome":"FARMÁCIA", 
+               "descricao":"A Graduação Presencial em Farmácia prepara profissionais para atuar em diversas áreas, como farmácia clínica, hospitalar, industrial e laboratorial. O curso combina teoria e prática em disciplinas como farmacologia, química, toxicologia e controle de qualidade, formando um farmacêutico ético, crítico e preparado para lidar com os desafios do cuidado à saúde e da indústria farmacêutica. A vivência em laboratórios e estágios amplia a experiência e a empregabilidade do aluno.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA;", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+   	       "fisioterapia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=fisioterapia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=fisioterapia-noite", 
+               "original-manha": "1.571,81", 
+               "original-noite":"1.717,64", 
+               "atual-manha":"628,72", 
+               "atual-noite":"687,06", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff0acfe6-1305-4681-8258-48794133accb", 
+               "desconto":"60", 
+       	       "desconto2":"60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=fisioterapia", 
+               "nome":"FISIOTERAPIA", 
+               "descricao":"A graduação Presencial em Fisioterapia forma profissionais capacitados para promover a recuperação funcional e a qualidade de vida de pacientes em diferentes contextos. Por meio de aulas teóricas e práticas, o curso oferece uma base completa em anatomia, biomecânica, fisiologia e reabilitação, com estágio supervisionado em clínicas e hospitais. O fisioterapeuta atua na prevenção, tratamento e reabilitação de disfunções do movimento humano, sendo peça essencial em equipes multidisciplinares de saúde.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA;", 
+               "tempo":"5", 
+                "grau": "Bacharelado" 
+              
+           }, 
+  
+ 
+   	       "medicina-veterinaria": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=medicina-veterinaria-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=medicina-veterinaria-noite", 
+               "original-manha": "3.337,23", 
+               "original-noite":"3.337,23", 
+               "atual-manha":"1.334,89", 
+               "atual-noite":"1.334,89", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e73baa96-7692-425e-ad27-ca644f9dae03", 
+               "desconto":"60", 
+       	       "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=medicina-veterinaria", 
+               "nome":"MEDICINA VETERINÁRIA", 
+               "descricao":"A Graduação presencial em Medicina Veterinária oferece uma formação sólida nas áreas de clínica, cirurgia, diagnóstico e prevenção de doenças em animais de pequeno e grande porte. Com infraestrutura moderna, laboratórios especializados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, ética e excelência na saúde animal, na saúde pública e no bem-estar dos animais. É ideal para quem busca uma carreira comprometida com a vida, diversa em possibilidades de atuação e em constante crescimento no mercado de trabalho.", 
+               "disciplina1":"BIOESTATÍSTICA", 
+               "disciplina2":"FARMACOLOGIA", 
+               "disciplina3":"EMPREENDEDORISMO", 
+               "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA",  
+               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS;", 
+               "tempo":"5", 
+                "grau": "Bacharelado" 
+              
+           },  
+ 
+ 
+      	    "odontologia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=odontologia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=odontologia-noite", 
+               "original-manha": "3.837,28", 
+               "original-noite":"3.837,28", 
+               "atual-manha":"1.534,91", 
+               "atual-noite":"1.534,91", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1551ef3b-79b5-4bd9-922c-1ef57797a01e", 
+               "desconto":"55", 
+       	       "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=odontologia", 
+               "nome":"ODONTOLOGIA", 
+               "descricao": "A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.", 
+               "disciplina1":"SAÚDE COLETIVA", 
+               "disciplina2":"ANATOMIA HUMANA", 
+               "disciplina3":"EMPREENDEDORISMO", 
+               "disciplina4":"CIRURGIA MAXILO-FACIAL",  
+               "disciplina5":"PRÓTESE LABORATORIAL;", 
+               "tempo":"5",
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+ 
+   	       "pedagogia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=pedagogia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=pedagogia-noite", 
+               "original-manha": "765,71", 
+               "original-noite":"805,33", 
+               "atual-manha":"459,43", 
+               "atual-noite":"483,20", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b80aab35-ad6b-4432-86b8-55070253cff4", 
+               "desconto":"40", 
+               "desconto2":"40", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/educacao/?unidade=vitoriadaconquista&curso=pedagogia", 
+               "nome":"PEDAGOGIA", 
+               "descricao": "A Graduação em Pedagogia Presencial da UNINASSAU visa o desenvolvimento pessoal, acadêmico e profissional, capacitando educadores para atuar com excelência na formação de crianças, jovens e adultos. O curso promove a construção de práticas pedagógicas inovadoras, formando profissionais criativos, comprometidos e preparados para os desafios da educação contemporânea. Com uma matriz curricular focada nas principais abordagens educacionais, a graduação oferece uma formação completa e alinhada às necessidades do mercado. É a oportunidade ideal para transformar vidas por meio da educação e construir uma carreira sólida em um setor essencial para o futuro da sociedade.", 
+               "disciplina1":"LINGUA BRASILEIRA DE SINAIS - LIBRAS", 
+               "disciplina2":"DIDATICA", 
+               "disciplina3":"HISTÓRIA DA EDUCAÇÃO", 
+               "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM",  
+               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;", 
+               "tempo":"4", 
+               "grau": "Licenciatura" 
+           }, 
+ 
+ 
+ 
+   	       "psicologia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=psicologia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=psicologia-noite", 
+               "original-manha": "1.687,12", 
+               "original-noite":"1.687,12", 
+               "atual-manha":"674,85", 
+               "atual-noite":"674,85", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c", 
+               "desconto":"60", 
+       	       "desconto2":"60", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=vitoriadaconquista&curso=psicologia", 
+               "nome":"PSICOLOGIA", 
+               "descricao": "O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.", 
+               "disciplina1":"PSICOLOGIA DA PERSONALIDADE", 
+               "disciplina2":"PSICOLOGIA SOCIAL", 
+               "disciplina3":"DESENVOLVIMENTO INFANTIL", 
+               "disciplina4":"PSICOLOGIA E EDUCAÇÃO",  
+               "disciplina5":"EMPREENDEDORISMO;", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+ 
+   	       "design-de-interiores": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-design-de-interiores-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-design-de-interiores-noite", 
+               "original-manha": "875,39", 
+               "original-noite":"985,10", 
+               "atual-manha":"393,93", 
+               "atual-noite":"443,30", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:79c160c7-5828-4ddc-a34a-fc78ed5cfd27", 
+               "desconto":"55", 
+       	       "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=vitoriadaconquista&curso=design-de-interiores", 
+               "nome":"DESIGN DE INTERIORES", 
+               "descricao": "O curso de Design de Interiores forma profissionais preparados para criar ambientes funcionais, estéticos e confortáveis, capazes de transformar espaços e promover bem-estar. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a criatividade, a análise espacial, a escolha de materiais e a ética profissional. Ao concluir a graduação, o designer de interiores estará apto a atuar em residências, estabelecimentos comerciais, escritórios, empresas de arquitetura, construtoras e projetos de ambientação, desenvolvendo soluções que equilibram funcionalidade, beleza e identidade para diferentes perfis de clientes.", 
+               "disciplina1":"ENSINO DIGITAL", 
+               "disciplina2":"EMPREENDEDORISMO", 
+               "disciplina3":"MAQUETES", 
+               "disciplina4":"COMPOSIÇÃO PAISAGÍSTICA",  
+               "disciplina5":"ERGONOMIA APLICADA A INTERIORES;", 
+               "tempo":"2",
+               "grau": "Tecnólogo" 
+           }, 
+ 
+ 
+   	       "estetica-e-cosmetica": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-estetica-e-cosmetica-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vitoria-conquista-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-estetica-e-cosmetica-noite", 
+               "original-manha": "985,10", 
+               "original-noite":"985,10", 
+               "atual-manha":"492,55", 
+               "atual-noite":"492,55", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c1acdb9f-db4d-49d1-95a4-4bde6e960845", 
+               "desconto":"50", 
+       	       "desconto2":"50", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=estetica-e-cosmetica", 
+               "nome":"ESTÉTICA E COSMÉTICA", 
+               "descricao": "O curso de presencial de Estética e Cosmética prepara você para atuar em um dos setores que mais crescem no Brasil e no mundo. Com uma formação completa e atualizada, você aprenderá técnicas avançadas de cuidados estéticos, procedimentos faciais, corporais e capilares, além de fundamentos em saúde, cosmetologia e gestão de negócios. Mais do que desenvolver habilidades técnicas, você será capacitado(a) para oferecer experiências de bem-estar e autoestima, conquistando espaço em clínicas, spas, salões, empreendimentos próprios e no mercado da beleza e da estética.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"FARMACOLOGIA APLICADA",  
+               "disciplina5":"ANATOMIA HUMANA;", 
+               "tempo":"2,5",
+               "grau": "Tecnólogo" 
+           }
+         }
+    }

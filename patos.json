@@ -1,0 +1,111 @@
+{
+    "polo-titulo": "Unidade Patos - PB",
+    "polo-endereco": "Shopping Patos – Rua Horácio Nóbrega, Nº 199",
+    "polo-cidade": "Bela Vista, CEP 58700-004",
+    "polo-telefone1": "+55   (83) 99125-2848",
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=patos",
+    "polo-telefone2": "",
+    "polo-whatsapp": "",
+    "polo-google-gtm": "",
+    "polo-facebook-pixel": "",
+
+    "cursos": {
+
+                
+ 
+                "direito": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=direito-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=direito-noite",
+                    "original-manha": "1.417,26",
+                    "original-noite":"1.417,26",
+                    "atual-manha":"850,35",
+                    "atual-noite":"850,35",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49f34b9d-72f6-4524-baa2-3908ad0dfa7d",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"40",
+                    "desconto2":"40",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=patos&curso=direito",    
+                    "nome":"DIREITO",
+                    "descricao":"O curso de Direito forma profissionais preparados para compreender, interpretar e aplicar as normas jurídicas, promovendo a justiça e a cidadania. Reconhecido pelo MEC, o curso alia formação teórica sólida a práticas jurídicas atualizadas, estimulando o pensamento crítico e a ética profissional. Ao concluir a graduação, o bacharel estará apto a atuar como advogado, consultor jurídico, gestor público ou privado, além de poder seguir carreira em concursos e na magistratura, contribuindo para a construção de uma sociedade mais justa e democrática.",
+                    "disciplina1":"DIREITO DAS OBRIGAÇÕES",
+                    "disciplina2":"TEORIA GERAL DO PROCESSO",
+                    "disciplina3":"DIREITO DO CONSUMIDOR",
+                    "disciplina4":"DIREITO FINANCEIRO", 
+                    "disciplina5":"DIREITO DAS FAMÍLIAS",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+              
+                },
+                   
+                "enfermagem": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=enfermagem-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=enfermagem-noite",
+                    "original-manha": "1.481,90",
+                    "original-noite":"1.481,90",
+                    "atual-manha":"740,95",
+                    "atual-noite":"740,95",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"50",
+                    "desconto2":"50",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=patos&curso=enfermagem",                  
+                    "nome":"ENFERMAGEM",
+                    "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.",
+                    "disciplina1":"SAÚDE COLETIVA",
+                    "disciplina2":"BIOESTATÍSTICA",
+                    "disciplina3":"BIOQUÍMICA HUMANA",
+                    "disciplina4":"FISIOLOGIA HUMANA", 
+                    "disciplina5":"ANATOMIA HUMANA",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+
+
+               },
+               
+                "odontologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=odontologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=odontologia-noite",
+                    "original-manha": "3.111,35",
+                    "original-noite":"3.111,35",
+                    "atual-manha":"1.400,11",
+                    "atual-noite":"1.400,11",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1551ef3b-79b5-4bd9-922c-1ef57797a01e",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"55",
+                    "desconto2":"55",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=patos&curso=odontologia",                    
+                    "nome":"ODONTOLOGIA",
+                    "descricao":"A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.",
+                    "disciplina1":"SAÚDE COLETIVA",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"ANATOMIA HUMANA",
+                    "disciplina4":"CIRURGIA MAXILO-FACIAL", 
+                    "disciplina5":"PRÓTESE LABORATORIAL",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+                },
+
+                "psicologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=psicologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-patos-pb?utm_source=graduninassau&utm_campaign=psicologia-noite",
+                    "original-manha": "1.421,29",
+                    "original-noite":"1.421,29",
+                    "atual-manha":"781,71",
+                    "atual-noite":"781,71",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"45",
+                    "desconto2":"45",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=patos&curso=psicologia",                    
+                    "Nome":"PSICOLOGIA",
+                    "descricao":"O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.",
+                    "disciplina1":"PSICOLOGIA SOCIAL",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"DESENVOLVIMENTO INFANTIL",
+                    "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
+                    "disciplina5":"PSICOLOGIA DA PERSONALIDADE",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+                }
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "polo-titulo": "Unidade Palmas - TO",
+    "polo-endereco": "QUADRA 1002 SUL AVENIDA NS 2 - PLANO DIRETOR SUL.",
+    "polo-cidade": "PALMAS - TO, 77020-450.",
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=garanhuns",
+    "polo-telefone1": "(63) 99958-6461",
+    "polo-telefone2": "",
+    "polo-whatsapp": "",
+    "polo-google-gtm": "",
+    "polo-facebook-pixel": "",
+
+    "cursos": {
+                
+                "administracao": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=administracao-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=administracao-noite",
+                    "original-manha": "1.302,12",
+                    "original-noite":"1.606,10",
+                    "atual-manha":"651,06",
+                    "atual-noite":"803,05",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:f07aa412-96b5-4233-9534-456664bbf03b",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"50",
+                    "desconto2":"50",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=palmams&curso=administracao",
+                    "nome":"ADMINSITRAÇÃO",
+                    "descricao":"O curso de Administração forma profissionais capacitados para liderar e gerir eficientemente organizações num ambiente competitivo. Oferece uma formação atualizada, com diploma reconhecido pelo MEC. Suporte personalizado e metodologias premiadas que combinam analytics e técnicas motivacionais. Ao se formar, os graduados estão preparados para atuar como Administradores, Empreendedores, Consultores e Gestores em diversas áreas empresariais.",
+                    "disciplina1":"CONTABILIDADE APLICADA",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"TEORIA DA ADMINISTRAÇÃO",
+                    "disciplina4":"FUNDAMENTOS DE ESTATÍSTICA", 
+                    "disciplina5":"GESTÃO DA QUALIDADE",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+
+                  
+                },
+
+                "ciencias-contabeis": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=ciencias-contabeis-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=ciencias-contabeis-noite",
+                    "original-manha": "1.302,12",
+                    "original-noite":"1.606,10",
+                    "atual-manha":"651,06",
+                    "atual-noite":"803,05",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c46fae89-407f-4103-82e4-b8dfbb81f114",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"50",
+                    "desconto2":"50",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=palmas&curso=ciencias-contabeis",
+                    "nome":"CIÊNCIAS CONTÁBEIS",
+                    "descricao":"O curso de Ciências Contábeis forma profissionais capacitados para gerir informações financeiras, patrimoniais e econômicas das organizações, garantindo transparência e apoio à tomada de decisões. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias inovadoras que integram teoria e prática. Ao se formar, o contador estará preparado para atuar em empresas privadas, órgãos públicos, auditorias, consultorias e como profissional autônomo, com destaque para a análise contábil, tributária e gerencial.",
+                    "disciplina1":"MATEMÁTICA FINANCEIRA",
+                    "disciplina2":"CONTABILIDADE APLICADA",
+                    "disciplina3":"CONTABILIDADE DE CUSTOS",
+                    "disciplina4":"MERCADO FINANCEIRO E DE CAPITAIS", 
+                    "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA;",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+                  
+                },
+                
+                "direito": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=direito-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=direito-noite",
+                    "original-manha": "1.775,12",
+                    "original-noite":"1.775,12",
+                    "atual-manha":"710,05",
+                    "atual-noite":"710,05",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49f34b9d-72f6-4524-baa2-3908ad0dfa7d",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=palmas&curso=direito",
+                    "nome":"DIREITO",
+                    "descricao":"O curso de Direito forma profissionais preparados para compreender, interpretar e aplicar as normas jurídicas, promovendo a justiça e a cidadania. Reconhecido pelo MEC, o curso alia formação teórica sólida a práticas jurídicas atualizadas, estimulando o pensamento crítico e a ética profissional. Ao concluir a graduação, o bacharel estará apto a atuar como advogado, consultor jurídico, gestor público ou privado, além de poder seguir carreira em concursos e na magistratura, contribuindo para a construção de uma sociedade mais justa e democrática.",
+                    "disciplina1":"DIREITO DAS OBRIGAÇÕES",
+                    "disciplina2":"TEORIA GERAL DO PROCESSO",
+                    "disciplina3":"DIREITO DO CONSUMIDOR",
+                    "disciplina4":"DIREITO FINANCEIRO", 
+                    "disciplina5":"DIREITO DAS FAMÍLIAS",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                 "educacao-fisica": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=educacao-fisica-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=educacao-fisica-noite",
+                    "original-manha": "1.319,56",
+                    "original-noite":"1.319,56",
+                    "atual-manha":"725,76",
+                    "atual-noite":"725,76",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2eeee53b-82a7-4d82-8e93-086fe698379f",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"45",
+                    "desconto2":"45",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=palmas&curso=educacao-fisica",
+                    "Nome2":"EDUCAÇÃO FÍSICA",
+                    "descricao":"O curso de Educação Física (Bacharelado) forma profissionais capacitados para atuar na promoção da saúde, na melhoria do desempenho físico e na qualidade de vida por meio do movimento humano. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias atuais que acompanham as demandas do mercado. Ao concluir a graduação, o bacharel estará apto a atuar em academias, clubes, clínicas, centros esportivos, empresas e projetos sociais, com foco em treinamento, condicionamento físico e bem-estar.",
+                    "disciplina1":"ANATOMIA HUMANA",
+                    "disciplina2":"SAÚDE COLETIVA",
+                    "disciplina3":"BIOESTATÍSTICA ",
+                    "disciplina4":"CINESIOLOGIA E BIOMECÂNICA", 
+                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                  
+                "engenharia-civil": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=engenharia-civil-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=engenharia-civil-noite",
+                    "original-manha": "1.526,92",
+                    "original-noite":"1.526,92",
+                    "atual-manha":"916,15",
+                    "atual-noite":"916,15",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c30d7fe5-f2b6-4002-871f-e3abac3b4f72",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"40",
+                    "desconto2":"40",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=palmas&curso=engenharia-civil",
+                    "nome":"ENGENHARIA CIVIL",
+                    "descricao":"A Graduação em Engenharia Civil no formato Presencial, é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. Com qualidade, você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.",
+                    "disciplina1":"ENGENHARIA E SEGURANÇA DO TRABALHO",
+                    "disciplina2":"FÍSICA DO MOVIMENTO",
+                    "disciplina3":"GEOMETRIA ANALÍTICA",
+                    "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA", 
+                    "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+                  
+                },
+
+                "fisioterapia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=fisioterapia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=fisioterapia-noite",
+                    "original-manha": "1.498,64",
+                    "original-noite":"1.498,64",
+                    "atual-manha":"524,52",
+                    "atual-noite":"524,52",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff0acfe6-1305-4681-8258-48794133accb",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"65",
+                    "desconto2":"65",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=palmas&curso=fisioterapia",
+                    "nome":"FISIOTERAPIA",
+                    "descricao":"A graduação Presencial em Fisioterapia forma profissionais capacitados para promover a recuperação funcional e a qualidade de vida de pacientes em diferentes contextos. Por meio de aulas teóricas e práticas, o curso oferece uma base completa em anatomia, biomecânica, fisiologia e reabilitação, com estágio supervisionado em clínicas e hospitais. O fisioterapeuta atua na prevenção, tratamento e reabilitação de disfunções do movimento humano, sendo peça essencial em equipes multidisciplinares de saúde.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
+                    "disciplina4":"PSICOLOGIA EM SAÚDE", 
+                    "disciplina5":"ANATOMIA HUMANA",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                  
+                "medicina-veterinaria": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=medicina-veterinaria-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=medicina-veterinaria-noite",
+                    "original-manha": "3.481,57",
+                    "original-noite":"3.481,57",
+                    "atual-manha":"1.392,63",
+                    "atual-noite":"1.392,63",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:593f52e0-3c9d-463d-8651-b9181b74cac9",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=palmas&curso=medicina-veterinaria",
+                    "nome":"MEDICINA VETERINÁRIA",
+                    "descricao":"A Graduação presencial em Medicina Veterinária oferece uma formação sólida nas áreas de clínica, cirurgia, diagnóstico e prevenção de doenças em animais de pequeno e grande porte. Com infraestrutura moderna, laboratórios especializados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, ética e excelência na saúde animal, na saúde pública e no bem-estar dos animais. É ideal para quem busca uma carreira comprometida com a vida, diversa em possibilidades de atuação e em constante crescimento no mercado de trabalho.",
+                    "disciplina1":"BIOESTATÍSTICA",
+                    "disciplina2":"FARMACOLOGIA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA", 
+                    "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                     },
+            
+                  
+                "odontologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=odontologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=odontologia-noite",
+                    "original-manha": "3.110,38",
+                    "original-noite":"3.110,38",
+                    "atual-manha":"1.244,15",
+                    "atual-noite":"1.244,15",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1551ef3b-79b5-4bd9-922c-1ef57797a01e",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=palmas&curso=odontologia",
+                    "nome":"ODONTOLOGIA",
+                    "descricao":"A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.",
+                    "disciplina1":"SAÚDE COLETIVA",
+                    "disciplina2":"ANATOMIA HUMANA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"CIRURGIA MAXILO-FACIAL", 
+                    "disciplina5":"PRÓTESE LABORATORIAL",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+                  
+                },
+
+                "psicologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=psicologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=psicologia-noite",
+                    "original-manha": "1.570,90",
+                    "original-noite":"1.570,90",
+                    "atual-manha":"628,36",
+                    "atual-noite":"628,36",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=palmas&curso=psicologia",
+                    "nome":"PSICOLOGIA",
+                    "descricao":"O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.",
+                    "disciplina1":"PSICOLOGIA DA PERSONALIDADE",
+                    "disciplina2":"PSICOLOGIA SOCIAL",
+                    "disciplina3":"DESENVOLVIMENTO INFANTIL",
+                    "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
+                    "disciplina5":"EMPREENDEDORISMO",
+                    "tempo":"5",
+                    "grau" :"Bacharelado"
+
+                    },
+
+                "gestao-comercial": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-gestao-comercial-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-gestao-comercial-noite",
+                    "original-manha": "881,58",
+                    "original-noite":"930,08",
+                    "atual-manha":"440,79",
+                    "atual-noite":"465,04",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f0aaddab-f59d-4f53-9a7e-169248bf3d2b",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"50",
+                    "desconto2":"50",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocio/?unidade=palmas&curso=gestao-comercial",
+                    "nome":"TECNOLOGIA EM GESTÃO COMERCIAL",
+                    "descricao":"O curso de Gestão Comercial forma profissionais preparados para planejar, coordenar e executar estratégias de vendas e relacionamento com o cliente em um mercado cada vez mais competitivo. Oferece uma formação atualizada e prática, com diploma reconhecido pelo MEC, suporte personalizado e metodologias premiadas que unem análises de mercado e técnicas de motivação e negociação. Ao concluir o curso, o graduado(a) estará apto a atuar como Gestor Comercial, Consultor de Vendas, Empreendedor ou Analista de Mercado, contribuindo para o crescimento e a lucratividade das organizações.",
+                    "disciplina1":"CONTABILIDADE APLICADA",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"TEORIA DA ADMINISTRAÇÃO",
+                    "disciplina4":"FUNDAMENTOS DE ESTATÍSTICA", 
+                    "disciplina5":"GESTÃO DA QUALIDADE",
+                    "tempo":"2",
+                    "grau" :"tecnólogo"
+
+                },
+
+                "terapia-ocupacional": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=terapia-ocupacional-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=terapia-ocupacional-noite",
+                    "original-manha": "1.273,84",
+                    "original-noite":"1.273,84",
+                    "atual-manha":"573,23",
+                    "atual-noite":"509,54",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:db8eb385-3f3b-41c0-8309-82ca672069f3",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"55",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=palmas&curso=terapia-ocupacional",
+                    "nome":"Terapia Ocupacional",
+                    "Nome2":"TERAPIA OCUPACIONAL",
+                    "descricao":"O curso de presencial de Terapia Ocupacional forma profissionais preparados para atuar na prevenção, tratamento e reabilitação de pessoas em diferentes fases da vida. Você aprenderá a desenvolver atividades terapêuticas que favorecem a independência, inclusão social e bem-estar, ajudando indivíduos a superarem desafios físicos, cognitivos, emocionais ou sociais. Com uma formação sólida e humanizada para atuar em hospitais, clínicas, escolas, centros de reabilitação, projetos sociais e muito mais, sempre com foco em oferecer novas possibilidades de vida para cada paciente.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"SAÚDE COLETIVA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"PSICOLOGIA DA SAÚDE", 
+                    "disciplina5":"FISIOLOGIA HUMANA",
+                    "tempo":"4",
+                    "grau" :"Bacharelado"
+                }
+            }
+}
+                
+                   
+
+
+
+
+
+
+ 
+
+
+
+            
+
+
