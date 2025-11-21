@@ -79,7 +79,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"4", 
                "grau": "Bacharelado" 
               
@@ -103,7 +103,7 @@
                "disciplina2":"TEORIA GERAL DO PROCESSO", 
                "disciplina3":"DIREITO DO CONSUMIDOR", 
                "disciplina4":"DIREITO FINANCEIRO",  
-               "disciplina5":"DIREITO DAS FAMÍLIAS;", 
+               "disciplina5":"DIREITO DAS FAMÍLIAS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -126,7 +126,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"FISIOLOGIA HUMANA",  
-               "disciplina5":"BIOQUÍMICA HUMANA;", 
+               "disciplina5":"BIOQUÍMICA HUMANA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -150,7 +150,7 @@
                "disciplina2":"FÍSICA DO MOVIMENTO", 
                "disciplina3":"GEOMETRIA ANALÍTICA", 
                "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA",  
-               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA;", 
+               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -173,7 +173,7 @@
                "disciplina2":"DESIGN CENTRADO NO SER HUMANO", 
                "disciplina3":"LÓGICA DE PROGRAMAÇÃO", 
                "disciplina4":"LÓGICA MATEMÁTICA",  
-               "disciplina5":"SISTEMAS COMPUTACIONAI;", 
+               "disciplina5":"SISTEMAS COMPUTACIONAIS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -199,7 +199,7 @@
                "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
                "disciplina3":"ELETRICIDADE E MAGNETISMO", 
                "disciplina4":"SISTEMAS E REDES DE TELECOMUNICAÇÕES",  
-               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO;", 
+               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO", 
                "tempo":"5", 
                 "grau": "Bacharelado"                   
            }, 
@@ -221,7 +221,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -244,7 +244,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -258,9 +258,9 @@
                "original-noite":"3.337,23", 
                "atual-manha":"1.334,89", 
                "atual-noite":"1.334,89", 
-               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e73baa96-7692-425e-ad27-ca644f9dae03", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:593f52e0-3c9d-463d-8651-b9181b74cac9", 
                "desconto":"60", 
-       	       "desconto2":"55", 
+       	       "desconto2":"00", 
                "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=medicina-veterinaria", 
                "nome":"MEDICINA VETERINÁRIA", 
                "descricao":"A Graduação presencial em Medicina Veterinária oferece uma formação sólida nas áreas de clínica, cirurgia, diagnóstico e prevenção de doenças em animais de pequeno e grande porte. Com infraestrutura moderna, laboratórios especializados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, ética e excelência na saúde animal, na saúde pública e no bem-estar dos animais. É ideal para quem busca uma carreira comprometida com a vida, diversa em possibilidades de atuação e em constante crescimento no mercado de trabalho.", 
@@ -268,7 +268,7 @@
                "disciplina2":"FARMACOLOGIA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA",  
-               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS;", 
+               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -283,8 +283,8 @@
                "atual-manha":"1.534,91", 
                "atual-noite":"1.534,91", 
                "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1551ef3b-79b5-4bd9-922c-1ef57797a01e", 
-               "desconto":"55", 
-       	       "desconto2":"55", 
+               "desconto":"60", 
+       	       "desconto2":"60", 
                "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vitoriadaconquista&curso=odontologia", 
                "nome":"ODONTOLOGIA", 
                "descricao": "A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.", 
@@ -292,7 +292,7 @@
                "disciplina2":"ANATOMIA HUMANA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CIRURGIA MAXILO-FACIAL",  
-               "disciplina5":"PRÓTESE LABORATORIAL;", 
+               "disciplina5":"PRÓTESE LABORATORIAL", 
                "tempo":"5",
                "grau": "Bacharelado" 
            }, 
@@ -316,7 +316,7 @@
                "disciplina2":"DIDATICA", 
                "disciplina3":"HISTÓRIA DA EDUCAÇÃO", 
                "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM",  
-               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;", 
+               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO", 
                "tempo":"4", 
                "grau": "Licenciatura" 
            }, 
@@ -340,7 +340,7 @@
                "disciplina2":"PSICOLOGIA SOCIAL", 
                "disciplina3":"DESENVOLVIMENTO INFANTIL", 
                "disciplina4":"PSICOLOGIA E EDUCAÇÃO",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -364,7 +364,7 @@
                "disciplina2":"EMPREENDEDORISMO", 
                "disciplina3":"MAQUETES", 
                "disciplina4":"COMPOSIÇÃO PAISAGÍSTICA",  
-               "disciplina5":"ERGONOMIA APLICADA A INTERIORES;", 
+               "disciplina5":"ERGONOMIA APLICADA A INTERIORES", 
                "tempo":"2",
                "grau": "Tecnólogo" 
            }, 
@@ -387,10 +387,11 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"FARMACOLOGIA APLICADA",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"2,5",
                "grau": "Tecnólogo" 
            }
          }
     }
+
 
