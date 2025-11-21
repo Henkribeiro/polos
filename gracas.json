@@ -220,7 +220,7 @@
                "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
                "disciplina3":"ELETRICIDADE E MAGNETISMO", 
                "disciplina4":"ENGENHARIA DE MANUTENÇÃO",  
-               "disciplina5":"GERENCIAMENTO DE RISCOS;", 
+               "disciplina5":"GERENCIAMENTO DE RISCOS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -836,3 +836,4 @@
         }
 
  
+
