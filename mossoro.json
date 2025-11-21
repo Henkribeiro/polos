@@ -76,7 +76,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -327,3 +327,4 @@
             }
 
         }
+
