@@ -238,7 +238,7 @@
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=carpina&curso=analise-de-sistemas",                    
                     "nome":"ANÁLISE E DEENVOLVIMENTO DE SISTEMA",
-                    "descricao":"A Graduação em Análise e Desenvolvimento de Sistemas busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital. ",
+                    "descricao":"A Graduação em Análise e Desenvolvimento de Sistemas busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital.",
                     "disciplina1":"SISTEMAS OPERACIONAIS",
                     "disciplina2":"REDES DE COMPUTADORES",
                     "disciplina3":"MACHINE LEARNING",
@@ -249,3 +249,4 @@
                 }
     }
 }
+
