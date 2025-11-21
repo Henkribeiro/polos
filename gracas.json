@@ -53,7 +53,7 @@
                "disciplina2":"CONTABILIDADE APLICADA", 
                "disciplina3":"CONTABILIDADE DE CUSTOS", 
                "disciplina4":"MERCADO FINANCEIRO E DE CAPITAIS",  
-               "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA;", 
+               "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -102,7 +102,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -150,7 +150,7 @@
                "disciplina2":"TEORIA GERAL DO PROCESSO", 
                "disciplina3":"DIREITO DO CONSUMIDOR", 
                "disciplina4":"DIREITO FINANCEIRO",  
-               "disciplina5":"DIREITO DAS FAMÍLIAS;", 
+               "disciplina5":"DIREITO DAS FAMÍLIAS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -174,7 +174,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"CINESIOLOGIA E BIOMECÂNICA",  
-               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA;", 
+               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA", 
                "tempo":"4", 
                "grau" :"Bacharelado" 
            }, 
@@ -197,7 +197,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"FISIOLOGIA HUMANA",  
-               "disciplina5":"BIOQUÍMICA HUMANA;", 
+               "disciplina5":"BIOQUÍMICA HUMANA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -243,7 +243,7 @@
                "disciplina2":"FÍSICA DO MOVIMENTO", 
                "disciplina3":"GEOMETRIA ANALÍTICA", 
                "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA",  
-               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA;", 
+               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -266,7 +266,7 @@
                "disciplina2":"DESIGN CENTRADO NO SER HUMANO", 
                "disciplina3":"LÓGICA DE PROGRAMAÇÃO", 
                "disciplina4":"LÓGICA MATEMÁTICA",  
-               "disciplina5":"SISTEMAS COMPUTACIONAI;", 
+               "disciplina5":"SISTEMAS COMPUTACIONAL", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -289,7 +289,7 @@
                "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
                "disciplina3":"ELETRICIDADE E MAGNETISMO", 
                "disciplina4":"ENGENHARIA DE MANUTENÇÃO",  
-               "disciplina5":"GERENCIAMENTO DE RISCOS;", 
+               "disciplina5":"GERENCIAMENTO DE RISCOS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -312,7 +312,7 @@
                "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
                "disciplina3":"ELETRICIDADE E MAGNETISMO", 
                "disciplina4":"SISTEMAS E REDES DE TELECOMUNICAÇÕES",  
-               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO;", 
+               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO", 
                "tempo":"5", 
                 "grau": "Bacharelado"                   
            }, 
@@ -335,7 +335,7 @@
                "disciplina2":"ELETRICIDADE E MAGNETISMO", 
                "disciplina3":"ÁLGEBRA LINEAR", 
                "disciplina4":"CÁLCULO VETORIAL",  
-               "disciplina5":"GEOMETRIA ANÁLITICA;", 
+               "disciplina5":"GEOMETRIA ANÁLITICA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -357,7 +357,7 @@
                "disciplina2":"QÍMICA APLICADA A ENGENHARIA", 
                "disciplina3":"FÍSICA DO MOVIMENTO", 
                "disciplina4":"ÁLGEBRA LINEAR",  
-               "disciplina5":"MECÂNICA DOS SÓLIDOS;", 
+               "disciplina5":"MECÂNICA DOS SÓLIDOS", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -380,7 +380,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -403,7 +403,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -427,7 +427,7 @@
                "disciplina2":"AUDIOLOGIA BÁSICA", 
                "disciplina3":"AUDIOLOGIA OCUPACIONAL", 
                "disciplina4":"PSICOLOGIA EDUCACIONAL",  
-               "disciplina5":"AUDIOLOGIA CLÍNICA;", 
+               "disciplina5":"AUDIOLOGIA CLÍNICA", 
                "tempo":"4", 
                 "grau": "Bacharelado"                   
            }, 
@@ -451,7 +451,7 @@
                "disciplina2":"TÉCNICAS DE COMUNICAÇÃO", 
                "disciplina3":"RADIOJORNALISMO", 
                "disciplina4":"EMPREENDEDORISMO",  
-               "disciplina5":"CINEMA E DOCUMENTÁRIO;", 
+               "disciplina5":"CINEMA E DOCUMENTÁRIO", 
                "tempo":"4", 
                 "grau": "Bacharelado"                   
            }, 
@@ -474,7 +474,7 @@
                "disciplina2":"FARMACOLOGIA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA",  
-               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS;", 
+               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -498,7 +498,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -522,7 +522,7 @@
                "disciplina2":"ANATOMIA HUMANA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CIRURGIA MAXILO-FACIAL",  
-               "disciplina5":"PRÓTESE LABORATORIAL;", 
+               "disciplina5":"PRÓTESE LABORATORIAL", 
                "tempo":"5",
                "grau": "Bacharelado" 
            }, 
@@ -546,7 +546,7 @@
                "disciplina2":"DIDATICA", 
                "disciplina3":"HISTÓRIA DA EDUCAÇÃO", 
                "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM",  
-               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;", 
+               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO", 
                "tempo":"4", 
                "grau": "Licenciatura" 
            }, 
@@ -570,7 +570,7 @@
                "disciplina2":"PSICOLOGIA SOCIAL", 
                "disciplina3":"DESENVOLVIMENTO INFANTIL", 
                "disciplina4":"PSICOLOGIA E EDUCAÇÃO",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -593,7 +593,7 @@
                "disciplina2":"CRIAÇÃO PUBLICITÁRIA", 
                "disciplina3":"LINGUAGEM FOTOGRÁFICA", 
                "disciplina4":"BRANDING",  
-               "disciplina5":"GESTÃO DE EMPRESAS DE COMUNICAÇÃO;", 
+               "disciplina5":"GESTÃO DE EMPRESAS DE COMUNICAÇÃO", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -616,7 +616,7 @@
                "disciplina2":"ESTADO E TEORIA SOCIAL", 
                "disciplina3":"PSICOLOGIA GERAL E SOCIAL", 
                "disciplina4":"TEORIA ECONÔMICA E POLÍTICA",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -639,7 +639,7 @@
                "disciplina2":"SISTEMAS OPERACIONAIS", 
                "disciplina3":"REDES DE COMPUTADORES", 
                "disciplina4":"BANCO DE DADOS",  
-               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;", 
+               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS", 
                "tempo":"4",
                "grau": "Bacharelado" 
            }, 
@@ -662,7 +662,7 @@
                "disciplina2":"SISTEMAS OPERACIONAIS", 
                "disciplina3":"MACHINE LEARNING", 
                "disciplina4":"BANCO DE DADOS",  
-               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;", 
+               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS", 
                "tempo":"2",
                "grau": "Tecnólogo" 
            }, 
@@ -685,7 +685,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"FARMACOLOGIA APLICADA",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"2,5", 
                "grau": "Tecnólogo" 
            }, 
@@ -709,7 +709,7 @@
                "disciplina2":"COZINHA INTALIANA", 
                "disciplina3":"CHOCALETERIA ", 
                "disciplina4":"COZINHA REGIONAL",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"2", 
                "grau": "Tecnólogo" 
            }, 
@@ -733,7 +733,7 @@
                "disciplina2":"EMPREENDEDORISMO", 
                "disciplina3":"GERENCIAMENTO DE PROJETOS", 
                "disciplina4":"FERRAMENTAS DA QUALIDADE",  
-               "disciplina5":"GESTÃO E CONTROLE DA QUALIDADE;", 
+               "disciplina5":"GESTÃO E CONTROLE DA QUALIDADE", 
                "tempo":"2", 
                "grau": "Tecnólogo" 
            }, 
@@ -757,7 +757,7 @@
                "disciplina2":"EMPREENDEDORISMO", 
                "disciplina3":"LOGÍSTICA INTERNACIONAL", 
                "disciplina4":"LOGÍSTICA REVERSA E SUSTENTABILIDADE",  
-               "disciplina5":"GERENCIAMENTO DE PROJETOS;", 
+               "disciplina5":"GERENCIAMENTO DE PROJETOS", 
                "tempo":"2", 
                "grau": "Tecnólogo" 
            }, 
@@ -781,7 +781,7 @@
                "disciplina2":"FUNDAMENTOS DE FÍSICA", 
                "disciplina3":"ANATOMIA RADIOLÓGICA", 
                "disciplina4":"MÉTODOS DOSIMÉTRICOS",  
-               "disciplina5":"RADIOLOGIA DIGITAL;", 
+               "disciplina5":"RADIOLOGIA DIGITAL", 
                "tempo":"2", 
                "grau": "Tecnólogo" 
            }, 
@@ -804,7 +804,7 @@
                "disciplina2":"REDES SEM FIOS", 
                "disciplina3":"DEVOPS", 
                "disciplina4":"BANCO DE DADOS",  
-               "disciplina5":"GERENCIA DE REDES;", 
+               "disciplina5":"GERENCIA DE REDES", 
                "tempo":"2", 
                "grau": "Tecnólogo" 
            }, 
@@ -828,7 +828,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"NEUROFISIOLOGIA HUMANA", 
                "disciplina4":"PSICOLOGIA DA SAÚDE",  
-               "disciplina5":"FISIOLOGIA HUMANA;", 
+               "disciplina5":"FISIOLOGIA HUMANA", 
                "tempo":"4", 
                "grau": "Bacharelado"
            }
@@ -836,4 +836,5 @@
         }
 
  
+
 
