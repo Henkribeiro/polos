@@ -214,7 +214,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"50",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=aracaju&curso=engenharia-da-computação",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=aracaju&curso=engenharia-da-computacao",                    
                     "nome":"ENGENHARIA DA COMPUTAÇÃO",
                     "descricao":"O curso presencial de Engenharia da Computação foi desenvolvido para formar profissionais capazes de projetar, desenvolver e gerenciar sistemas de hardware e software que movimentam o mundo moderno. Aqui, você alia conhecimento técnico de ponta com uma visão prática e inovadora para atuar em diferentes setores: tecnologia da informação, telecomunicações, automação, inteligência artificial, segurança digital e muito mais. Seja protagonista na construção do futuro digital e conquiste uma carreira sólida, valorizada e cheia de oportunidades no Brasil e no exterior.",
                     "disciplina1":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE",
@@ -561,6 +561,7 @@
                 }
             }
         }
+
 
 
 
