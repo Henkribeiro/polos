@@ -509,7 +509,7 @@
                     "disciplina3":"ANATOMIA RADIOLÓGICA",
                     "disciplina4":"MÉTODOS DOSIMÉTRICOS", 
                     "disciplina5":"RADIOLOGIA DIGITAL",
-                    "tempo":"4",
+                    "tempo":"3",
                     "grau":"Tecnólogo"
                   
                 },
@@ -563,6 +563,7 @@
                 }
             }
         }
+
 
 
 
