@@ -23,7 +23,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"65",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de matriculas/presencial/negocios/?unidade=cabo&curso=administracao",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=cabo&curso=administracao",                    
                     "nome":"ADMINISTRAÇÃO",
                     "descricao":"O curso de Administração forma profissionais capacitados para liderar e gerir eficientemente organizações num ambiente competitivo. Oferece uma formação atualizada, com diploma reconhecido pelo MEC. Suporte personalizado e metodologias premiadas que combinam analytics e técnicas motivacionais. Ao se formar, os graduados estão preparados para atuar como Administradores, Empreendedores, Consultores e Gestores em diversas áreas empresariais.",
                     "disciplina1":"CONTABILIDADE APLICADA",
@@ -295,3 +295,4 @@
                 }
     }
 }
+
