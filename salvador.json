@@ -26,7 +26,7 @@
                "desconto2":"55", 
                "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=salvador&curso=administracao", 
                "nome":"ADMINISTRAÇÃO", 
-               "descricao":"O curso de Administração da UNINASSAU Polo Graças tem como objetivo formar profissionais capazes de planejar, organizar, dirigir e controlar os recursos organizacionais, contribuindo para o desenvolvimento sustentável das empresas e da sociedade. Com uma abordagem prática e atualizada, o curso prepara os alunos para enfrentar os desafios do mercado de trabalho, promovendo habilidades em liderança, gestão de equipes, análise financeira e estratégias empresariais.", 
+               "descricao":"O curso de Administração da UNINASSAU tem como objetivo formar profissionais capazes de planejar, organizar, dirigir e controlar os recursos organizacionais, contribuindo para o desenvolvimento sustentável das empresas e da sociedade. Com uma abordagem prática e atualizada, o curso prepara os alunos para enfrentar os desafios do mercado de trabalho, promovendo habilidades em liderança, gestão de equipes, análise financeira e estratégias empresariais.", 
                "disciplina1":"Fundamentos de Administração", 
                "disciplina2":"Marketing e Vendas", 
                "disciplina3":"Gestão de Pessoas", 
@@ -642,4 +642,5 @@
 
 
  
+
 
