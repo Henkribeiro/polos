@@ -566,7 +566,7 @@
                     "desconto2":"60",
                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=natal&curso=gestao-hospitalar",                    
                     "nome":"GESTÃO HOSPITALAR",
-                    "descrição":"O curso de Gestão Hospitalar forma profissionais capacitados para administrar hospitais, clínicas, laboratórios e outras instituições de saúde com eficiência, ética e visão estratégica. Durante a formação, você desenvolverá habilidades para planejar, liderar equipes e aprimorar processos, garantindo excelência na qualidade do atendimento aos pacientes. Inscreva-se agora e prepare-se para construir uma carreira sólida em Gestão Hospitalar, contribuindo para um sistema de saúde mais eficiente, sustentável e humanizado.",
+                    "descricao":"O curso de Gestão Hospitalar forma profissionais capacitados para administrar hospitais, clínicas, laboratórios e outras instituições de saúde com eficiência, ética e visão estratégica. Durante a formação, você desenvolverá habilidades para planejar, liderar equipes e aprimorar processos, garantindo excelência na qualidade do atendimento aos pacientes. Inscreva-se agora e prepare-se para construir uma carreira sólida em Gestão Hospitalar, contribuindo para um sistema de saúde mais eficiente, sustentável e humanizado.",
                     "disciplina1":"EMPREENDEDORISMO",
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"NEUROFISIOLOGIA HUMANA",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
