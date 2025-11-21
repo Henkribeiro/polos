@@ -614,7 +614,7 @@
                     "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=natal&curso=marketing",                    
                     "nome":"MARKETING",
-                    "descrição":"A Graduação em Marketing prepara profissionais capazes de compreender o comportamento do consumidor, analisar tendências e desenvolver estratégias eficientes para promover marcas, produtos e serviços. Com uma formação prática e atualizada, o aluno aprende sobre planejamento, comunicação, vendas, pesquisa de mercado, marketing digital e gestão de negócios.Ao longo do curso, são desenvolvidas competências essenciais para atuar em ambientes competitivos, criativos e orientados por dados. Ideal para quem busca uma carreira dinâmica, conectada às transformações do mercado e repleta de oportunidades em empresas de todos os setores.",
+                    "descricao":"A Graduação em Marketing prepara profissionais capazes de compreender o comportamento do consumidor, analisar tendências e desenvolver estratégias eficientes para promover marcas, produtos e serviços. Com uma formação prática e atualizada, o aluno aprende sobre planejamento, comunicação, vendas, pesquisa de mercado, marketing digital e gestão de negócios.Ao longo do curso, são desenvolvidas competências essenciais para atuar em ambientes competitivos, criativos e orientados por dados. Ideal para quem busca uma carreira dinâmica, conectada às transformações do mercado e repleta de oportunidades em empresas de todos os setores.",
                     "disciplina1":"FERRAMENTAS DE MAKETING",
                     "disciplina2":"MARKETING INTERNACIONAL",
                     "disciplina3":"EMPREENDEDORISMO",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
