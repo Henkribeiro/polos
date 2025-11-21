@@ -107,7 +107,7 @@
                 },
 
 
-                "ciencia-da-computacao": {
+                "ciencias-da-computacao": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-aracaju-se?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-noite",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-aracaju-se?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-manha",
                     "original-manha": "1.708,65",
@@ -563,6 +563,7 @@
                 }
             }
         }
+
 
 
 
