@@ -216,7 +216,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"50",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharia/?unidade=natal&curso=engenharia-mecanica",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=natal&curso=engenharia-mecanica",                    
                     "nome":"ENGENHARIA MECANICA",
                     "descricao":"A Graduação em Engenharia Mecânica forma profissionais capacitados para projetar, desenvolver e gerenciar sistemas mecânicos em diferentes setores da indústria. O curso aborda termodinâmica, resistência dos materiais, processos de fabricação, automação e gestão de projetos, preparando o aluno para atuar de forma prática e inovadora. É ideal para quem deseja construir uma carreira sólida na engenharia e contribuir para o avanço tecnológico e industrial.",
                     "disciplina1":"CÁLCULO DIFERENCIAL",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
