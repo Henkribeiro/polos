@@ -389,7 +389,8 @@
                     "disciplina3":"DESENVOLVIMENTO INFANTIL",
                     "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
                     "disciplina5":"PSICOLOGIA DA PERSONALIDADE",
-                    "tempo":"5"
+                    "tempo":"5",
+                    "grau":"Bacharelado"
                   
                 },
                 
@@ -560,6 +561,7 @@
                 }
             }
         }
+
 
 
 
