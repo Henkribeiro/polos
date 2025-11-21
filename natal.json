@@ -58,7 +58,7 @@
                     "grau":"Bacharelado"
                 },
 
-                "Biomedicina": {
+                "biomedicina": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-natal-rn?utm_source=graduninassau&utm_campaign=biomedicina-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-natal-rn?utm_source=graduninassau&utm_campaign=biomedicina-noite",
                     "original-manha": "1.554,42",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
