@@ -149,7 +149,7 @@
                "disciplina2":"TEORIA GERAL DO PROCESSO", 
                "disciplina3":"DIREITO DO CONSUMIDOR", 
                "disciplina4":"DIREITO FINANCEIRO",  
-               "disciplina5":"DIREITO DAS FAMÍLIAS;", 
+               "disciplina5":"DIREITO DAS FAMÍLIAS", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -162,7 +162,7 @@
                "original-noite":"1.533,62", 
                "atual-manha":"766,81", 
                "atual-noite":"766,81", 
-               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7dcad24f-8e1e-48f8-b672-a782980a6879", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2eeee53b-82a7-4d82-8e93-086fe698379f", 
                "documento":"https://uninassauead.goexplosion.com/", 
                "desconto":"50", 
                "desconto2":"50", 
@@ -173,7 +173,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"CINESIOLOGIA E BIOMECÂNICA",  
-               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA;", 
+               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA", 
                "tempo":"4", 
                 "grau": "Bacharelado"   
            },
@@ -196,7 +196,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"FISIOLOGIA HUMANA",  
-               "disciplina5":"BIOQUÍMICA HUMANA;", 
+               "disciplina5":"BIOQUÍMICA HUMANA", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
            },
@@ -219,7 +219,7 @@
                "disciplina2":"LÓGICA DE PROGRAMAÇÃO", 
                "disciplina3":"LÓGICA MATEMÁTICA", 
                "disciplina4":"SISTEMAS COMPUTACIONAIS",  
-               "disciplina5":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE;", 
+               "disciplina5":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
            },
@@ -242,7 +242,7 @@
                "disciplina2":"FÍSICA DO MOVIMENTO", 
                "disciplina3":"GEOMETRIA ANALÍTICA", 
                "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA",  
-               "disciplina5":" RESISTÊNCIA DOS MATERIAIS APLICADA;", 
+               "disciplina5":" RESISTÊNCIA DOS MATERIAIS APLICADA", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
            },
@@ -265,7 +265,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -274,14 +274,14 @@
             "fonoaudiologia": { 
                "checkout-manha": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=fonoaudiologia-manha", 
                "checkout-noite": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=fonoaudiologia-noite", 
-               "original-manha": "1.272,11", 
-               "original-noite":"1.272,11", 
-               "atual-manha":"572,45", 
-               "atual-noite":"572,45", 
+               "original-manha": "1.413,45", 
+               "original-noite":"1.413,45", 
+               "atual-manha":"706,73", 
+               "atual-noite":"706,73", 
                "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0ca239f5-2a42-46b5-bbde-c11bcefd4c7d", 
                "documento":"https://uninassauead.goexplosion.com/", 
-               "desconto":"55", 
-               "desconto2":"55", 
+               "desconto":"50", 
+               "desconto2":"50", 
                "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=salvador&curso=fonoaudiologia", 
                "nome":"FONOAUDIOLOGIA", 
                 "descricao":"A Graduação presencial em Fonoaudiologia oferece uma formação completa voltada para o estudo da comunicação humana, abrangendo linguagem, fala, voz, audição e deglutição. Com atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência na avaliação, prevenção e reabilitação de distúrbios da comunicação. É ideal para quem deseja uma carreira humana e transformadora, dedicada a promover a saúde da comunicação e a qualidade de vida em todas as fases da vida.", 
@@ -289,7 +289,7 @@
                "disciplina2":"AUDIOLOGIA BÁSICA", 
                "disciplina3":"AUDIOLOGIA OCUPACIONAL", 
                "disciplina4":"PSICOLOGIA EDUCACIONAL",  
-               "disciplina5":"AUDIOLOGIA CLÍNICA;", 
+               "disciplina5":"AUDIOLOGIA CLÍNICA", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -297,7 +297,7 @@
 
             "fisioterapia": { 
                "checkout-manha": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=fisioterapia-manha", 
-               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign= fisioterapia -noite", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=fisioterapia-noite", 
                "original-manha": "1.571,82", 
                "original-noite":"1.717,64", 
                "atual-manha":"785,91", 
@@ -337,7 +337,7 @@
                "disciplina2":"FARMACOLOGIA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA",  
-               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS;", 
+               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -361,7 +361,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"4", 
             "grau": "Bacharelado" 
               
@@ -385,7 +385,7 @@
                "disciplina2":"ANATOMIA HUMANA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CIRURGIA MAXILO-FACIAL",  
-               "disciplina5":"PRÓTESE LABORATORIAL;", 
+               "disciplina5":"PRÓTESE LABORATORIAL", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -409,7 +409,7 @@
                "disciplina2":"DIDATICA", 
                "disciplina3":"HISTÓRIA DA EDUCAÇÃO", 
                "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM",  
-               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;", 
+               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO", 
                "tempo":"4", 
                 "grau": "Licenciatura" 
               
@@ -433,7 +433,7 @@
                "disciplina2":"PSICOLOGIA SOCIAL", 
                "disciplina3":"DESENVOLVIMENTO INFANTIL", 
                "disciplina4":"PSICOLOGIA E EDUCAÇÃO",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -457,7 +457,7 @@
                "disciplina2":"ESTADO E TEORIA SOCIAL", 
                "disciplina3":"PSICOLOGIA GERAL E SOCIAL", 
                "disciplina4":"TEORIA ECONÔMICA E POLÍTICA",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -481,7 +481,7 @@
                "disciplina2":"SISTEMAS OPERACIONAIS", 
                "disciplina3":"REDES DE COMPUTADORES", 
                "disciplina4":"BANCO DE DADOS",  
-               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;", 
+               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -505,7 +505,7 @@
                "disciplina2":"SISTEMAS OPERACIONAIS", 
                "disciplina3":"MACHINE LEARNING", 
                "disciplina4":"BANCO DE DADOS",  
-               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;", 
+               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS", 
                "tempo":"2", 
        		"grau": "Tecnólogo" 
               
@@ -515,10 +515,10 @@
           "estetica-e-cosmetica": { 
                "checkout-manha": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-estetica-e-cosmetica-manha", 
                "checkout-noite": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-estetica-e-cosmetica-noite", 
-               "original-manha": "867,41", 
-               "original-noite":"867,41", 
-               "atual-manha":"390,33", 
-               "atual-noite":"390,33", 
+               "original-manha": "1.077,48", 
+               "original-noite":"1.077,48", 
+               "atual-manha":"592,62", 
+               "atual-noite":"592,62", 
                "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c1acdb9f-db4d-49d1-95a4-4bde6e960845", 
                "documento":"https://uninassauead.goexplosion.com/", 
                "desconto":"45", 
@@ -530,7 +530,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"FARMACOLOGIA APLICADA",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"2,5", 
                 "grau": "Tecnólogo" 
               
@@ -554,7 +554,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"FARMACOLOGIA APLICADA",  
-               "disciplina5":" ANATOMIA HUMANA;", 
+               "disciplina5":" ANATOMIA HUMANA", 
                "tempo":"2,5", 
                 "grau": "Tecnólogo" 
               
@@ -579,7 +579,7 @@
                "disciplina2":"EMPREENDEDORISMO", 
                "disciplina3":"COZINHA INTALIANA", 
                "disciplina4":"CHOCALETERIA",  
-               "disciplina5":"COZINHA REGIONAL;", 
+               "disciplina5":"COZINHA REGIONAL", 
                "tempo":"2", 
                 "grau": "Superior de Tecnologia" 
               
@@ -587,8 +587,8 @@
 
 
             "gestao-de-recursos-humanos": { 
-               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em- recursos-humanos-manha", 
-               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em- recursos-humanos-noite", 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-recursos-humanos-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-salvador-ba?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-recursos-humanos-noite", 
                "original-manha": "806,00", 
                "original-noite":"894,03", 
                "atual-manha":"443,30", 
@@ -604,7 +604,7 @@
                "disciplina2":"EMPREENDEDORISMO", 
                "disciplina3":"TEORIA DA ADMINISTRAÇÃO", 
                "disciplina4":"RECRUTAMENTO, SELEÇÃO E SOCIALIZAÇÃO",  
-               "disciplina5":"DIREITO DO TRABALHO E DA PREVIDÊNCIA;", 
+               "disciplina5":"DIREITO DO TRABALHO E DA PREVIDÊNCIA", 
                "tempo":"2", 
                 "grau": "Tecnólogo" 
               
@@ -629,7 +629,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"NEUROFISIOLOGIA HUMANA", 
                "disciplina4":"PSICOLOGIA DA SAÚDE",  
-               "disciplina5":"FISIOLOGIA HUMANA;", 
+               "disciplina5":"FISIOLOGIA HUMANA", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -642,3 +642,4 @@
 
 
  
+
