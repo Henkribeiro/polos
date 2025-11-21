@@ -97,7 +97,7 @@
                     "desconto":"45",
                     "desconto2":"45",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=patos&curso=psicologia",                    
-                    "Nome":"PSICOLOGIA",
+                    "nome":"PSICOLOGIA",
                     "descricao":"O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.",
                     "disciplina1":"PSICOLOGIA SOCIAL",
                     "disciplina2":"EMPREENDEDORISMO",
@@ -109,3 +109,4 @@
                 }
     }
 }
+
