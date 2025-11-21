@@ -821,7 +821,7 @@
                "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:db8eb385-3f3b-41c0-8309-82ca672069f3", 
                "desconto":"50", 
                 "desconto2":"50", 
-               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=gracas&curso=terapia-ocupacional", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=gracas&curso=terapia-ocupacional", 
                "nome":"TERAPIA OCUPACIONAL", 
                "descricao": "O curso de presencial de Terapia Ocupacional forma profissionais preparados para atuar na prevenção, tratamento e reabilitação de pessoas em diferentes fases da vida. Você aprenderá a desenvolver atividades terapêuticas que favorecem a independência, inclusão social e bem-estar, ajudando indivíduos a superarem desafios físicos, cognitivos, emocionais ou sociais. Com uma formação sólida e humanizada para atuar em hospitais, clínicas, escolas, centros de reabilitação, projetos sociais e muito mais, sempre com foco em oferecer novas possibilidades de vida para cada paciente.", 
                "disciplina1":"EMPREENDEDORISMO", 
@@ -834,4 +834,5 @@
            }
          }
         }
+
  
