@@ -332,7 +332,7 @@
                     "desconto":"65",
                     "desconto2":"65",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=natal&curso=odontologia",                    
-                    "Nome":"ODONTOLOGIA",
+                    "nome":"ODONTOLOGIA",
                     "descricao":"A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.",
                     "disciplina1":"SAÚDE COLETIVA",
                     "disciplina2":"EMPREENDEDORISMO",
@@ -355,7 +355,7 @@
                     "desconto":"55",
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/educação/?unidade=natal&curso=pedagogia",                    
-                    "Nome":"PEDAGOGIA",
+                    "nome":"PEDAGOGIA",
                     "descricao":"A Graduação em Pedagogia Presencial visa o desenvolvimento pessoal, acadêmico e profissional, capacitando educadores para atuar com excelência na formação de crianças, jovens e adultos. O curso promove a construção de práticas pedagógicas inovadoras, formando profissionais criativos, comprometidos e preparados para os desafios da educação contemporânea. Com uma matriz curricular focada nas principais abordagens educacionais, a graduação oferece uma formação completa e alinhada às necessidades do mercado. É a oportunidade ideal para transformar vidas por meio da educação e construir uma carreira sólida em um setor essencial para o futuro da sociedade.",
                     "disciplina1":"DIDATICA",
                     "disciplina2":"HISTÓRIA DA EDUCAÇÃO",
@@ -378,7 +378,7 @@
                     "desconto":"55",
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=natal&curso=psicologia",                    
-                    "Nome":"PSICOLOGIA",
+                    "nome":"PSICOLOGIA",
                     "descricao":"O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.",
                     "disciplina1":"PSICOLOGIA SOCIAL",
                     "disciplina2":"EMPREENDEDORISMO",
@@ -401,7 +401,7 @@
                     "desconto":"55",
                     "desconto2":"45",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=natal&curso=servico-social",                    
-                    "Nome":"SERVIÇO SOCIAL",
+                    "nome":"SERVIÇO SOCIAL",
                     "descricao":"O curso presencial de Serviço Social foi desenvolvido para formar profissionais comprometidos com a promoção dos direitos humanos, da justiça social e da cidadania. Aqui, você alia conhecimento teórico e prático para compreender as dinâmicas sociais e intervir de forma ética e transformadora em diferentes contextos: políticas públicas, saúde, educação, habitação, assistência social e muito mais. Seja protagonista na construção de uma sociedade mais justa e solidária e construa uma carreira sólida, valorizada e repleta de oportunidades no Brasil e no exterior.",
                     "disciplina1":"SOCIOLOGIA",
                     "disciplina2":"ESTADO E TEORIA SOCIAL",
@@ -613,7 +613,7 @@
                     "desconto":"60",
                     "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=natal&curso=marketing",                    
-                    "Nome":"MARKETING",
+                    "nome":"MARKETING",
                     "descrição":"A Graduação em Marketing prepara profissionais capazes de compreender o comportamento do consumidor, analisar tendências e desenvolver estratégias eficientes para promover marcas, produtos e serviços. Com uma formação prática e atualizada, o aluno aprende sobre planejamento, comunicação, vendas, pesquisa de mercado, marketing digital e gestão de negócios.Ao longo do curso, são desenvolvidas competências essenciais para atuar em ambientes competitivos, criativos e orientados por dados. Ideal para quem busca uma carreira dinâmica, conectada às transformações do mercado e repleta de oportunidades em empresas de todos os setores.",
                     "disciplina1":"FERRAMENTAS DE MAKETING",
                     "disciplina2":"MARKETING INTERNACIONAL",
@@ -637,7 +637,7 @@
                     "desconto":"55",
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=natal&curso=terapia-ocupacional",
-                    "Nome":"TERAPIA OCUPACIONAL",
+                    "nome":"TERAPIA OCUPACIONAL",
                     "descricao":"O curso de presencial de Terapia Ocupacional forma profissionais preparados para atuar na prevenção, tratamento e reabilitação de pessoas em diferentes fases da vida. Você aprenderá a desenvolver atividades terapêuticas que favorecem a independência, inclusão social e bem-estar, ajudando indivíduos a superarem desafios físicos, cognitivos, emocionais ou sociais. Com uma formação sólida e humanizada para atuar em hospitais, clínicas, escolas, centros de reabilitação, projetos sociais e muito mais, sempre com foco em oferecer novas possibilidades de vida para cada paciente.",
                     "disciplina1":"EMPREENDEDORISMO",
                     "disciplina2":"SAÚDE COLETIVA",
@@ -650,4 +650,5 @@
                 }
     }
 }
+
 
