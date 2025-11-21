@@ -266,7 +266,7 @@
                     "desconto":"45",
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=juazeirodonorte&curso=fonoaudiologia",
-                    "Nome2":"FONOAUDIOLOGIA",
+                    "nome":"FONOAUDIOLOGIA",
                     "descricao":"A Graduação presencial em Fonoaudiologia oferece uma formação completa voltada para o estudo da comunicação humana, abrangendo linguagem, fala, voz, audição e deglutição. Com atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência na avaliação, prevenção e reabilitação de distúrbios da comunicação. É ideal para quem deseja uma carreira humana e transformadora, dedicada a promover a saúde da comunicação e a qualidade de vida em todas as fases da vida.",
                     "disciplina1":"FISIOLOGIA HUMANA",
                     "disciplina2":"AUDIOLOGIA BÁSICA",
@@ -385,5 +385,6 @@
 
 
             
+
 
 
