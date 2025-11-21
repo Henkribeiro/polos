@@ -478,13 +478,14 @@
                     "desconto2":"45",
                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=aracaju&curso=gestao-de-recursos-humanos",                    
                     "nome":"GESTÃO DE RECURSOS HUMANOS",
-                    "descrição":"O curso de Gestão de Recursos Humanos forma profissionais capacitados para administrar e desenvolver talentos dentro das organizações, contribuindo para a eficiência e o bem-estar no ambiente de trabalho. Oferece uma formação atualizada, com diploma reconhecido pelo MEC, concluída em 18 meses. Com aulas virtuais, os alunos contam com suporte personalizado e metodologias inovadoras que unem teoria e prática. Ao se formar, o graduado estará preparado para atuar como Analista, Gestor ou Consultor de Recursos Humanos, além de poder empreender na área de gestão de pessoas. ",
+                    "descricao":"O curso de Gestão de Recursos Humanos forma profissionais capacitados para administrar e desenvolver talentos dentro das organizações, contribuindo para a eficiência e o bem-estar no ambiente de trabalho. Oferece uma formação atualizada, com diploma reconhecido pelo MEC, concluída em 18 meses. Com aulas virtuais, os alunos contam com suporte personalizado e metodologias inovadoras que unem teoria e prática. Ao se formar, o graduado estará preparado para atuar como Analista, Gestor ou Consultor de Recursos Humanos, além de poder empreender na área de gestão de pessoas. ",
                     "disciplina1":"EMPREENDEDORISMO",
                     "disciplina2":"TEORIA DA ADMINISTRAÇÃO",
                     "disciplina3":"RECRUTAMENTO, SELEÇÃO E SOCIALIZAÇÃO",
                     "disciplina4":"DIREITO DO TRABALHO E DA PREVIDÊNCIA", 
                     "disciplina5":"PROCESSOS DECISÓRIOS",
-                    "tempo":"2"
+                    "tempo":"2",
+                    "grau":"Tecnólogo"
                   
                 },
 
@@ -561,6 +562,7 @@
                 }
             }
         }
+
 
 
 
