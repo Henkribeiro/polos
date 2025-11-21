@@ -174,7 +174,8 @@
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
                     "disciplina5":"ANATOMIA HUMANA",
-                    "tempo":"5"
+                    "tempo":"5",
+					"grau":"Bacharelado"
                   
                 },
 
@@ -198,7 +199,8 @@
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA", 
                     "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS",
-                    "tempo":"5"
+                    "tempo":"5",
+					"grau":"Bacharelado"
                   
                 },
 
@@ -268,7 +270,8 @@
                     "disciplina3":"DESENVOLVIMENTO INFANTIL",
                     "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
                     "disciplina5":"EMPREENDEDORISMO",
-                    "tempo":"5"
+                    "tempo":"5",
+					"grau":"Bacharelado"
                   
                 }
 
@@ -278,4 +281,5 @@
 
 
             
+
 
