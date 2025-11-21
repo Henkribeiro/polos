@@ -60,8 +60,8 @@
                 },
                 
                 "direito": {
-                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-barreiras-ba?utm_source=graduninassau&utm_campaign=direito-manha",
-                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-barreiras-ba?utm_source=graduninassau&utm_campaign=direito-noite",
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-maracanau-ce?utm_source=graduninassau&utm_campaign=direito-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-maracanau-ce?utm_source=graduninassau&utm_campaign=direito-noite",
                     "original-manha": "1.490,15",
                     "original-noite":"1.490,15",
                     "atual-manha":"596,06",
@@ -284,6 +284,7 @@
 
 
             
+
 
 
 
