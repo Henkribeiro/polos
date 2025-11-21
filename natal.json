@@ -168,7 +168,7 @@
                     "desconto":"60",
                     "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=natal&curso=enfermagem",                  
-                    "Nome":"ENFERMAGEM",
+                    "nome":"ENFERMAGEM",
                     "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.",
                     "disciplina1":"SAÚDE COLETIVA",
                     "disciplina2":"BIOESTATÍSTICA",
@@ -650,3 +650,4 @@
                 }
     }
 }
+
