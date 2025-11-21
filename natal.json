@@ -590,7 +590,7 @@
                     "desconto2":"60",
                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=natal&curso=gestao-publica",                    
                     "nome":"GESTÃO PÚBLICA",
-                    "descrição":"A Graduação em Gestão Pública no formato Presencial , é a escolha ideal para quem deseja fazer a diferença na administração pública e contribuir para o desenvolvimento da sociedade.O setor público demanda profissionais capacitados para planejar, coordenar e executar políticas e projetos que melhorem os serviços oferecidos à população. O curso prepara o estudante para atuar com eficiência, ética e transparência na gestão de recursos e processos governamentais.Com uma metodologia que une teoria e prática, a formação oferece uma visão ampla sobre administração pública, economia, legislação e gestão de pessoas, garantindo uma preparação completa para os desafios da área. Com qualidade , você se capacita para atuar em um dos setores mais importantes e transformadores do país.",
+                    "descricao":"A Graduação em Gestão Pública no formato Presencial , é a escolha ideal para quem deseja fazer a diferença na administração pública e contribuir para o desenvolvimento da sociedade.O setor público demanda profissionais capacitados para planejar, coordenar e executar políticas e projetos que melhorem os serviços oferecidos à população. O curso prepara o estudante para atuar com eficiência, ética e transparência na gestão de recursos e processos governamentais.Com uma metodologia que une teoria e prática, a formação oferece uma visão ampla sobre administração pública, economia, legislação e gestão de pessoas, garantindo uma preparação completa para os desafios da área. Com qualidade , você se capacita para atuar em um dos setores mais importantes e transformadores do país.",
                     "disciplina1":"LICITAÇÃO E CONTRATOS",
                     "disciplina2":"PLANEJAMENTO URBANO",
                     "disciplina3":"AUDITORIA PÚBLICA",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
