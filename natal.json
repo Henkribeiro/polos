@@ -530,8 +530,8 @@
             },
 
                 "gestao-de-recursos-humanos": {
-                    "checkout-manha": "https://ead.uninassau.edu.br/central-de-matriculas/natal/grad/superior-de-tecnologia-em-gestao-de-recursos-humanos",
-                    "checkout-noite": "https://ead.uninassau.edu.br/central-de-matriculas/natal/grad/superior-de-tecnologia-em-gestao-de-recursos-humanos",
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-natal-rn?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-gestao-de-recursos-humanos-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-natal-rn?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-gestao-de-recursos-humanos-noite",
                     "original-manha": "773,29",
                     "original-noite":"931,42",
                     "atual-manha":"270,65",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
