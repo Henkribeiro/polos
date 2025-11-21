@@ -166,7 +166,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"50",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=aracaju&curso=educaçao-fisica",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=aracaju&curso=educacao-fisica",                    
                     "nome":"EDUCAÇÃO FÍSICA",
                     "descricao":"O curso de Educação Física (Bacharelado) forma profissionais capacitados para atuar na promoção da saúde, na melhoria do desempenho físico e na qualidade de vida por meio do movimento humano. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias atuais que acompanham as demandas do mercado. Ao concluir a graduação, o bacharel estará apto a atuar em academias, clubes, clínicas, centros esportivos, empresas e projetos sociais, com foco em treinamento, condicionamento físico e bem-estar.",
                     "disciplina1":"ANATOMIA HUMANA",
@@ -561,6 +561,7 @@
                 }
             }
         }
+
 
 
 
