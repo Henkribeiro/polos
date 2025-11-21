@@ -118,7 +118,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=aracaju&curso=ciencias-da-computação",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=aracaju&curso=ciencias-da-computacao",                    
                     "nome":"CIÊNCIA DA COMPUTAÇÃO",
                     "descricao":"A Graduação em Ciência da Computação Presencial tem como objetivo formar profissionais capacitados para investigar, desenvolver e aplicar fundamentos teóricos e práticos da computação. O curso oferece uma base sólida em algoritmos, estruturas de dados, inteligência artificial, sistemas distribuídos e novas tecnologias, sempre alinhado às demandas do mercado tecnológico. Nosso objetivo é preparar os alunos para enfrentar os desafios do mercado tecnológico, incentivando o pensamento crítico, a criatividade e a pesquisa científica.",
                     "disciplina1":"LÓGICA MATEMÁTICA",
@@ -563,6 +563,7 @@
                 }
             }
         }
+
 
 
 
