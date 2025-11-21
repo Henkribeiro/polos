@@ -168,7 +168,7 @@
                     "desconto":"65",
                     "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=cabo&curso=farmacia",
-                    "Nome":"FARMÁCIA",
+                    "nome":"FARMÁCIA",
                     "descricao":"A Graduação Presencial em Farmácia prepara profissionais para atuar em diversas áreas, como farmácia clínica, hospitalar, industrial e laboratorial. O curso combina teoria e prática em disciplinas como farmacologia, química, toxicologia e controle de qualidade, formando um farmacêutico ético, crítico e preparado para lidar com os desafios do cuidado à saúde e da indústria farmacêutica. A vivência em laboratórios e estágios amplia a experiência e a empregabilidade do aluno.",
                     "disciplina1":"EMPREENDEDORISMO",
                     "disciplina2":"BIOQUÍMICA HUMANA",
@@ -191,7 +191,7 @@
                     "desconto":"65",
                     "desconto2":"65",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=cabo&curso=odontologia",                    
-                    "Nome":"ODONTOLOGIA",
+                    "nome":"ODONTOLOGIA",
                     "descricao":"A Graduação presencial em Odontologia oferece uma formação completa e prática, focada na promoção da saúde bucal, prevenção e tratamento de doenças odontológicas. Com laboratórios modernos e atividades clínicas desde os primeiros semestres, o curso prepara o aluno para atuar com excelência, ética e responsabilidade no cuidado ao paciente. Através de uma abordagem interdisciplinar, o futuro profissional estará pronto para enfrentar os desafios do mercado, contribuindo para a melhoria da qualidade de vida e bem-estar da população. Ideal para quem busca uma carreira sólida, inovadora e com amplo campo de atuação.",
                     "disciplina1":"SAÚDE COLETIVA",
                     "disciplina2":"EMPREENDEDORISMO",
@@ -295,4 +295,5 @@
                 }
     }
 }
+
 
