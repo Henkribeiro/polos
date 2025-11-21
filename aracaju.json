@@ -222,7 +222,8 @@
                     "disciplina3":"LÓGICA DE PROGRAMAÇÃO",
                     "disciplina4":"LÓGICA MATEMÁTICA", 
                     "disciplina5":"SISTEMAS COMPUTACIONAIS",
-                    "tempo":"4"
+                    "tempo":"4",
+                    "grau":"Bacharelado"
                   
                 },
 
@@ -562,6 +563,7 @@
                 }
             }
         }
+
 
 
 
