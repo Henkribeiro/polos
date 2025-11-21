@@ -423,7 +423,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"45",
                     "desconto2":"45",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=natal&curso=sistemas-de-informação",               
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=natal&curso=sistemas-de-informacao",               
                     "nome":"SISTEMAS DE INFORMAÇÃO",
                     "descricao":"A Graduação em Sistemas de informação da forma profissionais capacitados para planejar, desenvolver e gerenciar soluções tecnológicas que atendam às necessidades das organizações. O curso oferece uma base sólida em análise de sistemas, banco de dados, gestão de projetos, segurança da informação e inovação tecnológica, sempre alinhado às tendências do mercado digital. Com uma metodologia flexível e atualizada, o aluno desenvolve competências para atuar em ambientes corporativos dinâmicos, tornando-se um profissional preparado para enfrentar os desafios da transformação digital. Invista no seu futuro e faça parte de um dos setores mais promissores do Brasil e do mundo.",
                     "disciplina1":"BANCO DE DADOS",
@@ -650,6 +650,7 @@
                 }
     }
 }
+
 
 
 
