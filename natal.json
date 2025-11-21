@@ -354,7 +354,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/educação/?unidade=natal&curso=pedagogia",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/educacao/?unidade=natal&curso=pedagogia",                    
                     "nome":"PEDAGOGIA",
                     "descricao":"A Graduação em Pedagogia Presencial visa o desenvolvimento pessoal, acadêmico e profissional, capacitando educadores para atuar com excelência na formação de crianças, jovens e adultos. O curso promove a construção de práticas pedagógicas inovadoras, formando profissionais criativos, comprometidos e preparados para os desafios da educação contemporânea. Com uma matriz curricular focada nas principais abordagens educacionais, a graduação oferece uma formação completa e alinhada às necessidades do mercado. É a oportunidade ideal para transformar vidas por meio da educação e construir uma carreira sólida em um setor essencial para o futuro da sociedade.",
                     "disciplina1":"DIDATICA",
@@ -650,5 +650,6 @@
                 }
     }
 }
+
 
 
