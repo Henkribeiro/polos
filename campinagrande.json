@@ -52,7 +52,7 @@
                     "disciplina2":"CONTABILIDADE APLICADA",
                     "disciplina3":"CONTABILIDADE DE CUSTOS",
                     "disciplina4":"MERCADO FINANCEIRO E DE CAPITAIS", 
-                    "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA;",
+                    "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA",
                     "tempo":"4",
                     "grau":"Bacharelado"
                 },
@@ -75,7 +75,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -172,7 +172,8 @@
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA;", 
                     "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS",
-                    "tempo":"5"
+                    "tempo":"5",
+                    "grau":"Bacharelado"
                   
                 },
 
@@ -291,7 +292,7 @@
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
                     "disciplina5":"ANATOMIA HUMANA",
-                    "tempo":"4",
+                    "tempo":"5",
                     "grau":"Bacharelado"
                   
                 },
@@ -321,8 +322,8 @@
                 },
 
                 "ciencias-da-computacao": {
-                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-noite",
-                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-manha",
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-noite",
                     "original-manha": "1.898,50",
                     "original-noite":"1.898,50",
                     "atual-manha":"949,25",
@@ -427,9 +428,9 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"45",
                     "desconto2":"45",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=sistema-de-informacao",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=sistemas-de-informacao",
                     "nome":"SISTEMAS DE INFORMAÇÃO",
-                    "descricao":"A Graduação em Sistemas de informação da UNINASSAU forma profissionais capacitados para planejar, desenvolver e gerenciar soluções tecnológicas que atendam às necessidades das organizações. O curso oferece uma base sólida em análise de sistemas, banco de dados, gestão de projetos, segurança da informação e inovação tecnológica, sempre alinhado às tendências do mercado digital. Com uma metodologia flexível e atualizada, o aluno desenvolve competências para atuar em ambientes corporativos dinâmicos, tornando-se um profissional preparado para enfrentar os desafios da transformação digital. Invista no seu futuro e faça parte de um dos setores mais promissores do Brasil e do mundo.",
+                    "descricao":"A Graduação em Sistemas de informação da UNINASSAU formam profissionais capacitados para planejar, desenvolver e gerenciar soluções tecnológicas que atendam às necessidades das organizações. O curso oferece uma base sólida em análise de sistemas, banco de dados, gestão de projetos, segurança da informação e inovação tecnológica, sempre alinhado às tendências do mercado digital. Com uma metodologia flexível e atualizada, o aluno desenvolve competências para atuar em ambientes corporativos dinâmicos, tornando-se um profissional preparado para enfrentar os desafios da transformação digital. Invista no seu futuro e faça parte de um dos setores mais promissores do Brasil e do mundo.",
                     "disciplina1":"EMPREENDEDORISMO",
                     "disciplina2":"SISTEMAS OPERACIONAIS",
                     "disciplina3":"REDES DE COMPUTADORES",
@@ -451,7 +452,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"40",
                     "desconto2":"40",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=analise-sistemas",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=campinagrande&curso=analise-de-sistemas",
                     "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
                     "descricao":"A Graduação em Análise e Desenvolvimento de Sistemas busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital.",
                     "disciplina1":"ENSINO DIGITAL",
@@ -506,7 +507,7 @@
                     "disciplina2":"LEGISLAÇÃO URBANA",
                     "disciplina3":"DESENHO ARTÍSTICO",
                     "disciplina4":"ESTÉTICA", 
-                    "disciplina5":"METODOLOGIA DA PESQUISA;",
+                    "disciplina5":"METODOLOGIA DA PESQUISA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -555,7 +556,7 @@
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"FARMACOLOGIA APLICADA", 
                     "disciplina5":"ANATOMIA HUMANA",
-                    "tempo":"2,5",
+                    "tempo":"2",
                     "grau":"Superior em Tecnologia"
                   
                 },
@@ -571,7 +572,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"45",
                     "desconto2":"45",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=campinagrande&curso=superopr-de-tecnologia-em-radiologia",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=campinagrande&curso=radiologia",
                     "nome":"Radiologia",
                     "descricao":"O curso presencial de Radiologia forma profissionais altamente qualificados para atuar com tecnologia, precisão e cuidado humano no diagnóstico por imagem. Durante a formação, você aprenderá a operar equipamentos de última geração, interpretar imagens radiográficas e auxiliar médicos na detecção precoce de doenças, contribuindo diretamente para a saúde e a qualidade de vida das pessoas.",
                     "disciplina1":"FUNDAMENTOS DA RADIOLOGIA",
@@ -609,12 +610,12 @@
                 },
 
                 "engenharia-quimica": {
-                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=engenharia-da-computacao-manha",
-                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=engenharia-da-computacao-noite",
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=engenharia-quimica-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-campina-grande-pb?utm_source=graduninassau&utm_campaign=engenharia-quimica-noite",
                     "original-manha": "2.051,15",
                     "original-noite":"2.051,15",
-                    "atual-manha":"1.025,58",
-                    "atual-noite":"1.025,58",
+                    "atual-manha":"1.025,57",
+                    "atual-noite":"1.025,57",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1fdadfe8-46a8-47af-91a4-51786bbdf3ab",
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
@@ -710,6 +711,7 @@
 
             }
         }
+
 
 
 
