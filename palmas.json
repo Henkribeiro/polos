@@ -277,6 +277,30 @@
                     "disciplina5":"FISIOLOGIA HUMANA",
                     "tempo":"4",
                     "grau" :"Bacharelado"
+                },
+
+        "seguranca-no-trabalho": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-seguranca-no-trabalho-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-palmas-to?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-seguranca-no-trabalho-noite",
+                    "original-manha": "881,58",
+                    "original-noite":"930,08",
+                    "atual-manha":"440,79",
+                    "atual-noite":"465,04",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:US:93750336-c090-428d-88ba-f13aede5879c",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"50",
+                    "desconto2":"50",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=campinagrande&curso=seguranca-no-trabalho",
+                    "nome":"SEGURANÇA NO TRABALHO",
+                    "descricao":"O curso de Segurança no Trabalho forma profissionais capacitados para preservar a integridade física e a saúde dos trabalhadores, garantindo ambientes laborais mais seguros e em conformidade com as normas vigentes. Oferece uma formação atualizada, com diploma reconhecido pelo MEC, unindo teoria e prática para desenvolver competências essenciais na prevenção de acidentes e na gestão de riscos ocupacionais.",
+                    "disciplina1":"CONTABILIDADE APLICADA",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"TEORIA DA ADMINISTRAÇÃO",
+                    "disciplina4":"FUNDAMENTOS DE ESTATÍSTICA", 
+                    "disciplina5":"GESTÃO DA QUALIDADE",
+                    "tempo":"3",
+                    "grau":"Superior em Tecnologia"
+                  
                 }
             }
 }
@@ -293,6 +317,7 @@
 
 
             
+
 
 
 
