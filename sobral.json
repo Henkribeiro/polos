@@ -47,7 +47,7 @@
                     "desconto":"55",
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=sobral&curso=ciencias-contabeis",
-                    "Nome":"CIÊNCIAS CONTÁBEIS",
+                    "nome":"CIÊNCIAS CONTÁBEIS",
                     "descricao":"O curso de Ciências Contábeis forma profissionais capacitados para gerir informações financeiras, patrimoniais e econômicas das organizações, garantindo transparência e apoio à tomada de decisões. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias inovadoras que integram teoria e prática. Ao se formar, o contador estará preparado para atuar em empresas privadas, órgãos públicos, auditorias, consultorias e como profissional autônomo, com destaque para a análise contábil, tributária e gerencial.",
                     "disciplina1":"MATEMÁTICA FINANCEIRA",
                     "disciplina2":"CONTABILIDADE APLICADA",
@@ -241,7 +241,7 @@
                     "desconto":"65",
                     "desconto2":"65",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=sobral&curso=fonoaudiologia",
-                    "Nome2":"FONOAUDIOLOGIA",
+                    "nome":"FONOAUDIOLOGIA",
                     "descricao":"A Graduação presencial em Fonoaudiologia oferece uma formação completa voltada para o estudo da comunicação humana, abrangendo linguagem, fala, voz, audição e deglutição. Com atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência na avaliação, prevenção e reabilitação de distúrbios da comunicação. É ideal para quem deseja uma carreira humana e transformadora, dedicada a promover a saúde da comunicação e a qualidade de vida em todas as fases da vida.",
                     "disciplina1":"FISIOLOGIA HUMANA",
                     "disciplina2":"AUDIOLOGIA BÁSICA",
@@ -286,7 +286,7 @@
                     "original-noite":"963,17",
                     "atual-manha":"437,71",
                     "atual-noite":"481,59",
-                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f0aaddab-f59d-4f53-9a7e-169248bf3d2b",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:71eb3efa-8ec6-4b9e-b210-c6f627827b5e",
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"50",
@@ -363,6 +363,7 @@
 
 
             
+
 
 
 
