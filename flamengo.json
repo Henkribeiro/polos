@@ -76,7 +76,7 @@
                     "disciplina2":"LEGISLAÇÃO URBANA",
                     "disciplina3":"DESENHO ARTÍSTICO",
                     "disciplina4":"ESTÉTICA", 
-                    "disciplina5":"METODOLOGIA DA PESQUISA;",
+                    "disciplina5":"METODOLOGIA DA PESQUISA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -567,6 +567,7 @@
             }
 
         }
+
 
 
 
