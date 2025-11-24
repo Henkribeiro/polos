@@ -532,7 +532,8 @@
                     "disciplina3":"NEUROFISIOLOGIA HUMANA",
                     "disciplina4":"PSICOLOGIA DA SAÚDE", 
                     "disciplina5":"FISIOLOGIA HUMANA",
-                    "tempo":"4"
+                    "tempo":"4",
+                    "grau":"Bacharelado"
                   
                 },
 
@@ -566,6 +567,7 @@
             }
 
         }
+
 
 
 
