@@ -64,12 +64,12 @@
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-paulista-pe?utm_source=graduninassau&utm_campaign=ciencias-da-computacao-noite",
                     "original-manha": "1.423,88",
                     "original-noite":"1.423,88",
-                    "atual-manha":"711,94",
-                    "atual-noite":"711,94",
+                    "atual-manha":"498,36",
+                    "atual-noite":"569,55",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ebb7c221-56fa-4cdd-bfbb-1b620d950d0b",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"50",
-                    "desconto2":"50",
+                    "desconto":"65",
+                    "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=paulista&curso=ciencias-da-computacao",
                     "nome":"CIÊNCIAS DA COMPUTAÇÃO",
                     "descricao":"A Graduação em Ciência da Computação Presencial da UNINASSAU tem como objetivo formar profissionais capacitados para investigar, desenvolver e aplicar fundamentos teóricos e práticos da computação. O curso oferece uma base sólida em algoritmos, estruturas de dados, inteligência artificial, sistemas distribuídos e novas tecnologias, sempre alinhado às demandas do mercado tecnológico. Nosso objetivo é preparar os alunos para enfrentar os desafios do mercado tecnológico, incentivando o pensamento crítico, a criatividade e a pesquisa científica.",
@@ -101,7 +101,7 @@
                     "disciplina2":"TEORIA GERAL DO PROCESSO",
                     "disciplina3":"DIREITO DO CONSUMIDOR",
                     "disciplina4":"DIREITO FINANCEIRO", 
-                    "disciplina5":"DIREITO DAS FAMÍLIAS;",
+                    "disciplina5":"DIREITO DAS FAMÍLIAS",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -114,7 +114,7 @@
                     "original-noite":"1.519,61",
                     "atual-manha":"759,81",
                     "atual-noite":"759,81",
-                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7dcad24f-8e1e-48f8-b672-a782980a6879",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2eeee53b-82a7-4d82-8e93-086fe698379f",
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"50",
@@ -125,7 +125,7 @@
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"BIOESTATÍSTICA",
                     "disciplina4":"CINESIOLOGIA E BIOMECÂNICA", 
-                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA;",
+                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -149,7 +149,7 @@
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"BIOESTATÍSTICA",
                     "disciplina4":"FISIOLOGIA HUMANA", 
-                    "disciplina5":"BIOQUÍMICA HUMANA;",
+                    "disciplina5":"BIOQUÍMICA HUMANA",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                 },
@@ -172,7 +172,7 @@
                     "disciplina2":"LÓGICA DE PROGRAMAÇÃO",
                     "disciplina3":"LÓGICA MATEMÁTICA",
                     "disciplina4":"SISTEMAS COMPUTACIONAIS", 
-                    "disciplina5":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE;",
+                    "disciplina5":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                 },
@@ -195,7 +195,7 @@
                     "disciplina2":"FENÔMENOS TERMOQUÍMICOS",
                     "disciplina3":"DESENHO UNIVERSAL",
                     "disciplina4":"ENGENHARIA DE MÉTODOS", 
-                    "disciplina5":"GESTÃO DA QUALIDADE;",
+                    "disciplina5":"GESTÃO DA QUALIDADE",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                 },
@@ -218,7 +218,7 @@
                     "disciplina2":"FENÔMENOS TERMOQUÍMICOS",
                     "disciplina3":"ELETRICIDADE E MAGNETISMO",
                     "disciplina4":"SISTEMAS E REDES DE TELECOMUNICAÇÕES", 
-                    "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO;",
+                    "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                 },
@@ -241,7 +241,7 @@
                     "disciplina2":"ELETRICIDADE E MAGNETISMO",
                     "disciplina3":"ÁLGEBRA LINEAR",
                     "disciplina4":"CÁLCULO VETORIAL", 
-                    "disciplina5":"GEOMETRIA ANÁLITICA;",
+                    "disciplina5":"GEOMETRIA ANÁLITICA",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                 },
@@ -264,7 +264,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                   
@@ -289,7 +289,7 @@
                     "disciplina2":"AUDIOLOGIA BÁSICA",
                     "disciplina3":"AUDIOLOGIA OCUPACIONAL",
                     "disciplina4":"PSICOLOGIA EDUCACIONAL", 
-                    "disciplina5":"AUDIOLOGIA CLÍNICA;",
+                    "disciplina5":"AUDIOLOGIA CLÍNICA",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -313,7 +313,7 @@
                     "disciplina2":"FARMACOLOGIA",
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA", 
-                    "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS;",
+                    "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                   
@@ -337,7 +337,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                   
@@ -361,7 +361,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -385,7 +385,7 @@
                     "disciplina2":"ANATOMIA HUMANA",
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"CIRURGIA MAXILO-FACIAL", 
-                    "disciplina5":"PRÓTESE LABORATORIAL;",
+                    "disciplina5":"PRÓTESE LABORATORIAL",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                   
@@ -409,7 +409,7 @@
                     "disciplina2":"DIDATICA",
                     "disciplina3":"HISTÓRIA DA EDUCAÇÃO",
                     "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM", 
-                    "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;",
+                    "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO",
                     "tempo":"4",
 		            "grau": "Licenciatura"
                   
@@ -418,10 +418,10 @@
                 "psicologia": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-paulista-pe?utm_source=graduninassau&utm_campaign=psicologia-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-paulista-pe?utm_source=graduninassau&utm_campaign=psicologia-noite",
-                    "original-manha": "1.212,69",
-                    "original-noite":"1.512,24",
-                    "atual-manha":"485,07",
-                    "atual-noite":"604,90",
+                    "original-manha": "1.212,68",
+                    "original-noite":"1.512,23",
+                    "atual-manha":"545,70",
+                    "atual-noite":"604,89",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c",
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
@@ -433,7 +433,7 @@
                     "disciplina2":"PSICOLOGIA SOCIAL",
                     "disciplina3":"DESENVOLVIMENTO INFANTIL",
                     "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
-                    "disciplina5":"EMPREENDEDORISMO;",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"5",
 		            "grau": "Bacharelado"
                   
@@ -457,7 +457,7 @@
                     "disciplina2":"ESTADO E TEORIA SOCIAL",
                     "disciplina3":"PSICOLOGIA GERAL E SOCIAL",
                     "disciplina4":"TEORIA ECONÔMICA E POLÍTICA", 
-                    "disciplina5":"EMPREENDEDORISMO;",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -481,7 +481,7 @@
                     "disciplina2":"SISTEMAS OPERACIONAIS",
                     "disciplina3":"REDES DE COMPUTADORES",
                     "disciplina4":"BANCO DE DADOS", 
-                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;",
+                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -505,7 +505,7 @@
                     "disciplina2":"SISTEMAS OPERACIONAIS",
                     "disciplina3":"MACHINE LEARNING",
                     "disciplina4":"BANCO DE DADOS", 
-                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;",
+                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
                     "tempo":"2",
 		            "grau": "Tecnólogo"
                   
@@ -520,8 +520,8 @@
                     "atual-noite":"390,33",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c1acdb9f-db4d-49d1-95a4-4bde6e960845",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"45",
-                    "desconto2":"45",
+                    "desconto":"55",
+                    "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=paulista&curso=estetica-e-cosmetica",
                     "nome":"ESTÉTICA E COSMÉTICA",
                     "descricao": "O curso de presencial de Estética e Cosmética prepara você para atuar em um dos setores que mais crescem no Brasil e no mundo. Com uma formação completa e atualizada, você aprenderá técnicas avançadas de cuidados estéticos, procedimentos faciais, corporais e capilares, além de fundamentos em saúde, cosmetologia e gestão de negócios. Mais do que desenvolver habilidades técnicas, você será capacitado(a) para oferecer experiências de bem-estar e autoestima, conquistando espaço em clínicas, spas, salões, empreendimentos próprios e no mercado da beleza e da estética.",
@@ -529,7 +529,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"FARMACOLOGIA APLICADA", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"2,5",
 		            "grau": "Tecnólogo"
                   
@@ -553,7 +553,7 @@
                     "disciplina2":"EMPREENDEDORISMO",
                     "disciplina3":"TEORIA DA ADMINISTRAÇÃO",
                     "disciplina4":"GESTÃO DA QUALIDADE", 
-                    "disciplina5":"FUNDAMENTOS DE ESTATÍSTICA;",
+                    "disciplina5":"FUNDAMENTOS DE ESTATÍSTICA",
                     "tempo":"2",
 		            "grau": "Superior de Tecnologia"
                   
@@ -578,7 +578,7 @@
                     "disciplina2":"EMPREENDEDORISMO",
                     "disciplina3":"LOGÍSTICA INTERNACIONAL",
                     "disciplina4":"LOGÍSTICA REVERSA E SUSTENTABILIDADE", 
-                    "disciplina5":"GERENCIAMENTO DE PROJETOS;",
+                    "disciplina5":"GERENCIAMENTO DE PROJETOS",
                     "tempo":"2",
 		            "grau": "Tecnólogo"
                   
@@ -595,14 +595,14 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"65",
                     "desconto2":"65",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=paulista&curso=terapia-ocupacional",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=paulista&curso=terapia-ocupacional",
                     "nome":"TERAPIA OCUPACIONAL",
                     "descricao": "O curso de presencial de Terapia Ocupacional forma profissionais preparados para atuar na prevenção, tratamento e reabilitação de pessoas em diferentes fases da vida. Você aprenderá a desenvolver atividades terapêuticas que favorecem a independência, inclusão social e bem-estar, ajudando indivíduos a superarem desafios físicos, cognitivos, emocionais ou sociais. Com uma formação sólida e humanizada para atuar em hospitais, clínicas, escolas, centros de reabilitação, projetos sociais e muito mais, sempre com foco em oferecer novas possibilidades de vida para cada paciente.",
                     "disciplina1":"EMPREENDEDORISMO",
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"NEUROFISIOLOGIA HUMANA",
                     "disciplina4":"PSICOLOGIA DA SAÚDE", 
-                    "disciplina5":"FISIOLOGIA HUMANA;",
+                    "disciplina5":"FISIOLOGIA HUMANA",
                     "tempo":"4",
 		            "grau": "Bacharelado"
                   
@@ -610,6 +610,7 @@
 
 	}
 }
+
 
 
 
