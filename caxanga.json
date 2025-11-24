@@ -101,7 +101,7 @@
                     "disciplina2":"TEORIA GERAL DO PROCESSO",
                     "disciplina3":"DIREITO DO CONSUMIDOR",
                     "disciplina4":"DIREITO FINANCEIRO", 
-                    "disciplina5":"DIREITO DAS FAMÍLIAS;",
+                    "disciplina5":"DIREITO DAS FAMÍLIAS",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -125,7 +125,7 @@
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"BIOESTATÍSTICA",
                     "disciplina4":"CINESIOLOGIA E BIOMECÂNICA", 
-                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA;",
+                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -149,7 +149,7 @@
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"BIOESTATÍSTICA",
                     "disciplina4":"FISIOLOGIA HUMANA", 
-                    "disciplina5":"BIOQUÍMICA HUMANA;",
+                    "disciplina5":"BIOQUÍMICA HUMANA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -173,7 +173,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -197,7 +197,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -221,7 +221,7 @@
                     "disciplina2":"ANATOMIA HUMANA",
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"CIRURGIA MAXILO-FACIAL", 
-                    "disciplina5":"PRÓTESE LABORATORIAL;",
+                    "disciplina5":"PRÓTESE LABORATORIAL",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -245,7 +245,7 @@
                     "disciplina2":"DIDATICA",
                     "disciplina3":"HISTÓRIA DA EDUCAÇÃO",
                     "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM", 
-                    "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;",
+                    "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO",
                     "tempo":"4",
                     "grau":"Licenciatura"
                   
@@ -269,7 +269,7 @@
                     "disciplina2":"PSICOLOGIA SOCIAL",
                     "disciplina3":"DESENVOLVIMENTO INFANTIL",
                     "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
-                    "disciplina5":"EMPREENDEDORISMO;",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -293,7 +293,7 @@
                     "disciplina2":"CIÊNCIA POLÍTICA",
                     "disciplina3":"GESTÃO DE MÍDIAS",
                     "disciplina4":"GESTÃO DE EVENTOS", 
-                    "disciplina5":"GESTÃO DE CRISES;",
+                    "disciplina5":"GESTÃO DE CRISES",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -317,7 +317,7 @@
                     "disciplina2":"ESTADO E TEORIA SOCIAL",
                     "disciplina3":"PSICOLOGIA GERAL E SOCIAL",
                     "disciplina4":"TEORIA ECONÔMICA E POLÍTICA", 
-                    "disciplina5":"EMPREENDEDORISMO;",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"4"
                   
                 },
@@ -340,7 +340,7 @@
                     "disciplina2":"SISTEMAS OPERACIONAIS",
                     "disciplina3":"MACHINE LEARNING",
                     "disciplina4":"BANCO DE DADOS", 
-                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;",
+                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
                     "tempo":"2",
                     "grau":"Tecnólogo"
                   
@@ -364,7 +364,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"FARMACOLOGIA APLICADA", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"2,5",
                     "grau":"Tecnólogo"
                   
@@ -388,7 +388,7 @@
                     "disciplina2":"EMPREENDEDORISMO",
                     "disciplina3":"TEORIA DA ADMINISTRAÇÃO",
                     "disciplina4":"RECRUTAMENTO, SELEÇÃO E SOCIALIZAÇÃO", 
-                    "disciplina5":"RECRUTAMENTO, SELEÇÃO E SOCIALIZAÇÃO;",
+                    "disciplina5":"DIREITO DO TRABALHO E DA PREVIDÊNCIA",
                     "tempo":"2",
                     "grau":"Tecnólogo"
                   
@@ -412,7 +412,7 @@
                     "disciplina2":"EMPREENDEDORISMO",
                     "disciplina3":"LOGÍSTICA INTERNACIONAL",
                     "disciplina4":"LOGÍSTICA REVERSA E SUSTENTABILIDADE", 
-                    "disciplina5":"GERENCIAMENTO DE PROJETOS;",
+                    "disciplina5":"GERENCIAMENTO DE PROJETOS",
                     "tempo":"2",
                     "grau":"Tecnólogo"
                   
@@ -436,7 +436,7 @@
                     "disciplina2":"EMPREENDEDORISMO",
                     "disciplina3":"MARKETING DIGITAL",
                     "disciplina4":"MARKETING INTERNACIONAL", 
-                    "disciplina5":"ENSINO DIGITAL;",
+                    "disciplina5":"ENSINO DIGITAL",
                     "tempo":"2",
                     "grau":"Tecnólogo"
                   
@@ -445,4 +445,5 @@
 	}
 
 }
+
 
