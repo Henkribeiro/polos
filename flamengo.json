@@ -534,6 +534,30 @@
                     "disciplina5":"FISIOLOGIA HUMANA",
                     "tempo":"4"
                   
+                },
+
+         "artes-visuais": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=artes-visuais-e-tecnologia-da-imagem-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=artes-visuais-e-tecnologia-da-imagem-noite",
+                    "original-manha": "1.116,02",
+                    "original-noite":"1.116,02",
+                    "atual-manha":"669,61",
+                    "atual-noite":"669,61",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e2d2a738-5a92-41f0-be66-739f7020da7c",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"40",
+                    "desconto2":"40",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=flamengo&curso=artes-visuais",
+                    "nome":"ARTES VISUAIS E TECNOLOGIA DA IMAGEM",
+                    "descricao":"A graduação em Artes Visuais e Tecnologia da Imagem, no formato Presencial, tem como objetivo desenvolver o potencial artístico, técnico e criativo dos estudantes, capacitando-os para atuar na produção, gestão e experimentação de imagens nas mais diversas plataformas e linguagens visuais. O curso estimula a expressão estética, o pensamento crítico e a inovação tecnológica, formando profissionais preparados para dialogar com os desafios contemporâneos da arte e da cultura visual.",
+                    "disciplina1":"LEGISLAÇÃO URBANA",
+                    "disciplina2":"DESENHO ARTÍSTICO",
+                    "disciplina3":"ESTÉTICA",
+                    "disciplina4":"FUNDAMENTOS DA FOTOGRAFIA", 
+                    "disciplina5":"IMAGEM DIGITAL",
+                    "tempo":"4",
+                    "grau":"Bacharelado"
+                  
                 }
 
 
@@ -542,5 +566,6 @@
             }
 
         }
+
 
 
