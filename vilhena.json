@@ -1,0 +1,446 @@
+{ 
+    "polo-titulo": "Unidade Vilhena - RO", 
+    "polo-endereco": "Av. 7601, nº 8735, quadra 37, Residencial Orleans", 
+    "polo-cidade": "Vilhena - RO, 76.980-002", 
+    "polo-telefone1": "+55 69) 3322-1290", 
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=vilhena", 
+    "polo-telefone2": "", 
+    "polo-whatsapp": "", 
+    "polo-google-gtm": "", 
+    "polo-facebook-pixel": "", 
+
+
+    "cursos": { 
+
+          "administracao": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=administracao-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=administracao-noite", 
+               "original-manha": "796,82", 
+               "original-noite":"796,82", 
+               "atual-manha":"438,25", 
+               "atual-noite":"438,25", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:f07aa412-96b5-4233-9534-456664bbf03b", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"45", 
+                "desconto2":"45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=vilhena&curso=administracao", 
+               "nome":"ADMINSITRAÇÃO", 
+               "descricao":"O curso de Administração da UNINASSAU Polo Graças tem como objetivo formar profissionais capazes de planejar, organizar, dirigir e controlar os recursos organizacionais, contribuindo para o desenvolvimento sustentável das empresas e da sociedade. Com uma abordagem prática e atualizada, o curso prepara os alunos para enfrentar os desafios do mercado de trabalho, promovendo habilidades em liderança, gestão de equipes, análise financeira e estratégias empresariais.", 
+               "disciplina1":"Fundamentos de Administração", 
+               "disciplina2":"Marketing e Vendas", 
+               "disciplina3":"Gestão de Pessoas", 
+               "disciplina4":"Finanças Corporativas",  
+               "disciplina5":"Planejamento Estratégico", 
+               "tempo":"4", 
+                "grau": "Bacharelado" 
+              
+           }, 
+
+
+          "agronomia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=agronomia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=agronomia-noite", 
+               "original-manha": "1.252,40", 
+               "original-noite":"1.252,40", 
+               "atual-manha":"626,20", 
+               "atual-noite":"626,20", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:3d62a905-aaa9-43c3-97d2-fd96932a1dc3", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"50", 
+                "desconto2":"50", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenhrias/?unidade=vilhena&curso=agronomia", 
+               "nome":"AGRONOMIA", 
+               "descricao":"O curso de Agronomia forma profissionais preparados para atuar em todas as etapas da produção agrícola, integrando conhecimentos técnicos e científicos para promover eficiência, sustentabilidade e inovação no campo. Reconhecido pelo MEC, o curso oferece uma formação sólida que combina teoria e práticas em áreas como solos, irrigação, manejo de culturas, produção animal, tecnologia agrícola e gestão rural. Ao concluir a graduação, o agrônomo estará apto a atuar em propriedades rurais, indústrias do agronegócio, cooperativas, empresas de insumos, órgãos públicos, consultorias e projetos de pesquisa e desenvolvimento, contribuindo para o aumento da produtividade, a preservação ambiental e o avanço do setor agropecuário.", 
+               "disciplina1":"CITOLOGIA", 
+               "disciplina2":"INTRODUÇÃO A AGRONOMIA", 
+               "disciplina3":"GENÉTICA", 
+               "disciplina4":"FISIOLOGIA VEGETAL",  
+               "disciplina5":"ZOOLOGIA AGRICOLA", 
+               "tempo":"5", 
+                "grau": "Bacharelado" 
+            },
+ 
+            
+           "arquitetura-e-urbanismo": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=arquitetura-e-urbanismo-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=arquitetura-e-urbanismo-noite", 
+               "original-manha": "1.990,80", 
+               "original-noite":"1.990,80", 
+               "atual-manha":"895,86", 
+               "atual-noite":"895,86", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9b63f696-6228-474c-91ba-99e5288a866b", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"55", 
+                "desconto2": "55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=vilhena&curso=arquitetura-e-urbanismo", 
+               "nome":"ARQUITETURA E URBANISMO", 
+               "descricao":"A graduação em Arquitetura e Urbanismo no formato Presencial visa o desenvolvimento técnico, criativo e profissional de futuros arquitetos, capacitando-os para projetar, planejar e transformar espaços urbanos e construções com inovação e responsabilidade. O curso estimula a criatividade e o pensamento crítico, formando profissionais preparados para enfrentar os desafios contemporâneos da cidade e do ambiente construído. Com uma matriz curricular alinhada às principais abordagens da área, a graduação oferece uma formação completa e conectada às exigências do mercado. É a escolha ideal para quem deseja construir uma carreira sólida e se destacar em um setor dinâmico e competitivo.", 
+               "disciplina1":"ENSINO DIGITAL", 
+               "disciplina2":"LEGISLAÇÃO URBANA", 
+               "disciplina3":"DESENHO ARTÍSTICO ", 
+               "disciplina4":"ESTÉTICA",  
+               "disciplina5":"METODOLOGIA DA PESQUISA", 
+               "tempo":"5", 
+                "grau": "Bacharelado" 
+              
+           }, 
+ 
+           "biomedicina": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=biomedicina-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=biomedicina-noite", 
+               "original-manha": "1.753,44", 
+               "original-noite":"1.753,44", 
+               "atual-manha":"876,72", 
+               "atual-noite":"876,72", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7808d98d-369c-42ee-8210-64774a22cb18", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"50", 
+                "desconto2": "50", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=biomedicina", 
+               "nome":"BIOMEDICINA", 
+               "descricao":"A Graduação presencial em Biomedicina oferece uma formação sólida nas áreas de diagnóstico laboratorial, pesquisa científica e análises clínicas. Com infraestrutura de laboratórios modernos e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade e excelência na promoção da saúde, prevenção de doenças e desenvolvimento de tecnologias biomédicas. É ideal para quem busca uma carreira técnica, inovadora e com ampla inserção no mercado de trabalho.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA", 
+               "tempo":"4", 
+                "grau": "Bacharelado" 
+              
+           }, 
+ 
+           "ciencias-contabeis": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=ciencias-contabeis-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=ciencias-contabeis-noite", 
+               "original-manha": "796,82", 
+               "original-noite":"796,82", 
+               "atual-manha":"438,25", 
+               "atual-noite":"438,25", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c46fae89-407f-4103-82e4-b8dfbb81f114", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"45", 
+                "desconto2": "45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=vilhena&curso=ciencias-contabeis", 
+               "nome":"CIÊNCIAS CONTÁBEIS", 
+               "descricao":"O curso de Ciências Contábeis forma profissionais capacitados para gerir informações financeiras, patrimoniais e econômicas das organizações, garantindo transparência e apoio à tomada de decisões. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias inovadoras que integram teoria e prática. Ao se formar, o contador estará preparado para atuar em empresas privadas, órgãos públicos, auditorias, consultorias e como profissional autônomo, com destaque para a análise contábil, tributária e gerencial.", 
+               "disciplina1":"MATEMÁTICA FINANCEIRA", 
+               "disciplina2":"CONTABILIDADE APLICADA", 
+               "disciplina3":"CONTABILIDADE DE CUSTOS", 
+               "disciplina4":"MERCADO FINANCEIRO E DE CAPITAIS",  
+               "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA", 
+               "tempo":"4", 
+                "grau": "Bacharelado" 
+              
+           }, 
+
+ 
+  
+           "direito": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=direito-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=direito-noite", 
+               "original-manha": "1.847,13", 
+               "original-noite":"2.084,48", 
+               "atual-manha":"831,21", 
+               "atual-noite":"938,02", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49f34b9d-72f6-4524-baa2-3908ad0dfa7d", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"55", 
+                "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=vilhena&curso=direito", 
+               "nome":"DIREITO", 
+               "descricao":"O curso de Direito forma profissionais preparados para compreender, interpretar e aplicar as normas jurídicas, promovendo a justiça e a cidadania. Reconhecido pelo MEC, o curso alia formação teórica sólida a práticas jurídicas atualizadas, estimulando o pensamento crítico e a ética profissional. Ao concluir a graduação, o bacharel estará apto a atuar como advogado, consultor jurídico, gestor público ou privado, além de poder seguir carreira em concursos e na magistratura, contribuindo para a construção de uma sociedade mais justa e democrática.", 
+               "disciplina1":"DIREITO DAS OBRIGAÇÕES", 
+               "disciplina2":"TEORIA GERAL DO PROCESSO", 
+               "disciplina3":"DIREITO DO CONSUMIDOR", 
+               "disciplina4":"DIREITO FINANCEIRO",  
+               "disciplina5":"DIREITO DAS FAMÍLIAS", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+            "educacao-fisica": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=educacao-fisica-bacharelado-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=educacao-fisica-bacharelado-noite", 
+               "original-manha": "1.326,92", 
+               "original-noite":"1.326,92", 
+               "atual-manha":"729,80", 
+               "atual-noite":"729,80", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2eeee53b-82a7-4d82-8e93-086fe698379f", 
+               "documento":"https://uninassauead.goexplosion.com/", 
+               "desconto":"45", 
+                "desconto2":"45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=educacao-fisica", 
+               "nome":"EDUCAÇÃO FÍSICA", 
+               "descricao":"O curso de Educação Física (Bacharelado) forma profissionais capacitados para atuar na promoção da saúde, na melhoria do desempenho físico e na qualidade de vida por meio do movimento humano. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias atuais que acompanham as demandas do mercado. Ao concluir a graduação, o bacharel estará apto a atuar em academias, clubes, clínicas, centros esportivos, empresas e projetos sociais, com foco em treinamento, condicionamento físico e bem-estar.", 
+               "disciplina1":"ANATOMIA HUMANA", 
+               "disciplina2":"SAÚDE COLETIVA", 
+               "disciplina3":"BIOESTATÍSTICA", 
+               "disciplina4":"CINESIOLOGIA E BIOMECÂNICA",  
+               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA", 
+               "tempo":"4", 
+               "grau" :"Bacharelado" 
+           }, 
+ 
+ 
+            "enfermagem": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=enfermagem-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=enfermagem-noite", 
+               "original-manha": "1.753,44", 
+               "original-noite":"1.753,44", 
+               "atual-manha":"789,05", 
+               "atual-noite":"789,05", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644", 
+               "desconto":"55", 
+                "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=enfermagem", 
+               "nome":"ENFERMAGEM", 
+               "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.", 
+               "disciplina1":"ANATOMIA HUMANA", 
+               "disciplina2":"SAÚDE COLETIVA", 
+               "disciplina3":"BIOESTATÍSTICA", 
+               "disciplina4":"FISIOLOGIA HUMANA",  
+               "disciplina5":"BIOQUÍMICA HUMANA", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+  
+            "engenharia-civil": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=engenharia-civil-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=engenharia-civil-noite", 
+               "original-manha": "1.989,61", 
+               "original-noite":"1.989,61", 
+               "atual-manha":"1.193,77", 
+               "atual-noite":"1.193,77", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c30d7fe5-f2b6-4002-871f-e3abac3b4f72", 
+               "desconto":"40", 
+                "desconto2":"40", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vilhena&curso=engenharia-civil", 
+               "nome":"ENGENHARIA CIVIL", 
+               "descricao":"A Graduação em Engenharia Civil no formato Presencial da UNINASSAU é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. Com a qualidade da UNINASSAU, você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.", 
+               "disciplina1":"ENGENHARIA E SEGURANÇA DO TRABALHO", 
+               "disciplina2":"FÍSICA DO MOVIMENTO", 
+               "disciplina3":"GEOMETRIA ANALÍTICA", 
+               "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA",  
+               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+
+
+
+            "engenharia-da-computacao": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=engenharia-da-computacao-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=engenharia-da-computacao-noite", 
+               "original-manha": "1.540,44", 
+               "original-noite":"1.540,44", 
+               "atual-manha":"924,26", 
+               "atual-noite":"924,26", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:08b9b816-58cc-472d-ae67-a9515831dd0a", 
+               "desconto":"40", 
+                "desconto2":"40", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vilhena&curso=engenharia-da-computacao", 
+               "nome":"ENGENHARIA DA COMPUTAÇÃO", 
+               "descricao":"O curso presencial de Engenharia da Computação foi desenvolvido para formar profissionais capazes de projetar, desenvolver e gerenciar sistemas de hardware e software que movimentam o mundo moderno. Aqui, você alia conhecimento técnico de ponta com uma visão prática e inovadora para atuar em diferentes setores: tecnologia da informação, telecomunicações, automação, inteligência artificial, segurança digital e muito mais. Seja protagonista na construção do futuro digital e conquiste uma carreira sólida, valorizada e cheia de oportunidades no Brasil e no exterior.", 
+               "disciplina1":"DESENVOLVIMENTO PESSOAL E TRABALHABILIDADE", 
+               "disciplina2":"DESIGN CENTRADO NO SER HUMANO", 
+               "disciplina3":"LÓGICA DE PROGRAMAÇÃO", 
+               "disciplina4":"LÓGICA MATEMÁTICA",  
+               "disciplina5":"SISTEMAS COMPUTACIONAI", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+            "engenharia-mecanica": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=engenharia-mecanica-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=engenharia-mecanica-noite", 
+               "original-manha": "1.252,40", 
+               "original-noite":"1.252,40", 
+               "atual-manha":"751,44", 
+               "atual-noite":"751,44", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b09c5a49-cd30-40c7-bbca-868f46ccbd7c", 
+               "desconto":"40", 
+                "desconto2":"40", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vilhena&curso=engenharia-mecanica", 
+               "nome":"ENGENHARIA MECÂNICA", 
+               "descricao":"A Graduação em Engenharia Mecânica da UNINASSAU forma profissionais capacitados para projetar, desenvolver e gerenciar sistemas mecânicos em diferentes setores da indústria. O curso aborda termodinâmica, resistência dos materiais, processos de fabricação, automação e gestão de projetos, preparando o aluno para atuar de forma prática e inovadora. É ideal para quem deseja construir uma carreira sólida na engenharia e contribuir para o avanço tecnológico e industrial.", 
+               "disciplina1":"CÁLCULO DIFERENCIAL", 
+               "disciplina2":"ELETRICIDADE E MAGNETISMO", 
+               "disciplina3":"ÁLGEBRA LINEAR", 
+               "disciplina4":"CÁLCULO VETORIAL",  
+               "disciplina5":"GEOMETRIA ANÁLITICA", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+ 
+            "farmacia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=farmacia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=farmacia-noite", 
+               "original-manha": "1.753,44", 
+               "original-noite":"1.753,44", 
+               "atual-manha":"789,05", 
+               "atual-noite":"789,05", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:07e52a05-a69b-4fc2-9c59-2d1c33dc0cc8", 
+               "desconto":"55", 
+                "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=farmacia", 
+               "nome":"FARMÁCIA", 
+               "descricao":"A Graduação Presencial em Farmácia prepara profissionais para atuar em diversas áreas, como farmácia clínica, hospitalar, industrial e laboratorial. O curso combina teoria e prática em disciplinas como farmacologia, química, toxicologia e controle de qualidade, formando um farmacêutico ético, crítico e preparado para lidar com os desafios do cuidado à saúde e da indústria farmacêutica. A vivência em laboratórios e estágios amplia a experiência e a empregabilidade do aluno.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA", 
+               "tempo":"5", 
+               "grau": "Bacharelado" 
+           }, 
+ 
+ 
+            "fisioterapia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=fisioterapia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=fisioterapia-noite", 
+               "original-manha": "2.063,83", 
+               "original-noite":"2.063,83", 
+               "atual-manha":"928,72", 
+               "atual-noite":"928,72", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff0acfe6-1305-4681-8258-48794133accb", 
+               "desconto":"55", 
+                "desconto2":"55", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=fisioterapia", 
+               "nome":"FISIOTERAPIA", 
+               "descricao":"A graduação Presencial em Fisioterapia forma profissionais capacitados para promover a recuperação funcional e a qualidade de vida de pacientes em diferentes contextos. Por meio de aulas teóricas e práticas, o curso oferece uma base completa em anatomia, biomecânica, fisiologia e reabilitação, com estágio supervisionado em clínicas e hospitais. O fisioterapeuta atua na prevenção, tratamento e reabilitação de disfunções do movimento humano, sendo peça essencial em equipes multidisciplinares de saúde.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA", 
+               "tempo":"5", 
+                "grau": "Bacharelado" 
+           }, 
+ 
+  
+ 
+            "medicina-veterinaria": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=medicina-veterinaria-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=medicina-veterinaria-noite", 
+               "original-manha": "2.824,55", 
+               "original-noite":"2.824,55", 
+               "atual-manha":"1.412,28", 
+               "atual-noite":"1.412,28", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:593f52e0-3c9d-463d-8651-b9181b74cac9", 
+               "desconto":"50", 
+                "desconto2":"50", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=medicina-veterinaria", 
+               "nome":"MEDICINA VETERINÁRIA", 
+               "descricao":"A Graduação presencial em Medicina Veterinária oferece uma formação sólida nas áreas de clínica, cirurgia, diagnóstico e prevenção de doenças em animais de pequeno e grande porte. Com infraestrutura moderna, laboratórios especializados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, ética e excelência na saúde animal, na saúde pública e no bem-estar dos animais. É ideal para quem busca uma carreira comprometida com a vida, diversa em possibilidades de atuação e em constante crescimento no mercado de trabalho.", 
+               "disciplina1":"BIOESTATÍSTICA", 
+               "disciplina2":"FARMACOLOGIA", 
+               "disciplina3":"EMPREENDEDORISMO", 
+               "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA",  
+               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS", 
+               "tempo":"5", 
+                "grau": "Bacharelado" 
+              
+           }, 
+ 
+ 
+            "nutricao": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=nutricao-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=nutricao-noite", 
+               "original-manha": "1.538,32", 
+               "original-noite":"1.538,32", 
+               "atual-manha":"769,16", 
+               "atual-noite":"769,16", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2b3ef2a5-101b-42d4-a649-0de1cdeb2504", 
+               "desconto":"50", 
+                "desconto2":"50", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=nutricao", 
+               "nome":"NUTRIÇÃO", 
+               "descricao": "A Graduação Presencial em Nutrição forma profissionais com conhecimento técnico e científico para promover a saúde por meio da alimentação adequada. Com aulas práticas em laboratórios e estágios supervisionados, o curso aborda temas como bioquímica, dietética, avaliação nutricional e políticas públicas de saúde. O nutricionista atua em clínicas, hospitais, escolas, empresas e na indústria alimentícia, sendo um agente fundamental na prevenção e no tratamento de doenças relacionadas à alimentação.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"PSICOLOGIA EM SAÚDE",  
+               "disciplina5":"ANATOMIA HUMANA", 
+               "tempo":"4", 
+               "grau": "Bacharelado" 
+           },
+ 
+            "psicologia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=psicologia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=psicologia-noite", 
+               "original-manha": "1.275,95", 
+               "original-noite":"1.275,95", 
+               "atual-manha":"701,77", 
+               "atual-noite":"701,77", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c", 
+               "desconto":"45", 
+                "desconto2":"45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=vilhena&curso=psicologia", 
+               "nome":"PSICOLOGIA", 
+               "descricao": "O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.", 
+               "disciplina1":"PSICOLOGIA DA PERSONALIDADE", 
+               "disciplina2":"PSICOLOGIA SOCIAL", 
+               "disciplina3":"DESENVOLVIMENTO INFANTIL", 
+               "disciplina4":"PSICOLOGIA E EDUCAÇÃO",  
+               "disciplina5":"EMPREENDEDORISMO", 
+               "tempo":"5", 
+               "grau": "Bacharelado"  
+            }, 
+ 
+ 
+            "estetica-e-cosmetica": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-estetica-e-cosmetica-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-estetica-e-cosmetica-noite", 
+               "original-manha": "1.489,53", 
+               "original-noite":"1.489,53", 
+               "atual-manha":"819,24", 
+               "atual-noite":"819,24", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c1acdb9f-db4d-49d1-95a4-4bde6e960845", 
+               "desconto":"45", 
+                "desconto2":"45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=estetica-e-cosmetica", 
+               "nome":"ESTÉTICA E COSMÉTICA", 
+               "descricao": "O curso de presencial de Estética e Cosmética prepara você para atuar em um dos setores que mais crescem no Brasil e no mundo. Com uma formação completa e atualizada, você aprenderá técnicas avançadas de cuidados estéticos, procedimentos faciais, corporais e capilares, além de fundamentos em saúde, cosmetologia e gestão de negócios. Mais do que desenvolver habilidades técnicas, você será capacitado(a) para oferecer experiências de bem-estar e autoestima, conquistando espaço em clínicas, spas, salões, empreendimentos próprios e no mercado da beleza e da estética.", 
+               "disciplina1":"EMPREENDEDORISMO", 
+               "disciplina2":"BIOQUÍMICA HUMANA", 
+               "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
+               "disciplina4":"FARMACOLOGIA APLICADA",  
+               "disciplina5":"ANATOMIA HUMANA", 
+               "tempo":"3", 
+               "grau": "Superior de Tecnologia" 
+           },
+ 
+            "radiologia": { 
+               "checkout-manha": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-radiologia-manha", 
+               "checkout-noite": "https://pay.goexplosion.com/link/uninassau-vilhena-ro?utm_source=graduninassau&utm_campaign=superior-de-tecnologia-em-radiologia-noite", 
+               "original-manha": "1.489,53", 
+               "original-noite":"1.489,53", 
+               "atual-manha":"819,24", 
+               "atual-noite":"819,24", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e0e3fa15-c5e8-404e-82c8-5e96784415c6", 
+               "desconto":"45", 
+                "desconto2":"45", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=vilhena&curso=radiologia", 
+               "nome":"RADIOLOGIA", 
+               "descricao": "O curso presencial de Radiologia forma profissionais altamente qualificados para atuar com tecnologia, precisão e cuidado humano no diagnóstico por imagem. Durante a formação, você aprenderá a operar equipamentos de última geração, interpretar imagens radiográficas e auxiliar médicos na detecção precoce de doenças, contribuindo diretamente para a saúde e a qualidade de vida das pessoas.", 
+               "disciplina1":"FUNDAMENTOS DA RADIOLOGIA", 
+               "disciplina2":"FUNDAMENTOS DE FÍSICA", 
+               "disciplina3":"ANATOMIA RADIOLÓGICA", 
+               "disciplina4":"MÉTODOS DOSIMÉTRICOS",  
+               "disciplina5":"RADIOLOGIA DIGITAL", 
+               "tempo":"3", 
+               "grau": "Superior de Tecnologia" 
+           }
+           
+}
+}
+
+ 
+ 
+ 
