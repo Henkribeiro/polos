@@ -83,7 +83,7 @@
                 },
 
                 "biomedicina": {
-                    "checkout-manha": "", 
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=biomedicina-noite", 
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-flamengo?utm_source=graduninassau&utm_campaign=biomedicina-noite",
                     "original-manha": "1.520,46",
                     "original-noite":"1.520,46",
@@ -566,6 +566,7 @@
             }
 
         }
+
 
 
 
