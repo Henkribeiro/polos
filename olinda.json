@@ -69,14 +69,14 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"50",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=olinda&curso=ciencias-da-computação",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=olinda&curso=ciencias-da-computacao",
                     "nome":"CIÊNCIAS DA COMPUTAÇÃO",
                     "descricao":"A Graduação em Ciência da Computação Presencial da UNINASSAU tem como objetivo formar profissionais capacitados para investigar, desenvolver e aplicar fundamentos teóricos e práticos da computação. O curso oferece uma base sólida em algoritmos, estruturas de dados, inteligência artificial, sistemas distribuídos e novas tecnologias, sempre alinhado às demandas do mercado tecnológico. Nosso objetivo é preparar os alunos para enfrentar os desafios do mercado tecnológico, incentivando o pensamento crítico, a criatividade e a pesquisa científica.",
                     "disciplina1":"LÓGICA MATEMÁTICA",
                     "disciplina2":"MATEMÁTICA APLICADA",
                     "disciplina3":"SISTEMAS COMPUTACIONAIS",
                     "disciplina4":"BANCO DE DADOS", 
-                    "disciplina5":"EMPREENDEDORISMO ",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -100,7 +100,7 @@
                     "disciplina2":"TEORIA GERAL DO PROCESSO",
                     "disciplina3":"DIREITO DO CONSUMIDOR",
                     "disciplina4":"DIREITO FINANCEIRO", 
-                    "disciplina5":"DIREITO DAS FAMÍLIAS;",
+                    "disciplina5":"DIREITO DAS FAMÍLIAS",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -115,8 +115,8 @@
                     "atual-noite":"738,27",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"50",
-                    "desconto2":"50",
+                    "desconto":"60",
+                    "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=olinda&curso=enfermagem",
                     "nome":"ENFERMAGEM",
                     "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.",
@@ -124,7 +124,7 @@
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"BIOESTATÍSTICA",
                     "disciplina4":"FISIOLOGIA HUMANA", 
-                    "disciplina5":"BIOQUÍMICA HUMANA;",
+                    "disciplina5":"BIOQUÍMICA HUMANA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                 },
@@ -147,7 +147,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -156,14 +156,14 @@
                 "fisioterapia": {
                     "checkout-manha":"https://pay.goexplosion.com/link/uninassau-olinda-pe?utm_source=graduninassau&utm_campaign=fisioterapia-manha",
                     "checkout-noite":"https://pay.goexplosion.com/link/uninassau-olinda-pe?utm_source=graduninassau&utm_campaign=fisioterapia-noite",
-                    "original-manha": "1.428,19",
-                    "original-noite":"1.530,36",
-                    "atual-manha":"642,68",
-                    "atual-noite":"688,66",
+                    "original-manha": "1.519,59",
+                    "original-noite":"1.628,31",
+                    "atual-manha":"607.84",
+                    "atual-noite":"651,32",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff0acfe6-1305-4681-8258-48794133accb",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"55",
-                    "desconto2":"55",
+                    "desconto":"60",
+                    "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=olinda&curso=fisioterapia",
                     "nome":"FISIOTERAPIA",
                     "descricao":"A graduação Presencial em Fisioterapia forma profissionais capacitados para promover a recuperação funcional e a qualidade de vida de pacientes em diferentes contextos. Por meio de aulas teóricas e práticas, o curso oferece uma base completa em anatomia, biomecânica, fisiologia e reabilitação, com estágio supervisionado em clínicas e hospitais. O fisioterapeuta atua na prevenção, tratamento e reabilitação de disfunções do movimento humano, sendo peça essencial em equipes multidisciplinares de saúde.",
@@ -171,7 +171,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -195,7 +195,7 @@
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
                     "disciplina4":"PSICOLOGIA EM SAÚDE", 
-                    "disciplina5":"ANATOMIA HUMANA;",
+                    "disciplina5":"ANATOMIA HUMANA",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -219,7 +219,7 @@
                     "disciplina2":"ANATOMIA HUMANA",
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"CIRURGIA MAXILO-FACIAL", 
-                    "disciplina5":"PRÓTESE LABORATORIAL;",
+                    "disciplina5":"PRÓTESE LABORATORIAL",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -228,14 +228,14 @@
                 "pedagogia": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-olinda-pe?utm_source=graduninassau&utm_campaign=pedagogia-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-olinda-pe?utm_source=graduninassau&utm_campaign=pedagogia-noite",
-                    "original-manha": "3.465,14",
-                    "original-noite":"3.465,14",
-                    "atual-manha":"1.212,80",
-                    "atual-noite":"1.212,80",
+                    "original-manha": "660,33",
+                    "original-noite":"744,40",
+                    "atual-manha":"396,20",
+                    "atual-noite":"446,64",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b80aab35-ad6b-4432-86b8-55070253cff4",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"65",
-                    "desconto2":"65",
+                    "desconto":"40",
+                    "desconto2":"40",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/educacao/?unidade=olinda&curso=pedagogia",
                     "nome":"PEDAGOGIA",
                     "descricao": "A Graduação em Pedagogia Presencial da UNINASSAU visa o desenvolvimento pessoal, acadêmico e profissional, capacitando educadores para atuar com excelência na formação de crianças, jovens e adultos. O curso promove a construção de práticas pedagógicas inovadoras, formando profissionais criativos, comprometidos e preparados para os desafios da educação contemporânea. Com uma matriz curricular focada nas principais abordagens educacionais, a graduação oferece uma formação completa e alinhada às necessidades do mercado. É a oportunidade ideal para transformar vidas por meio da educação e construir uma carreira sólida em um setor essencial para o futuro da sociedade.",
@@ -243,7 +243,7 @@
                     "disciplina2":"DIDATICA",
                     "disciplina3":"HISTÓRIA DA EDUCAÇÃO",
                     "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM", 
-                    "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;",
+                    "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO",
                     "tempo":"4",
                     "grau":"Licenciatura"
                   
@@ -267,7 +267,7 @@
                     "disciplina2":"PSICOLOGIA SOCIAL",
                     "disciplina3":"DESENVOLVIMENTO INFANTIL",
                     "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
-                    "disciplina5":"EMPREENDEDORISMO;",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"5",
                     "grau":"Bacharelado"
                   
@@ -291,7 +291,7 @@
                     "disciplina2":"ESTADO E TEORIA SOCIAL",
                     "disciplina3":"PSICOLOGIA GERAL E SOCIAL",
                     "disciplina4":"TEORIA ECONÔMICA E POLÍTICA", 
-                    "disciplina5":"EMPREENDEDORISMO;",
+                    "disciplina5":"EMPREENDEDORISMO",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -315,7 +315,7 @@
                     "disciplina2":"SISTEMAS OPERACIONAIS",
                     "disciplina3":"REDES DE COMPUTADORES",
                     "disciplina4":"BANCO DE DADOS", 
-                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;",
+                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -330,8 +330,8 @@
                     "atual-noite":"427,61",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:79c160c7-5828-4ddc-a34a-fc78ed5cfd27",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"45",
-                    "desconto2":"45",
+                    "desconto":"60",
+                    "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=olinda&curso=analise-de-sistemas",
                     "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
                     "descricao": "A Graduação em Análise e Desenvolvimento de Sistemas busca formar profissionais preparados para criar, implementar e gerenciar soluções tecnológicas inovadoras. O curso oferece uma base sólida em programação, bancos de dados, engenharia de software e novas tecnologias, sempre alinhado às demandas do mercado digital.",
@@ -339,7 +339,7 @@
                     "disciplina2":"SISTEMAS OPERACIONAIS",
                     "disciplina3":"MACHINE LEARNING",
                     "disciplina4":"BANCO DE DADOS", 
-                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;",
+                    "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
                     "tempo":"2",
                     "grau":"Tecnólogo"
                   
@@ -354,8 +354,8 @@
                     "atual-noite":"622,83",
                     "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:db8eb385-3f3b-41c0-8309-82ca672069f3",
                     "documento":"https://uninassauead.goexplosion.com/",
-                    "desconto":"55",
-                    "desconto2":"55",
+                    "desconto":"60",
+                    "desconto2":"60",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=olinda&curso=terapia-ocupacional",
                     "nome":"TERAPIA OCUPACIONAL",
                     "descricao": "O curso de presencial de Terapia Ocupacional forma profissionais preparados para atuar na prevenção, tratamento e reabilitação de pessoas em diferentes fases da vida. Você aprenderá a desenvolver atividades terapêuticas que favorecem a independência, inclusão social e bem-estar, ajudando indivíduos a superarem desafios físicos, cognitivos, emocionais ou sociais. Com uma formação sólida e humanizada para atuar em hospitais, clínicas, escolas, centros de reabilitação, projetos sociais e muito mais, sempre com foco em oferecer novas possibilidades de vida para cada paciente.",
@@ -363,7 +363,7 @@
                     "disciplina2":"SAÚDE COLETIVA",
                     "disciplina3":"NEUROFISIOLOGIA HUMANA",
                     "disciplina4":"PSICOLOGIA DA SAÚDE", 
-                    "disciplina5":"FISIOLOGIA HUMANA;",
+                    "disciplina5":"FISIOLOGIA HUMANA",
                     "tempo":"4",
                     "grau":"Bacharelado"
                   
@@ -371,6 +371,7 @@
 
 	}
 }
+
 
 
 
