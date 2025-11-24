@@ -393,7 +393,7 @@
                   
                 },
 
-                "sistema-de-informacao": {
+                "sistemas-de-informacao": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=sistemas-de-informacao-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=sistemas-de-informacao-noite",
                     "original-manha": "1.171,88",
@@ -404,7 +404,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=flamengo&curso=sistema-de-informacao",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=flamengo&curso=sistemas-de-informacao",
                     "nome":"SISTEMAS DE INFORMAÇÃO",
                     "descricao":"A Graduação em Sistemas de informação da UNINASSAU forma profissionais capacitados para planejar, desenvolver e gerenciar soluções tecnológicas que atendam às necessidades das organizações. O curso oferece uma base sólida em análise de sistemas, banco de dados, gestão de projetos, segurança da informação e inovação tecnológica, sempre alinhado às tendências do mercado digital. Com uma metodologia flexível e atualizada, o aluno desenvolve competências para atuar em ambientes corporativos dinâmicos, tornando-se um profissional preparado para enfrentar os desafios da transformação digital. Invista no seu futuro e faça parte de um dos setores mais promissores do Brasil e do mundo.",
                     "disciplina1":"EMPREENDEDORISMO",
@@ -542,4 +542,5 @@
             }
 
         }
+
 
