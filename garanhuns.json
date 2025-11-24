@@ -84,7 +84,7 @@
                   
                 },
                 
-                "Direito": {
+                "direito": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-garanhuns-pe?utm_source=graduninassau&utm_campaign=direito-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-garanhuns-pe?utm_source=graduninassau&utm_campaign=direito-noite",
                     "original-manha": "2.042,12",
@@ -107,7 +107,7 @@
                     "grau" :"Bacharelado"
                 },
 
-                "Enfermagem": {
+                "enfermagem": {
                     "checkout-manha": "https://pay.goexplosion.com/link/uninassau-garanhuns-pe?utm_source=graduninassau&utm_campaign=enfermagem-manha",
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-garanhuns-pe?utm_source=graduninassau&utm_campaign=enfermagem-noite",
                     "original-manha": "1.846,48",
@@ -319,5 +319,6 @@
 
 
             
+
 
 
