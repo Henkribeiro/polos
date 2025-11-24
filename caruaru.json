@@ -53,7 +53,7 @@
                "disciplina2":"CONTABILIDADE APLICADA", 
                "disciplina3":"CONTABILIDADE DE CUSTOS", 
                "disciplina4":"MERCADO FINANCEIRO E DE CAPITAIS",  
-               "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA;", 
+               "disciplina5":"ADMINISTRAÇÃO FINANCEIRA E ORÇAMENTÁRIA", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -102,7 +102,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"4", 
                 "grau": "Bacharelado" 
               
@@ -126,7 +126,7 @@
                "disciplina2":"TEORIA GERAL DO PROCESSO", 
                "disciplina3":"DIREITO DO CONSUMIDOR", 
                "disciplina4":"DIREITO FINANCEIRO",  
-               "disciplina5":"DIREITO DAS FAMÍLIAS;", 
+               "disciplina5":"DIREITO DAS FAMÍLIAS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -150,7 +150,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"CINESIOLOGIA E BIOMECÂNICA",  
-               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA;", 
+               "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA", 
                "tempo":"4", 
                "grau" :"Bacharelado" 
            }, 
@@ -165,7 +165,7 @@
                "atual-noite":"830,92", 
                "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644", 
                "desconto":"60", 
-                "desconto2":"60", 
+                "desconto2":"55", 
                "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=caruaru&curso=enfermagem", 
                "nome":"ENFERMAGEM", 
                "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.", 
@@ -173,7 +173,7 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"BIOESTATÍSTICA", 
                "disciplina4":"FISIOLOGIA HUMANA",  
-               "disciplina5":"BIOQUÍMICA HUMANA;", 
+               "disciplina5":"BIOQUÍMICA HUMANA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -197,7 +197,7 @@
                "disciplina2":"FÍSICA DO MOVIMENTO", 
                "disciplina3":"GEOMETRIA ANALÍTICA", 
                "disciplina4":"INOVAÇÃO E DESENVOLVIMENTO EM ENGENHARIA",  
-               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA;", 
+               "disciplina5":"RESISTÊNCIA DOS MATERIAIS APLICADA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -221,7 +221,7 @@
                "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
                "disciplina3":"ELETRICIDADE E MAGNETISMO", 
                "disciplina4":"ENGENHARIA DE MANUTENÇÃO",  
-               "disciplina5":"GERENCIAMENTO DE RISCOS;", 
+               "disciplina5":"GERENCIAMENTO DE RISCOS", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -245,7 +245,7 @@
                "disciplina2":"ELETRICIDADE E MAGNETISMO", 
                "disciplina3":"ÁLGEBRA LINEAR", 
                "disciplina4":"CÁLCULO VETORIAL",  
-               "disciplina5":"GEOMETRIA ANÁLITICA;", 
+               "disciplina5":"GEOMETRIA ANÁLITICA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -268,7 +268,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -291,7 +291,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -315,7 +315,7 @@
                "disciplina2":"AUDIOLOGIA BÁSICA", 
                "disciplina3":"AUDIOLOGIA OCUPACIONAL", 
                "disciplina4":"PSICOLOGIA EDUCACIONAL",  
-               "disciplina5":"AUDIOLOGIA CLÍNICA;", 
+               "disciplina5":"AUDIOLOGIA CLÍNICA", 
                "tempo":"4", 
                 "grau": "Bacharelado"                   
            }, 
@@ -328,7 +328,7 @@
                "original-noite":"3.643,25", 
                "atual-manha":"1.457,30", 
                "atual-noite":"1.457,30", 
-               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e73baa96-7692-425e-ad27-ca644f9dae03", 
+               "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:593f52e0-3c9d-463d-8651-b9181b74cac9", 
                "desconto":"60", 
                 "desconto2":"60", 
                "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=caruaru&curso=medicina-veterinaria", 
@@ -338,7 +338,7 @@
                "disciplina2":"FARMACOLOGIA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA",  
-               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS;", 
+               "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS", 
                "tempo":"5", 
                 "grau": "Bacharelado" 
               
@@ -362,7 +362,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"PSICOLOGIA EM SAÚDE",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -386,7 +386,7 @@
                "disciplina2":"ANATOMIA HUMANA", 
                "disciplina3":"EMPREENDEDORISMO", 
                "disciplina4":"CIRURGIA MAXILO-FACIAL",  
-               "disciplina5":"PRÓTESE LABORATORIAL;", 
+               "disciplina5":"PRÓTESE LABORATORIAL", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -410,7 +410,7 @@
                "disciplina2":"DIDATICA", 
                "disciplina3":"HISTÓRIA DA EDUCAÇÃO", 
                "disciplina4":"NEUROCIÊNCIA E APRENDIZAGEM",  
-               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO;", 
+               "disciplina5":"ALFABETIZAÇÃO E LETRAMENTO", 
                "tempo":"4", 
                "grau": "Licenciatura" 
            }, 
@@ -434,7 +434,7 @@
                "disciplina2":"PSICOLOGIA SOCIAL", 
                "disciplina3":"DESENVOLVIMENTO INFANTIL", 
                "disciplina4":"PSICOLOGIA E EDUCAÇÃO",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -458,7 +458,7 @@
                "disciplina2":"ESTADO E TEORIA SOCIAL", 
                "disciplina3":"PSICOLOGIA GERAL E SOCIAL", 
                "disciplina4":"TEORIA ECONÔMICA E POLÍTICA",  
-               "disciplina5":"EMPREENDEDORISMO;", 
+               "disciplina5":"EMPREENDEDORISMO", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }, 
@@ -482,7 +482,7 @@
                "disciplina2":"SISTEMAS OPERACIONAIS", 
                "disciplina3":"MACHINE LEARNING", 
                "disciplina4":"BANCO DE DADOS",  
-               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS;", 
+               "disciplina5":"DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS", 
                "tempo":"2", 
                "grau": "Tecnólogo" 
            }, 
@@ -505,7 +505,7 @@
                "disciplina2":"BIOQUÍMICA HUMANA", 
                "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE", 
                "disciplina4":"FARMACOLOGIA APLICADA",  
-               "disciplina5":"ANATOMIA HUMANA;", 
+               "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"2,5", 
                "grau": "Tecnólogo" 
            }, 
@@ -527,11 +527,12 @@
                "disciplina2":"SAÚDE COLETIVA", 
                "disciplina3":"NEUROFISIOLOGIA HUMANA", 
                "disciplina4":"PSICOLOGIA DA SAÚDE",  
-               "disciplina5":"FISIOLOGIA HUMANA;", 
+               "disciplina5":"FISIOLOGIA HUMANA", 
                "tempo":"4", 
                "grau": "Bacharelado" 
            }
          }
         }
+
 
 
