@@ -165,7 +165,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"50",
                     "desconto2":"50",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharia/?unidade=boaviagem&curso=engenharia-civil",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=boaviagem&curso=engenharia-civil",                    
                     "nome":"ENGENHARIA CIVIL",
                     "descricao":"A Graduação em Engenharia Civil no formato Presencial , é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. Com qualidade , você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.",
                     "disciplina1":"FÍSICA DO MOVIMENTO",
@@ -191,7 +191,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=boa-via&curso=farmacia",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=boaviagem&curso=farmacia",
                     "nome":"FARMÁCIA",
                     "descricao":"A Graduação Presencial em Farmácia prepara profissionais para atuar em diversas áreas, como farmácia clínica, hospitalar, industrial e laboratorial. O curso combina teoria e prática em disciplinas como farmacologia, química, toxicologia e controle de qualidade, formando um farmacêutico ético, crítico e preparado para lidar com os desafios do cuidado à saúde e da indústria farmacêutica. A vivência em laboratórios e estágios amplia a experiência e a empregabilidade do aluno.",
                     "disciplina1":"EMPREENDEDORISMO",
@@ -332,9 +332,9 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"55",
-                   "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/nutrição/?unidade=boaviagem&curso=nutrição",                    
+                   "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=boaviagem&curso=nutricao",                    
                     "nome":"NUTRIÇÃO",
-                    "descrição":"A Graduação em Nutrição forma profissionais capacitados para promover a saúde, prevenir doenças e desenvolver práticas alimentares adequadas em diferentes etapas da vida. Com uma formação ampla, prática e alinhada às necessidades atuais do mercado, o aluno aprende sobre avaliação nutricional, bioquímica, microbiologia de alimentos, dietoterapia, nutrição clínica, saúde coletiva, técnicas dietéticas, produção de refeições e gestão em serviços de alimentação.",
+                    "descricao":"A Graduação em Nutrição forma profissionais capacitados para promover a saúde, prevenir doenças e desenvolver práticas alimentares adequadas em diferentes etapas da vida. Com uma formação ampla, prática e alinhada às necessidades atuais do mercado, o aluno aprende sobre avaliação nutricional, bioquímica, microbiologia de alimentos, dietoterapia, nutrição clínica, saúde coletiva, técnicas dietéticas, produção de refeições e gestão em serviços de alimentação.",
                     "disciplina1":"ANATOMIA HUMANA",
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"FARMACOLOGIA BÁSICA",
@@ -358,14 +358,14 @@
                     "desconto2":"40",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=boaviagem&curso=pedagogia",                    
                     "nome":"PEDAGOGIA",
-                    "descrição":"A Graduação em Pedagogia forma profissionais preparados para compreender, planejar e desenvolver processos educativos em diferentes contextos de aprendizagem. Com uma formação prática e alinhada às necessidades atuais da educação, o aluno aprende sobre teorias e práticas pedagógicas, gestão escolar, desenvolvimento infantil, didática, avaliação educacional, inclusão, políticas públicas da educação e metodologias de ensino para diferentes etapas da formação humana.",
+                    "descricao":"A Graduação em Pedagogia forma profissionais preparados para compreender, planejar e desenvolver processos educativos em diferentes contextos de aprendizagem. Com uma formação prática e alinhada às necessidades atuais da educação, o aluno aprende sobre teorias e práticas pedagógicas, gestão escolar, desenvolvimento infantil, didática, avaliação educacional, inclusão, políticas públicas da educação e metodologias de ensino para diferentes etapas da formação humana.",
                     "disciplina1":"HISTÓRIA DA EDUCAÇÃO",
                     "disciplina2":"DIDATICA",
                     "disciplina3":"PEDAGOGIA E ÉTICA PROFISSIONAL",
                     "disciplina4":"METODOLOGIA DA PESQUISA", 
                     "disciplina5":"NEUROCIÊNCIA E APRENDIZAGEM",
                     "tempo":"4",
-                    "grau":"Bacharelado"
+                    "grau":"Licenciatura"
             },
 
                "ciencias-aeronauticas ": {
@@ -404,9 +404,9 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=boaviagem&curso=relações-internacionais",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=boaviagem&curso=relacoes-internacionais",                    
                     "nome":"RELAÇÕES INTERNACIONAIS",
-                    "descrição":"A Graduação em Relações Internacionais forma profissionais preparados para compreender, analisar e atuar nos cenários políticos, econômicos e sociais que envolvem as interações entre países, organizações e atores globais. Com uma formação abrangente e alinhada às demandas atuais do mundo contemporâneo, o aluno aprende sobre política internacional, economia global, diplomacia, direito internacional, negociação e mediação de conflitos, integração regional, geopolítica, organismos internacionais e estratégias de atuação no ambiente global.",
+                    "descricao":"A Graduação em Relações Internacionais forma profissionais preparados para compreender, analisar e atuar nos cenários políticos, econômicos e sociais que envolvem as interações entre países, organizações e atores globais. Com uma formação abrangente e alinhada às demandas atuais do mundo contemporâneo, o aluno aprende sobre política internacional, economia global, diplomacia, direito internacional, negociação e mediação de conflitos, integração regional, geopolítica, organismos internacionais e estratégias de atuação no ambiente global.",
                     "disciplina1":"ECONOMIA E MERCADO GLOBAL",
                     "disciplina2":"ESTUDOS DAS RELAÇÕES INTERNACIONAIS",
                     "disciplina3":"ANTROPOLOGIA,CULTURA E CIVILIZAÇÃO DOS POVOS",
@@ -429,16 +429,16 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"55",
                     "desconto2":"45",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=boaviagem&curso=análise-e-desenvolvimento-de-sistema",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=boaviagem&curso=analise-de-sistemas",                    
                     "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMA",
-                    "descrição":"A Graduação em Análise e Desenvolvimento de Sistemas forma profissionais preparados para compreender, analisar, projetar e implementar soluções tecnológicas que atendam às necessidades de empresas e usuários. Com uma formação prática e alinhada às demandas atuais do mercado de tecnologia, o aluno aprende sobre desenvolvimento de software, lógica de programação, banco de dados, engenharia de software, análise de requisitos, testes e qualidade de sistemas, segurança da informação, arquitetura de aplicações, metodologias ágeis e integração de tecnologias para criação de sistemas eficientes e inovadores.",
+                    "descricao":"A Graduação em Análise e Desenvolvimento de Sistemas forma profissionais preparados para compreender, analisar, projetar e implementar soluções tecnológicas que atendam às necessidades de empresas e usuários. Com uma formação prática e alinhada às demandas atuais do mercado de tecnologia, o aluno aprende sobre desenvolvimento de software, lógica de programação, banco de dados, engenharia de software, análise de requisitos, testes e qualidade de sistemas, segurança da informação, arquitetura de aplicações, metodologias ágeis e integração de tecnologias para criação de sistemas eficientes e inovadores.",
                     "disciplina1":"BANCO DE DADOS",
                     "disciplina2":"CODING",
                     "disciplina3":"EMPREENDEDORISMO",
                     "disciplina4":"SEGURANÇA DA INFORMAÇÃO", 
                     "disciplina5":"ESTRUTURA DE DADOS",
                     "tempo":"2",
-                    "grau":"Bacharelado"
+                    "grau":"Tecnólogo"
             },
 
 
@@ -462,10 +462,11 @@
                     "disciplina4":"PSICOLOGIA DA SAÚDE", 
                     "disciplina5":"FISIOLOGIA HUMANA",
                     "tempo":"4",
-                    "grau":"Saúde"
+                    "grau":"Bacharelado"
 
 
         }
     }
 }
+
 
