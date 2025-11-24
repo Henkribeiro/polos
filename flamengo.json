@@ -83,7 +83,7 @@
                 },
 
                 "biomedicina": {
-                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=biomedicina-noite", 
+                    "checkout-manha": "https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=biomedicina-manha", 
                     "checkout-noite": "https://pay.goexplosion.com/link/uninassau-flamengo?utm_source=graduninassau&utm_campaign=biomedicina-noite",
                     "original-manha": "1.520,46",
                     "original-noite":"1.520,46",
@@ -93,7 +93,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"60",
                     "desconto2":"60",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=flamengo&curso=biomedicina",
+                    "pagina":"https://pay.goexplosion.com/link/uninassau-flamengo-rj?utm_source=graduninassau&utm_campaign=biomedicina-manha",
                     "Nome2":"BIOMEDICINA",
                     "descricao":"A Graduação presencial em Biomedicina oferece uma formação sólida nas áreas de diagnóstico laboratorial, pesquisa científica e análises clínicas. Com infraestrutura de laboratórios modernos e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade e excelência na promoção da saúde, prevenção de doenças e desenvolvimento de tecnologias biomédicas. É ideal para quem busca uma carreira técnica, inovadora e com ampla inserção no mercado de trabalho.",
                     "disciplina1":"EMPREENDEDORISMO",
@@ -566,6 +566,7 @@
             }
 
         }
+
 
 
 
