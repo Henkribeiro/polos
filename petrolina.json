@@ -142,7 +142,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"40",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharia/?unidade=petrolina&curso=engenharia-civil",                    
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=petrolina&curso=engenharia-civil",                    
                     "nome":"ENGENHARIA CIVIL",
                     "descricao":"A Graduação em Engenharia Civil no formato Presencial , é a escolha ideal para quem busca uma carreira de grandes oportunidades. O mercado de energia, automação e tecnologia está em constante expansão e exige profissionais qualificados para desenvolver soluções inovadoras e sustentáveis. Com qualidade , você se prepara para conquistar espaço em um dos setores mais promissores e valorizados da engenharia.",
                     "disciplina1":"FÍSICA DO MOVIMENTO",
@@ -286,7 +286,7 @@
                     "desconto2":"55",
                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=petrolina&curso=nutricao",                    
                     "nome":"NUTRIÇÃO",
-                    "descrição":"A Graduação em Nutrição forma profissionais capacitados para promover a saúde, prevenir doenças e desenvolver práticas alimentares adequadas em diferentes etapas da vida. Com uma formação ampla, prática e alinhada às necessidades atuais do mercado, o aluno aprende sobre avaliação nutricional, bioquímica, microbiologia de alimentos, dietoterapia, nutrição clínica, saúde coletiva, técnicas dietéticas, produção de refeições e gestão em serviços de alimentação.",
+                    "descricao":"A Graduação em Nutrição formam profissionais capacitados para promover a saúde, prevenir doenças e desenvolver práticas alimentares adequadas em diferentes etapas da vida. Com uma formação ampla, prática e alinhada às necessidades atuais do mercado, o aluno aprende sobre avaliação nutricional, bioquímica, microbiologia de alimentos, dietoterapia, nutrição clínica, saúde coletiva, técnicas dietéticas, produção de refeições e gestão em serviços de alimentação.",
                     "disciplina1":"ANATOMIA HUMANA",
                     "disciplina2":"BIOQUÍMICA HUMANA",
                     "disciplina3":"FARMACOLOGIA BÁSICA",
@@ -310,7 +310,7 @@
                     "desconto2":"50",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/tecnologia/?unidade=petrolina&curso=analise-de-sistemas",                    
                     "nome":"ANÁLISE E DESENVOLVIMENTO DE SISTEMA",
-                    "descrição":"A Graduação em Análise e Desenvolvimento de Sistemas forma profissionais preparados para compreender, analisar, projetar e implementar soluções tecnológicas que atendam às necessidades de empresas e usuários. Com uma formação prática e alinhada às demandas atuais do mercado de tecnologia, o aluno aprende sobre desenvolvimento de software, lógica de programação, banco de dados, engenharia de software, análise de requisitos, testes e qualidade de sistemas, segurança da informação, arquitetura de aplicações, metodologias ágeis e integração de tecnologias para criação de sistemas eficientes e inovadores.",
+                    "descricao":"A Graduação em Análise e Desenvolvimento de Sistemas forma profissionais preparados para compreender, analisar, projetar e implementar soluções tecnológicas que atendam às necessidades de empresas e usuários. Com uma formação prática e alinhada às demandas atuais do mercado de tecnologia, o aluno aprende sobre desenvolvimento de software, lógica de programação, banco de dados, engenharia de software, análise de requisitos, testes e qualidade de sistemas, segurança da informação, arquitetura de aplicações, metodologias ágeis e integração de tecnologias para criação de sistemas eficientes e inovadores.",
                     "disciplina1":"BANCO DE DADOS",
                     "disciplina2":"CODING",
                     "disciplina3":"EMPREENDEDORISMO",
@@ -354,7 +354,7 @@
                     "desconto":"50",
                     "desconto2":"55",
                     "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/?unidade=petrolina&curso=educacao-fisica",                    
-                    "Nome":"EDUCAÇÃO FÍSICA",
+                    "nome":"EDUCAÇÃO FÍSICA",
                     "descricao":"O curso de Educação Física (Bacharelado) forma profissionais capacitados para atuar na promoção da saúde, na melhoria do desempenho físico e na qualidade de vida por meio do movimento humano. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias atuais que acompanham as demandas do mercado. Ao concluir a graduação, o bacharel estará apto a atuar em academias, clubes, clínicas, centros esportivos, empresas e projetos sociais, com foco em treinamento, condicionamento físico e bem-estar.",
                     "disciplina1":"ANATOMIA HUMANA",
                     "disciplina2":"SAÚDE COLETIVA",
@@ -447,7 +447,7 @@
                     "desconto2":"50",
                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/?unidade=petrolina&curso=agronomia",                    
                     "nome":"AGRONOMIA",
-                    "descrição":"A Graduação em Agronomia forma profissionais preparados para compreender, analisar, planejar e implementar soluções voltadas ao desenvolvimento sustentável da produção agrícola e ao uso eficiente dos recursos naturais. Com uma formação prática e alinhada às demandas atuais do agronegócio, o aluno aprende sobre manejo de solo e água, fitotecnia, irrigação, fertilidade do solo, proteção de plantas, melhoramento genético, zootecnia básica, tecnologias agrícolas, gestão rural, mecanização agrícola e práticas inovadoras que aumentam a produtividade e a sustentabilidade no campo.",
+                    "descricao":"A Graduação em Agronomia forma profissionais preparados para compreender, analisar, planejar e implementar soluções voltadas ao desenvolvimento sustentável da produção agrícola e ao uso eficiente dos recursos naturais. Com uma formação prática e alinhada às demandas atuais do agronegócio, o aluno aprende sobre manejo de solo e água, fitotecnia, irrigação, fertilidade do solo, proteção de plantas, melhoramento genético, zootecnia básica, tecnologias agrícolas, gestão rural, mecanização agrícola e práticas inovadoras que aumentam a produtividade e a sustentabilidade no campo.",
                     "disciplina1":"BIOESTATÍSTICA",
                     "disciplina2":"CÁLCULO",
                     "disciplina3":"QUÍMICA GERAL",
@@ -468,7 +468,7 @@
                     "documento":"https://uninassauead.goexplosion.com/",
                     "desconto":"40",
                     "desconto2":"55",
-                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharia/?unidade=petrolina&curso=engenharia-mecanica", 
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=petrolina&curso=engenharia-mecanica", 
                     "nome":"ENGENHARIA MECÂNICA",
                     "descricao":"A Graduação em Engenharia Mecânica forma profissionais capacitados para projetar, desenvolver e gerenciar sistemas mecânicos em diferentes setores da indústria. O curso aborda termodinâmica, resistência dos materiais, processos de fabricação, automação e gestão de projetos, preparando o aluno para atuar de forma prática e inovadora. É ideal para quem deseja construir uma carreira sólida na engenharia e contribuir para o avanço tecnológico e industrial.",
                     "disciplina1":"CÁLCULO DIFERENCIAL",
@@ -493,7 +493,7 @@
                     "desconto2":"40",
                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/?unidade=petrolina&curso=logistica",                    
                     "nome":"LOGÍSTICA",
-                    "descrição":"A Graduação em Logística forma profissionais preparados para planejar, administrar e otimizar os fluxos de materiais, informações e serviços ao longo de toda a cadeia de suprimentos. Com uma formação prática e alinhada às necessidades do mercado, o aluno aprende sobre gestão de estoques, armazenagem, transporte, distribuição, logística reversa, cadeia de suprimentos e processos operacionais.",
+                    "descricao":"A Graduação em Logística forma profissionais preparados para planejar, administrar e otimizar os fluxos de materiais, informações e serviços ao longo de toda a cadeia de suprimentos. Com uma formação prática e alinhada às necessidades do mercado, o aluno aprende sobre gestão de estoques, armazenagem, transporte, distribuição, logística reversa, cadeia de suprimentos e processos operacionais.",
                     "disciplina1":"TEORIAS DA ADMINISTRAÇÃO",
                     "disciplina2":"GERENCIAMENTO DE PROJETOS",
                     "disciplina3":"EMPREENDEDORISMO",
@@ -520,7 +520,7 @@
                "disciplina2":"FENÔMENOS TERMOQUÍMICOS", 
                "disciplina3":"ELETRICIDADE E MAGNETISMO", 
                "disciplina4":"SISTEMAS E REDES DE TELECOMUNICAÇÕES",  
-               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO;", 
+               "disciplina5":"ENGENHARIA E SEGURANÇA DO TRABALHO", 
                "tempo":"5", 
                 "grau": "Bacharelado"                   
 
@@ -551,5 +551,4 @@
            
         }
     }
-
 
