@@ -48,7 +48,7 @@
                "documento":"https://uninassauead.goexplosion.com/", 
                "desconto":"50", 
                 "desconto2":"50", 
-               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenhrias/?unidade=vilhena&curso=agronomia", 
+               "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/engenharias/?unidade=vilhena&curso=agronomia", 
                "nome":"AGRONOMIA", 
                "descricao":"O curso de Agronomia forma profissionais preparados para atuar em todas as etapas da produção agrícola, integrando conhecimentos técnicos e científicos para promover eficiência, sustentabilidade e inovação no campo. Reconhecido pelo MEC, o curso oferece uma formação sólida que combina teoria e práticas em áreas como solos, irrigação, manejo de culturas, produção animal, tecnologia agrícola e gestão rural. Ao concluir a graduação, o agrônomo estará apto a atuar em propriedades rurais, indústrias do agronegócio, cooperativas, empresas de insumos, órgãos públicos, consultorias e projetos de pesquisa e desenvolvimento, contribuindo para o aumento da produtividade, a preservação ambiental e o avanço do setor agropecuário.", 
                "disciplina1":"CITOLOGIA", 
@@ -248,7 +248,7 @@
                "disciplina2":"DESIGN CENTRADO NO SER HUMANO", 
                "disciplina3":"LÓGICA DE PROGRAMAÇÃO", 
                "disciplina4":"LÓGICA MATEMÁTICA",  
-               "disciplina5":"SISTEMAS COMPUTACIONAI", 
+               "disciplina5":"SISTEMAS COMPUTACIONAIS", 
                "tempo":"5", 
                "grau": "Bacharelado" 
            }, 
@@ -413,7 +413,7 @@
                "disciplina4":"FARMACOLOGIA APLICADA",  
                "disciplina5":"ANATOMIA HUMANA", 
                "tempo":"3", 
-               "grau": "Superior de Tecnologia" 
+               "grau": "Tecnólogo" 
            },
  
             "radiologia": { 
@@ -435,7 +435,7 @@
                "disciplina4":"MÉTODOS DOSIMÉTRICOS",  
                "disciplina5":"RADIOLOGIA DIGITAL", 
                "tempo":"3", 
-               "grau": "Superior de Tecnologia" 
+               "grau": "Tecnólogo" 
            }
            
 }
@@ -443,4 +443,5 @@
 
  
  
+
  
