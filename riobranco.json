@@ -1,0 +1,233 @@
+{
+    "polo-titulo": "Unidade Rio Branco - AC",
+    "polo-endereco": "Estrada da Floresta 2320 - Floresta Sul",
+    "polo-cidade": " RIO BRANCO - AC - CEP: 69912-443",
+    "polo-telefone1": "+55 (68) 99608-9343",
+    "polo-link": "https://ps.uninassau.edu.br/central-de-matriculas/presencial/?unidade=riobranco",
+    "polo-telefone2": "",
+    "polo-whatsapp": "",
+    "polo-google-gtm": "",
+    "polo-facebook-pixel": "",
+
+    "cursos": {
+                
+                "administracao": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=administracao-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=administracao-noite",
+                    "original-turno1": "1.258,64",
+                    "original-turno2":"1.258,64",
+                    "atual-turno1":"566,39",
+                    "atual-turno2":"566,39",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:f07aa412-96b5-4233-9534-456664bbf03b",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"55",
+                    "desconto2":"55",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/negocios/turma2/?unidade=riobranco&curso=administracao",
+                    "nome":"ADMINISTRAÇÃO",
+                    "descricao":"O curso de Administração da UNINASSAU tem como objetivo formar profissionais capazes de planejar, organizar, dirigir e controlar os recursos organizacionais, contribuindo para o desenvolvimento sustentável das empresas e da sociedade. Com uma abordagem prática e atualizada, o curso prepara os alunos para enfrentar os desafios do mercado de trabalho, promovendo habilidades em liderança, gestão de equipes, análise financeira e estratégias empresariais.",
+                    "disciplina1":"Fundamentos de Administração",
+                    "disciplina2":"Marketing e Vendas",
+                    "disciplina3":"Gestão de Pessoas",
+                    "disciplina4":"Finanças Corporativas", 
+                    "disciplina5":"Planejamento Estratégico",
+                    "tempo":"4",
+                    "grau":"Bacharelado"
+                  
+                },
+
+                "direito": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=direito-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=direito-noite",
+                    "original-turno1": "1.663,45",
+                    "original-turno2":"1.663,45",
+                    "atual-turno1":"665,38",
+                    "atual-turno2":"665,38",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:49f34b9d-72f6-4524-baa2-3908ad0dfa7d",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/turma2/?unidade=riobranco&curso=direito",
+                    "nome":"DIREITO",
+                    "descricao":"O curso de Direito forma profissionais preparados para compreender, interpretar e aplicar as normas jurídicas, promovendo a justiça e a cidadania. Reconhecido pelo MEC, o curso alia formação teórica sólida a práticas jurídicas atualizadas, estimulando o pensamento crítico e a ética profissional. Ao concluir a graduação, o bacharel estará apto a atuar como advogado, consultor jurídico, gestor público ou privado, além de poder seguir carreira em concursos e na magistratura, contribuindo para a construção de uma sociedade mais justa e democrática.",
+                    "disciplina1":"DIREITO DAS OBRIGAÇÕES",
+                    "disciplina2":"TEORIA GERAL DO PROCESSO",
+                    "disciplina3":"DIREITO DO CONSUMIDOR",
+                    "disciplina4":"DIREITO FINANCEIRO", 
+                    "disciplina5":"DIREITO DAS FAMÍLIAS;",
+                    "tempo":"4",
+                    "grau":"Bacharelado"
+                  
+                },
+
+                "educacao-fisica": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=educacao-fisica-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=educacao-fisica-noite",
+                    "original-turno1": "1.580,88",
+                    "original-turno2":"1.580,88",
+                    "atual-turno1":"632,35",
+                    "atual-turno2":"632,35",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2eeee53b-82a7-4d82-8e93-086fe698379f",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/turma2/?unidade=riobranco&curso=educacao-fisica",
+                    "nome":"EDUCAÇÃO FÍSICA",
+                    "descricao":"O curso de Educação Física (Bacharelado) forma profissionais capacitados para atuar na promoção da saúde, na melhoria do desempenho físico e na qualidade de vida por meio do movimento humano. Reconhecido pelo MEC, o curso oferece suporte personalizado e metodologias atuais que acompanham as demandas do mercado. Ao concluir a graduação, o bacharel estará apto a atuar em academias, clubes, clínicas, centros esportivos, empresas e projetos sociais, com foco em treinamento, condicionamento físico e bem-estar.",
+                    "disciplina1":"ANATOMIA HUMANA",
+                    "disciplina2":"SAÚDE COLETIVA",
+                    "disciplina3":"BIOESTATÍSTICA",
+                    "disciplina4":"CINESIOLOGIA E BIOMECÂNICA", 
+                    "disciplina5":"FISIOLOGIA DA ATIVIDADE MOTORA;",
+                    "tempo":"4",
+                    "grau":"Bacharelado"
+                  
+                },
+
+                "enfermagem": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=enfermagem-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=enfermagem-noite",
+                    "original-turno1": "1.580,88",
+                    "original-turno2":"1.580,88",
+                    "atual-turno1":"632,35",
+                    "atual-turno2":"632,35",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ea6e8b1e-dccf-467c-a61e-341fd1518644",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/turma2/?unidade=riobranco&curso=enfermagem",
+                    "nome":"ENFERMAGEM",
+                    "descricao":"A Graduação presencial em Enfermagem oferece uma formação sólida nas áreas de cuidado, promoção da saúde, prevenção de doenças e assistência ao paciente em todas as fases da vida. Com infraestrutura moderna, laboratórios equipados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, empatia e excelência em ambientes hospitalares, unidades básicas de saúde e outras instituições de atenção à saúde. É ideal para quem busca uma carreira humana, essencial e com grande relevância no mercado de trabalho e na sociedade.",
+                    "disciplina1":"ANATOMIA HUMANA",
+                    "disciplina2":"SAÚDE COLETIVA",
+                    "disciplina3":"BIOESTATÍSTICA",
+                    "disciplina4":"FISIOLOGIA HUMANA", 
+                    "disciplina5":"BIOQUÍMICA HUMANA;",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+                  
+                },
+
+                "farmacia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=farmacia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=farmacia-noite",
+                    "original-turno1": "1.580,88",
+                    "original-turno2":"1.580,88",
+                    "atual-turno1":"632,35",
+                    "atual-turno2":"632,35",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:07e52a05-a69b-4fc2-9c59-2d1c33dc0cc8",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/turma2/?unidade=riobranco&curso=farmacia",
+                    "nome":"FARMÁCIA",
+                    "descricao":"A Graduação Presencial em Farmácia prepara profissionais para atuar em diversas áreas, como farmácia clínica, hospitalar, industrial e laboratorial. O curso combina teoria e prática em disciplinas como farmacologia, química, toxicologia e controle de qualidade, formando um farmacêutico ético, crítico e preparado para lidar com os desafios do cuidado à saúde e da indústria farmacêutica. A vivência em laboratórios e estágios amplia a experiência e a empregabilidade do aluno.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
+                    "disciplina4":"PSICOLOGIA EM SAÚDE", 
+                    "disciplina5":"ANATOMIA HUMANA;",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+                  
+                },
+
+                "fisioterapia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=fisioterapia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=fisioterapia-noite",
+                    "original-turno1": "1.738,97",
+                    "original-turno2":"1.738,97",
+                    "atual-turno1":"695,59",
+                    "atual-turno2":"695,59",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ff0acfe6-1305-4681-8258-48794133accb",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/turma2/?unidade=riobranco&curso=fisioterapia",
+                    "nome":"FISIOTERAPIA",
+                    "descricao":"A graduação Presencial em Fisioterapia forma profissionais capacitados para promover a recuperação funcional e a qualidade de vida de pacientes em diferentes contextos. Por meio de aulas teóricas e práticas, o curso oferece uma base completa em anatomia, biomecânica, fisiologia e reabilitação, com estágio supervisionado em clínicas e hospitais. O fisioterapeuta atua na prevenção, tratamento e reabilitação de disfunções do movimento humano, sendo peça essencial em equipes multidisciplinares de saúde.",
+                    "disciplina1":"EMPREENDEDORISMO",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"BIOÉTICA E BIOSSEGURANÇA EM SAÚDE",
+                    "disciplina4":"PSICOLOGIA EM SAÚDE", 
+                    "disciplina5":"ANATOMIA HUMANA;",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+                  
+                },
+
+                "nutricao": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=nutriçao-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=nutriçao-noite",
+                    "original-manha": "1.580,88",
+                    "original-noite": "1.580,88",
+                    "atual-manha":"632,35",
+                    "atual-noite":"632,35",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2b3ef2a5-101b-42d4-a649-0de1cdeb2504",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                   "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/turma2/?unidade=riobranco&curso=nutricao",                    
+                    "nome":"NUTRIÇÃO",
+                    "descrição":"A Graduação em Nutrição forma profissionais capacitados para promover a saúde, prevenir doenças e desenvolver práticas alimentares adequadas em diferentes etapas da vida. Com uma formação ampla, prática e alinhada às necessidades atuais do mercado, o aluno aprende sobre avaliação nutricional, bioquímica, microbiologia de alimentos, dietoterapia, nutrição clínica, saúde coletiva, técnicas dietéticas, produção de refeições e gestão em serviços de alimentação.",
+                    "disciplina1":"ANATOMIA HUMANA",
+                    "disciplina2":"BIOQUÍMICA HUMANA",
+                    "disciplina3":"FARMACOLOGIA BÁSICA",
+                    "disciplina4":"METODOLOGIA DA PESQUISA", 
+                    "disciplina5":"NUTRIÇÃO E DIETÉTICA",
+                    "tempo":"4",
+                    "grau":"Bacharelado"
+            },
+
+            "medicina-veterinaria": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=medicina-veterinaria-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=medicina-veterinaria-noite",
+                    "original-manha": "2.824,55",
+                    "original-noite":"2.824,55",
+                    "atual-manha":"1.129,82",
+                    "atual-noite":"1.129.82",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:593f52e0-3c9d-463d-8651-b9181b74cac9",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                   "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/saude/turma2/?unidade=riobranco&curso=medicina-veterinaria",                    
+                    "nome":"MEDICINA VETERINÁRIA",
+                    "descricao":"A Graduação presencial em Medicina Veterinária oferece uma formação sólida nas áreas de clínica, cirurgia, diagnóstico e prevenção de doenças em animais de pequeno e grande porte. Com infraestrutura moderna, laboratórios especializados e atividades práticas desde os primeiros períodos, o curso prepara o aluno para atuar com responsabilidade, ética e excelência na saúde animal, na saúde pública e no bem-estar dos animais. É ideal para quem busca uma carreira comprometida com a vida, diversa em possibilidades de atuação e em constante crescimento no mercado de trabalho.",
+                    "disciplina1":"BIOESTATÍSTICA",
+                    "disciplina2":"FARMACOLOGIA",
+                    "disciplina3":"EMPREENDEDORISMO",
+                    "disciplina4":"CLÍNICA CIRURGICA VETERINÁRIA", 
+                    "disciplina5":"ANATOMIA DESCRITIVA DOS ANIMAIS DOMÉSTICOS",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+                },
+
+                "psicologia": {
+                    "checkout-manha": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=psicologia-manha",
+                    "checkout-noite": "https://pay.goexplosion.com/link/unama-riobranco-ac?utm_source=graduninassau&utm_campaign=psicologia-noite",
+                    "original-manha": "1.893,12",
+                    "original-noite":"1.893,12",
+                    "atual-manha":"757,25",
+                    "atual-noite":"757,25",
+                    "ementa":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a636633-44f0-4be9-9a54-c299d8aac33c",
+                    "documento":"https://uninassauead.goexplosion.com/",
+                    "desconto":"60",
+                    "desconto2":"60",
+                    "pagina":"https://ps.uninassau.edu.br/central-de-matriculas/presencial/humanas/turma2/?unidade=riobranco&curso=psicologia",                    
+                    "nome":"PSICOLOGIA",
+                    "descricao":"O curso de Psicologia forma profissionais preparados para compreender o comportamento humano, promover saúde mental e contribuir para o bem-estar individual e coletivo. Reconhecido pelo MEC, o curso integra sólida formação teórica a práticas que estimulam a escuta, a análise crítica e a ética profissional. Ao concluir a graduação, o psicólogo estará apto a atuar em clínicas, hospitais, escolas, empresas, projetos sociais e diversas áreas de pesquisa e intervenção, ajudando pessoas e comunidades a superarem desafios e desenvolverem seu potencial.",
+                    "disciplina1":"PSICOLOGIA SOCIAL",
+                    "disciplina2":"EMPREENDEDORISMO",
+                    "disciplina3":"DESENVOLVIMENTO INFANTIL",
+                    "disciplina4":"PSICOLOGIA E EDUCAÇÃO", 
+                    "disciplina5":"PSICOLOGIA DA PERSONALIDADE",
+                    "tempo":"5",
+                    "grau":"Bacharelado"
+
+                }
+
+            
+
+	}
+
+}
+
