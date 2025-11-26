@@ -8,6 +8,7 @@
     "polo-whatsapp": "",
     "polo-google-gtm": "",
     "polo-facebook-pixel": "",
+	"polo-turno1":"Manhã",
 
     "cursos": {
                 
@@ -441,4 +442,5 @@
 	}
 
 }
+
 
