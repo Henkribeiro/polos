@@ -1,0 +1,49 @@
+<script>
+(async () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const unidade = urlParams.get('unidade');
+    const cursoSelecionado = urlParams.get('curso');
+
+    if (!unidade) {
+        console.error('❌ Nenhuma unidade informada na URL.');
+        return;
+    }
+
+    let configs = {};
+
+    try {
+        // Busca o JSON da unidade
+        const response = await fetch(`https://cdn.jsdelivr.net/gh/Henkribeiro/polos@latest/${unidade}.json?nocache=${Date.now()}`);
+        if (!response.ok) throw new Error(`Erro HTTP ${response.status}`);
+        const data = await response.json();
+
+        // Junta dados da unidade com o curso, se houver
+        configs = { ...data, unidade: unidade };
+        if (cursoSelecionado && data.cursos && data.cursos[cursoSelecionado]) {
+            configs.curso = data.cursos[cursoSelecionado];
+        }
+
+        console.log('✅ Dados carregados:', configs);
+    } catch (err) {
+        console.error('❌ Erro ao carregar o JSON:', err);
+        return;
+    }
+
+    // Substitui as chaves {{...}} no HTML
+    const htmlBase = document.body.innerHTML;
+    const htmlAtualizado = htmlBase.replace(/{{([^{}]+)}}/g, (match, key) => {
+        const parts = key.trim().split('.');
+        let value = configs;
+        for (let part of parts) {
+            if (value && typeof value === 'object' && part in value) {
+                value = value[part];
+            } else {
+                return match; // se não achar, mantém o placeholder
+            }
+        }
+        return value;
+    });
+
+    document.body.innerHTML = htmlAtualizado;
+})();
+</script>
